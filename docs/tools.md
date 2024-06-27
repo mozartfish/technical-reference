@@ -5,6 +5,15 @@ nav_order: 1
 ---
 
 # Tools & Engineering & Guides
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Tools
 * [How to Learn D3 in 2023](https://connorrothschild.github.io/v4/viz)
