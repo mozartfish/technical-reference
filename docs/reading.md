@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: books-blogs 
+title: books-blogs-articles
 nav_order: 2
 ---
 
@@ -38,6 +38,18 @@ nav_order: 2
 ### Technical Inteviews
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [Yangshun - Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
+## Magazines & Articles 
+### Magazines
+* [IEEE Spectrum](https://spectrum.ieee.org/)
+* [Wired](https://www.wired.com/)
+
+### Articles
+* [NYT Artificial Intelligence Section](https://www.nytimes.com/spotlight/artificial-intelligence)
+* [New Yorker Annals of Technology](https://www.newyorker.com/tech/annals-of-technology)
+* [New Yorker Annals of Artificial Intelligence](https://www.newyorker.com/science/annals-of-artificial-intelligence)
+* [What is Generative AI](https://spectrum.ieee.org/woebot)
+* [Skills for AI & Machine Learning Engineering](https://spectrum.ieee.org/your-next-great-ai-engineer)
 
 ## Blogs 
 ### Computer Science 
