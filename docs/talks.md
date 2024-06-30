@@ -5,7 +5,6 @@ nav_order: 7
 ---
 
 # Talks 
-
 {: .no_toc }
 
 ## Table of Contents
