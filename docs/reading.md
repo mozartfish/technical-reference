@@ -34,6 +34,7 @@ nav_order: 2
 
 ### Creative Coding 
 * [The Nature of Code](https://nature-of-code-2nd-edition.netlify.app/)
+* [The Book of Shaders](https://thebookofshaders.com/)
 
 ### Technical Inteviews
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
@@ -50,6 +51,7 @@ nav_order: 2
 * [New Yorker Annals of Artificial Intelligence](https://www.newyorker.com/science/annals-of-artificial-intelligence)
 * [What is Generative AI](https://spectrum.ieee.org/woebot)
 * [Skills for AI & Machine Learning Engineering](https://spectrum.ieee.org/your-next-great-ai-engineer)
+* [How machines absorb human associations between words](https://artsandculture.google.com/story/xgVxw84BWGgnLg?hl=en)
 
 ## Blogs 
 ### Computer Science 
