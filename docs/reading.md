@@ -27,10 +27,12 @@ nav_order: 2
 ### Computer Science
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
+* [How to Design Computer Programs](https://htdp.org/)
+* [Programming Languages: Application and Interpretation](https://www.plai.org/)
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
 * [Rust Book](https://rust-book.cs.brown.edu/)
-* [The Raft Consensus Algorithm](https://raft.github.io/)
 
 ### Creative Coding 
 * [The Nature of Code](https://nature-of-code-2nd-edition.netlify.app/)
@@ -40,22 +42,49 @@ nav_order: 2
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [Yangshun - Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
-## Magazines & Articles 
-### Magazines
+## Magazines & News
 * [IEEE Spectrum](https://spectrum.ieee.org/)
 * [Wired](https://www.wired.com/)
-
-### Articles
+* [The NewStack](https://thenewstack.io/)
 * [NYT Artificial Intelligence Section](https://www.nytimes.com/spotlight/artificial-intelligence)
 * [New Yorker Annals of Technology](https://www.newyorker.com/tech/annals-of-technology)
 * [New Yorker Annals of Artificial Intelligence](https://www.newyorker.com/science/annals-of-artificial-intelligence)
+
+## Articles
+### Data: AI, Machine Learning, Data Science
 * [What is Generative AI](https://spectrum.ieee.org/woebot)
 * [Skills for AI & Machine Learning Engineering](https://spectrum.ieee.org/your-next-great-ai-engineer)
+* [Illustrated Guide to Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+### Visualization
+* [How to Learn D3 in 2023](https://connorrothschild.github.io/v4/viz)
+
+### Systems Programming 
+* [The Raft Consensus Algorithm](https://raft.github.io/)
+
+### Programming Languages & Tools 
+#### Golang
+* [Go By Example](https://gobyexample.com/)
+* [Packages, Imports and Modules in Go](https://www.alexedwards.net/blog/an-introduction-to-packages-imports-and-modules)
+
+#### Tools 
+* [Quick and Easy Guide to TMUX](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+* [Latex + Vim](https://castel.dev/post/lecture-notes-1/)
+* [Gradio + HuggingFace Spaces: A Tutorial](<https://www.tanishq.ai/blog/posts/2021-11-16-gradio-huggingface.html>)
+* [Quarto](https://quarto.org/docs/get-started/hello/jupyter.html)
+
+### Engineering
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+* [Students Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
+* [Instructor's Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
+* [Debugging by Pretty Printing](https://blog.josejg.com/debugging-pretty/)
+* [12 Resolutions for Programmers](https://matt.might.net/articles/programmers-resolutions/)
+
+### Creative Technology
 * [How machines absorb human associations between words](https://artsandculture.google.com/story/xgVxw84BWGgnLg?hl=en)
 
 ## Blogs 
 ### Computer Science 
-* [Go By Example](https://gobyexample.com/)
 * [Matt Might Blog](https://matt.might.net/articles/)
 
 ### Visualization
