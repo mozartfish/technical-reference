@@ -33,3 +33,7 @@ nav_order: 7
 
 ## Art + Technology
 * [EYEO Festival Archive](https://vimeo.com/eyeofestival)
+
+## Inspiring Speeches and Life Advice
+* [2024 Dartmouth College Commencement Address by Roger Federer](https://youtu.be/pqWUuYTcG-o?feature=shared)
+* [Utah 50th Annniversary Celebration - Frontiers of Computing by Steven Parker](https://youtu.be/nXwLS5Dkbv8?feature=shared) 
