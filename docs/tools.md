@@ -15,20 +15,46 @@ nav_order: 1
 
 ---
 
-# Things I use (or have used)
-## Data: AI, Machine Learning, Data Analysis
-
-## Programming Languages
-* Python 
-* Golang 
-* JavaScript 
+# Things I use (or have used/tried)
+## Programming Languages 
+* Python
+* Golang
+* JavaScript
 * SQL
 
-## JavaScript Libraries
-* [D3.js](https://d3js.org/)
+## Data: AI/ML, Data Analysis
+## Web Programming: Interaction Programming, Creative Coding
+### Creative Coding 
 * [p5.js](https://p5js.org/)
 
-## Frameworks/Components 
+### Visualization
+* [D3.js](https://d3js.org/)
+
+#### D3
+* [D3-Annotation](https://d3-annotation.susielu.com/)
+* [D3-Legend](https://d3-legend.susielu.com/)
+
+### JavaScript Libraries 
+* [React](https://react.dev/)
+* [Vue](https://vuejs.org/)
+* [Svelte](https://svelte.dev/)
+
+#### React
+* [Mantine](https://mantine.dev/)
+
+#### Vue 
+* [Vuetify](https://vuetifyjs.com/en/)
+
+#### Svelte
+* [Attractions UI](https://illright.github.io/attractions/)
+* [Svelte UI](https://svelteui.dev/)
+
+
+## Tooling 
+### IDES + REPL 
+* [p5.js Web Editor](https://editor.p5js.org/)
+* [Svelte REPL](https://svelte.dev/repl/)
+### Testing
 
 ## Publishing 
 * [Quarto](https://quarto.org/)
