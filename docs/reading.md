@@ -55,6 +55,7 @@ nav_order: 2
 * [What is Generative AI](https://spectrum.ieee.org/woebot)
 * [Skills for AI & Machine Learning Engineering](https://spectrum.ieee.org/your-next-great-ai-engineer)
 * [Illustrated Guide to Transformer](https://jalammar.github.io/illustrated-transformer/)
+* [What is Serverless Machine Learning](https://www.serverless-ml.org/blog/what-is-serverless-machine-learning)
 
 ### Visualization
 * [How to Learn D3 in 2023](https://connorrothschild.github.io/v4/viz)

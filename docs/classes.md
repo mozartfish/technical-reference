@@ -75,6 +75,7 @@ nav_order: 3
 ### MLOps 
 * [Made With ML](https://madewithml.com/)
 * [KTH - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
+* [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course)
 
 ### Computer Architecture 
 * [Utah CS 3810 - Computer Organization](https://users.cs.utah.edu/~rajeev/cs3810/)

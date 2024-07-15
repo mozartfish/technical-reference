@@ -37,3 +37,5 @@ nav_order: 7
 ## Inspiring Speeches and Life Advice
 * [2024 Dartmouth College Commencement Address by Roger Federer](https://youtu.be/pqWUuYTcG-o?feature=shared)
 * [Utah 50th Annniversary Celebration - Frontiers of Computing by Steven Parker](https://youtu.be/nXwLS5Dkbv8?feature=shared) 
+* [Audition Storytime Part 1 - Brie Larson](https://youtu.be/zE3t0gjm2tw?feature=shared)
+* [Audition Storytime Part 2 - Brie Larson](https://youtu.be/t9CcjI0SOcU?feature=shared) 
