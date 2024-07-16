@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: books-blogs-articles
+title: books-blogs-reference-articles
 nav_order: 2
 ---
 

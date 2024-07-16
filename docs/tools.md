@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tools-engineering-guides
+title: tools-reference
 nav_order: 1
 ---
 
@@ -28,7 +28,11 @@ nav_order: 1
 * [p5.js](https://p5js.org/)
 
 ### Visualization
-* [D3.js](https://d3js.org/)
+* [d3.js](https://d3js.org/)
+* [Vega-Altair](https://altair-viz.github.io/)
+* [seaborn](https://seaborn.pydata.org/)
+* [bokeh](https://bokeh.org/)
+* [plotly-python](https://plotly.com/python/)
 
 #### D3
 * [D3-Annotation](https://d3-annotation.susielu.com/)
@@ -54,7 +58,9 @@ nav_order: 1
 ### IDES + REPL 
 * [p5.js Web Editor](https://editor.p5js.org/)
 * [Svelte REPL](https://svelte.dev/repl/)
+
 ### Testing
+* [pyTest](https://docs.pytest.org/en/stable/)
 
 ## Publishing 
 * [Quarto](https://quarto.org/)
