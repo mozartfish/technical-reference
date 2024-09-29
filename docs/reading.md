@@ -17,12 +17,18 @@ nav_order: 2
 
 ## Books 
 ### Data: AI, Machine Learning, Data Science
+#### Data Analysis 
 * [R For Data Science](https://r4ds.hadley.nz/)
-* [Deep Learning for Coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html)
 * [Python For Data Analysis](https://wesmckinney.com/book/)
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
-* [Dive Into Deep Learning](https://d2l.ai/)
+
+#### Mathematical Foundations 
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+#### Deep Learning 
+* [Deep Learning for Coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html)
+* [Dive Into Deep Learning](https://d2l.ai/)
 
 ### Computer Science
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -62,6 +68,7 @@ nav_order: 2
 
 ### Systems Programming 
 * [The Raft Consensus Algorithm](https://raft.github.io/)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ### Programming Languages & Tools 
 #### Golang

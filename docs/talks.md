@@ -26,6 +26,7 @@ nav_order: 7
 ## Data: AI, Machine Learning, Visualization
 * [What's Inside a Generative Artificial-Intelligence Model? And Why Should We Care?](https://youtu.be/1yB81KgjAQ0?feature=shared)
 * [Fernanda Viegas + Martin Wattenberg - Data Visualization for Machine Learning](https://vimeo.com/304131671)
+* [The Gradient Interview with Martin Wattenberg: ML Visualization + Interpretability](https://youtu.be/Tci1hVa_H50?feature=shared)
 * [Behind the Doodle: Celebrating Johann Sebastian Bach](https://youtu.be/XBfYPp6KF2g?feature=shared)
 * [AI Experiments: Visualizing High-Dimensional Space](https://youtu.be/wvsE8jm1GzE?feature=shared)
 * [Jeffrey Heer - Interactive Data Analysis: Visualization and Beyond](https://youtu.be/hsfWtPH2kDg?feature=shared)
@@ -39,3 +40,4 @@ nav_order: 7
 * [Utah 50th Annniversary Celebration - Frontiers of Computing by Steven Parker](https://youtu.be/nXwLS5Dkbv8?feature=shared) 
 * [Audition Storytime Part 1 - Brie Larson](https://youtu.be/zE3t0gjm2tw?feature=shared)
 * [Audition Storytime Part 2 - Brie Larson](https://youtu.be/t9CcjI0SOcU?feature=shared) 
+* [Heidelberg Laureate Portraits: Eric A. Brewer](https://youtu.be/ggR00XsT9Bo?feature=shared)

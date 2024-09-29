@@ -26,6 +26,9 @@ nav_order: 3
 * [StatQuest](https://statquest.org/video-index/)
 
 ## Data: AI, Machine Learning, Data Science, Databases
+### Machine Learning 
+* [KTH DD1420 - Foundations of Machine Learning](https://dd1420.notion.site/DD1420-Lecture-Notes-b555e017345a4119950ce8fd67133275)
+
 ### Data Centric AI
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
 
