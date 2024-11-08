@@ -16,7 +16,7 @@ nav_order: 2
 ---
 
 ## Books 
-### Data: AI, Machine Learning, Data Science
+### AIML
 #### Data Analysis 
 * [R For Data Science](https://r4ds.hadley.nz/)
 * [Python For Data Analysis](https://wesmckinney.com/book/)
@@ -25,6 +25,11 @@ nav_order: 2
 #### Mathematical Foundations 
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+#### Bayesian Inference and Probabilistic Machine Learning 
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 #### Deep Learning 
 * [Deep Learning for Coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html)
