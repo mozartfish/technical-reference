@@ -19,8 +19,8 @@ nav_order: 6
 * [5 tips for getting better at statistics](https://www.youtube.com/watch?v=StSAJIZuqws)
 * [Random Variables](https://www.youtube.com/watch?v=Y9nsL69CwbU) 
 * [Parameters](https://www.youtube.com/watch?v=BDExlZu2Va8)
-* [Bayes Theorem 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM&list=PLZHQObOWTQDN52m7Y21ePrTbvXkPaWVSg&index=22)
 * [Estimators](https://www.youtube.com/watch?v=iAcK2Tve1pw)
+* [Bayes Theorem 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM&list=PLZHQObOWTQDN52m7Y21ePrTbvXkPaWVSg&index=22)
 * [Explaining Probability Distributions](https://youtu.be/k5sbE1_MDwU?feature=shared)
 * [Parametric Families](https://www.youtube.com/watch?v=GOJkxzkN3m0) 
 
