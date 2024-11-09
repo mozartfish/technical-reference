@@ -108,6 +108,7 @@ nav_order: 2
 * [Fernanda & Martin](https://medium.com/@hint_fm)
 * [Connor Rothschild](https://connorrothschild.github.io/v4/post)
 * [Amelia Wattenberger](https://wattenberger.com/)
+* [Answer.ai](https://www.answer.ai)
 
 ### Machine Learning 
 * [Jay Alammar](https://jalammar.github.io/)

@@ -33,8 +33,8 @@ nav_order: 3
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
 
 ### LLMS, Neural Networks
-* [Utah CS 5340 - Natural Language Processing](https://utah-intro-nlp.github.io/#calendar)
-* [Utah CS 6966 - Local Explanations for Deep Learning Models](https://utah-explainability-fall22.github.io/)
+* [Utah CS 5340 - Natural Language Processing](https://www.anamarasovic.com/teaching/)
+* [Utah CS 6966 - Local Explanations for Deep Learning Models](https://www.anamarasovic.com/teaching/)
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 ### Data Science
@@ -66,7 +66,6 @@ nav_order: 3
 
 ### Visualization
 * [Utah CS 6630 - Visualization for Data Science](https://www.dataviscourse.net/2022/index.html)
-* [Utah COMP 5960 - Applied Data Visualization](https://github.com/dataviscourse/2023-applied-vis-lectures/tree/main)
 * [MIT 6/11.C85 - Interactive Data Visualization & Society](https://vis-society.github.io/)
 * [UBC Visualization Analysis And Design](https://youtube.com/playlist?list=PLT4XLHmqHJBfKoeHlmgQYP9c_KMj_dR1I&feature=shared)
 * [UW Future of Scholarly Communication](https://idl.uw.edu/future-scholarly-communication/22au/)

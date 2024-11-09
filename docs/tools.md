@@ -37,6 +37,7 @@ These are things that I have used and want to try again/learn more in depth
 ## Web Programming
 ### Creative Coding 
 * [p5.js](https://p5js.org/)
+
 ### JavaScript Frameworks
 * [Svelte](https://svelte.dev/)
 * [Attractions UI](https://illright.github.io/attractions/)
@@ -66,6 +67,7 @@ Tools and libraries that I've seen used in the AIML + visualization communities 
 ## JavaScript Libraries 
 * [React](https://react.dev/)
 * [Vue](https://vuejs.org/)
+
 ### React
 * [Mantine](https://mantine.dev/)
 ### Vue 
