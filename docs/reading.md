@@ -98,17 +98,18 @@ nav_order: 2
 * [How machines absorb human associations between words](https://artsandculture.google.com/story/xgVxw84BWGgnLg?hl=en)
 
 ## Blogs 
-### Computer Science 
-* [Matt Might Blog](https://matt.might.net/articles/)
+### Machine Learning 
+* [Jay Alammar](https://jalammar.github.io/)
+* [Answer.ai](https://www.answer.ai)
 
-### Visualization
+### Visualization + Creative Coding
 * [Flowing Data](https://flowingdata.com/)
 * [FILWD](https://filwd.substack.com/)
 * [The Art of Insight](https://theartofinsight.substack.com/)
 * [Fernanda & Martin](https://medium.com/@hint_fm)
 * [Connor Rothschild](https://connorrothschild.github.io/v4/post)
 * [Amelia Wattenberger](https://wattenberger.com/)
-* [Answer.ai](https://www.answer.ai)
+* [Open Visualization Academy](https://openvisualizationacademy.org)
 
-### Machine Learning 
-* [Jay Alammar](https://jalammar.github.io/)
+### Computer Science 
+* [Matt Might Blog](https://matt.might.net/articles/)

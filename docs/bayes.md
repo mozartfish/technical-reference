@@ -15,7 +15,7 @@ nav_order: 6
 
 ---
 
-## Background 
+## Probability Background - Bayesian Perspective
 * [5 tips for getting better at statistics](https://www.youtube.com/watch?v=StSAJIZuqws)
 * [Random Variables](https://www.youtube.com/watch?v=Y9nsL69CwbU) 
 * [Parameters](https://www.youtube.com/watch?v=BDExlZu2Va8)
@@ -24,7 +24,7 @@ nav_order: 6
 * [Explaining Probability Distributions](https://youtu.be/k5sbE1_MDwU?feature=shared)
 * [Parametric Families](https://www.youtube.com/watch?v=GOJkxzkN3m0) 
 
-## Bayesian Statistics and Inference Background 
+## Bayesian Statistics and Inference - Introduction
 * [The better way to do statistics - Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=3jP4H0kjtng)
 * [Introduction to Bayesian Inference](https://www.youtube.com/watch?v=hMerhyG1JFs&list=PLD0F06AA0D2E8FFBA&index=35)
 * [Generative Processes](https://www.youtube.com/watch?v=2jB5x_q3oX0&list=PLD0F06AA0D2E8FFBA&index=87)
