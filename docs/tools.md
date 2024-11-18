@@ -21,11 +21,13 @@ nav_order: 1
 * Golang - occasionally for fun - want to get back to it at some point
 * SQL - haven't used in a long time 
 
-## Data Libraries + tools
-* numpy 
-* sckit-learn 
-* matplotlib 
-* jupyter lab 
+## Data Libraries + Tools
+These are libraries that I make sure to have installed for every project. I use conda for managing environments and package installation. Other alternatives include pip and [pyenv-virtualenv](https://jakobj.dev/posts/pyenv/#installation) 
+* [numpy](https://numpy.org) - [installation](https://numpy.org/install/) 
+* [scipy]() - [installation](https://scipy.org/install/)
+* [sckit-learn](https://scipy.org/) - [installation](https://scikit-learn.org/stable/install.html) 
+* [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/install/index.html)
+* [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
 
 ## Publishing + Writing
 * [Quarto](https://quarto.org/)
@@ -45,7 +47,6 @@ These are things that I have used and want to try again/learn more in depth
 
 ## Visualization 
 * [d3.js](https://d3js.org/)
-* [seaborn](https://seaborn.pydata.org/)
 
 # Other tools 
 Tools and libraries that I've seen used in the AIML + visualization communities that people may find interesting that I don't have time to learn.
