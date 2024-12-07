@@ -55,6 +55,8 @@ nav_order: 7
 * [Utah CS 3190 - Foundations of Data Analysis](https://users.cs.utah.edu/~jeffp/teaching/FoDA.html)
 
 ## Programming 
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Python for Data Analysis](https://wesmckinney.com/book/)
 
 
 
