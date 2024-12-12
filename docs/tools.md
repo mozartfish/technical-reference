@@ -14,7 +14,8 @@ nav_order: 1
 {:toc}
 
 ---
-# Things I am currently using (as of November 2024)
+# Things I am currently using (as of December 2024)
+
 ## Programming Languages 
 * Python - main language for ml stuff these days
 * JavaScript - occasionally for fun
@@ -23,22 +24,23 @@ nav_order: 1
 
 ## Data Libraries + Tools
 These are libraries that I make sure to have installed for every project. I use conda for managing environments and package installation. Other alternatives include pip and [pyenv-virtualenv](https://jakobj.dev/posts/pyenv/#installation) 
-
-### Machine Learning 
 * [numpy](https://numpy.org) - [installation](https://numpy.org/install/) 
 * [scipy]() - [installation](https://scipy.org/install/)
 * [sckit-learn](https://scipy.org/) - [installation](https://scikit-learn.org/stable/install.html) 
 * [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/install/index.html)
 * [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
 
-### Bayesian Modeling + Inference 
+## Bayesian Modeling + Inference 
+These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. 
 * [pystan](https://pystan.readthedocs.io/en/latest/) - [installation](https://pystan.readthedocs.io/en/latest/installation.html)
 * [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
 
-### Visualization Libraries 
+## Visualization Libraries + Tools
+The python visualization ecosystem is fragmented and the correct plotting library depends on the use case. Many of them build off of matplotlib which is the defacto python visualization library that can even support 3d plots/conic sections etc. Seaborn is great for statistical graphs with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easier to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
 * [seaborn](https://seaborn.pydata.org) - [installation](https://seaborn.pydata.org/installing.html)
 * [plotly](https://plotly.com/python/) - [installation](https://plotly.com/python/getting-started/#installation)
 * [altair](https://altair-viz.github.io) - [installation](https://altair-viz.github.io/getting_started/installation.html)
+* [bokeh](https://bokeh.org/) - [installation](https://docs.bokeh.org/en/latest/docs/first_steps/installation.html)
 
 ## Publishing + Writing
 * [Quarto](https://quarto.org/)
@@ -65,12 +67,6 @@ Tools and libraries that I've seen used in the AIML + visualization communities 
 * [ml5.js](https://ml5js.org/)
 * [openFrameworks](https://openframeworks.cc/)
 * [cinder](https://libcinder.org/)
-
-## Visualization
-* [Vega-Altair](https://altair-viz.github.io/)
-* [seaborn](https://seaborn.pydata.org/)
-* [bokeh](https://bokeh.org/)
-* [plotly-python](https://plotly.com/python/)
 
 ### D3 Visualization tools
 * [D3-Annotation](https://d3-annotation.susielu.com/)
