@@ -23,11 +23,22 @@ nav_order: 1
 
 ## Data Libraries + Tools
 These are libraries that I make sure to have installed for every project. I use conda for managing environments and package installation. Other alternatives include pip and [pyenv-virtualenv](https://jakobj.dev/posts/pyenv/#installation) 
+
+### Machine Learning 
 * [numpy](https://numpy.org) - [installation](https://numpy.org/install/) 
 * [scipy]() - [installation](https://scipy.org/install/)
 * [sckit-learn](https://scipy.org/) - [installation](https://scikit-learn.org/stable/install.html) 
 * [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/install/index.html)
 * [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
+
+### Bayesian Modeling + Inference 
+* [pystan](https://pystan.readthedocs.io/en/latest/) - [installation](https://pystan.readthedocs.io/en/latest/installation.html)
+* [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
+
+### Visualization Libraries 
+* [seaborn](https://seaborn.pydata.org) - [installation](https://seaborn.pydata.org/installing.html)
+* [plotly](https://plotly.com/python/) - [installation](https://plotly.com/python/getting-started/#installation)
+* [altair](https://altair-viz.github.io) - [installation](https://altair-viz.github.io/getting_started/installation.html)
 
 ## Publishing + Writing
 * [Quarto](https://quarto.org/)
