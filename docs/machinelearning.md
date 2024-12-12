@@ -42,14 +42,15 @@ nav_order: 7
 * [3Blue1Brown Central Limit Theorem and the Gaussian Distribution](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&feature=shared)
 * [Explaining Probability Distributions](https://youtu.be/k5sbE1_MDwU?feature=shared)
 * [Parametric Families](https://www.youtube.com/watch?v=GOJkxzkN3m0) 
-#### Bayesian Perspective
+#### Bayesian Statistics 
 * [3Blue1Brown Bayes Theorem](https://youtu.be/HZGCoVF3YvM?feature=shared)
-* [The better way to do statistics - Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=3jP4H0kjtng)
 * [3Blue1Brown Probability of Probabilities](https://youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&feature=shared) 
+* [The better way to do statistics - Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=3jP4H0kjtng)
+* [A student's guide to Bayesian Statistics](https://youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG&feature=shared)
 
 ### Linear Algebra 
-* [MIT 18.06 Linear Algebra](https://github.com/mitmath/1806)
 * [3Blue1Brown Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&feature=shared)
+* [MIT 18.06 Linear Algebra](https://github.com/mitmath/1806)
 
 ### Mathematics of Machine Learning, Data Science and Big Data 
 * [Utah CS 3190 - Foundations of Data Analysis](https://users.cs.utah.edu/~jeffp/teaching/FoDA.html)
@@ -59,13 +60,14 @@ nav_order: 7
 * [Python for Data Analysis](https://wesmckinney.com/book/)
 
 
-
 ## Machine Learning Fundamentals 
 ### Machine Learning 
 * [KTH DD1420 - Foundations of Machine Learning](https://dd1420.notion.site/DD1420-Lecture-Notes-b555e017345a4119950ce8fd67133275)
-### Bayesian Modeling and Inference 
-* [A student's guide to Bayesian Statistics](https://youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG&feature=shared)
+### Probabilistic Machine Learning  
 * [Machine Learning](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA&feature=shared)
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 
 ## Machine Learning Subfields 
 ### Artificial Intelligence 
