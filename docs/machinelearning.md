@@ -35,13 +35,13 @@ nav_order: 7
 * [Random Variables](https://www.youtube.com/watch?v=Y9nsL69CwbU) 
 * [Parameters](https://www.youtube.com/watch?v=BDExlZu2Va8)
 * [Estimators](https://www.youtube.com/watch?v=iAcK2Tve1pw)
+* [Explaining Probability Distributions](https://youtu.be/k5sbE1_MDwU?feature=shared)
+* [Parametric Families](https://www.youtube.com/watch?v=GOJkxzkN3m0) 
 #### Probability and Statistics for Machine Learning 
 * [Probability Must-Knows for Machine Learning-Math for ML Part 1](https://youtu.be/oyyFpAwyt6w?feature=shared)
 * [Statistics: Sampling and Describing Data-Math for ML Part 2](https://youtu.be/M2S_9lyRMvo?feature=shared)
 * [Random Variables and Normal Distributions-Math for Machine Learning Part 3](https://youtu.be/BsV5k-80MJQ?feature=shared)
 * [3Blue1Brown Central Limit Theorem and the Gaussian Distribution](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&feature=shared)
-* [Explaining Probability Distributions](https://youtu.be/k5sbE1_MDwU?feature=shared)
-* [Parametric Families](https://www.youtube.com/watch?v=GOJkxzkN3m0) 
 #### Bayesian Statistics 
 * [3Blue1Brown Bayes Theorem](https://youtu.be/HZGCoVF3YvM?feature=shared)
 * [3Blue1Brown Probability of Probabilities](https://youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&feature=shared) 
