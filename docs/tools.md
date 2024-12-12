@@ -18,8 +18,9 @@ nav_order: 1
 
 ## Programming Languages 
 * Python - main language for ml stuff these days
-* JavaScript - occasionally for fun
 * Golang - occasionally for fun - want to get back to it at some point
+* Java - slowly getting back into this - very important for data engineering (hadoop, spark, scala, big data processing). thought I'd never never have to write java again after CS 1410 and CS 2420 at Utah
+* JavaScript - occasionally for fun and vis work. on my list to revist to understand how to actually use events for svelte applications
 * SQL - haven't used in a long time 
 
 ## Data Libraries + Tools
