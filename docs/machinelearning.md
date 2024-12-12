@@ -28,7 +28,7 @@ nav_order: 7
 * [3Blue1Brown Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&feature=shared)
 
 ### Probability 
-### Advice 
+#### Advice 
 * [5 tips for getting better at statistics](https://www.youtube.com/watch?v=StSAJIZuqws) 
 #### Fundamentals 
 * [Utah CS 3130 - Probability and Statistics for Engineers](https://users.cs.utah.edu/~jeffp/teaching/ProbStats-S23.html)
