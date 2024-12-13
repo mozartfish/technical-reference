@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: talks
-nav_order: 7
+nav_order: 2
 ---
 
 # Talks 
@@ -14,7 +14,6 @@ nav_order: 7
 {:toc}
 
 ---
-
 ## Documentaries
 * [React.js: The Documentary](https://youtu.be/8pDqJVdNa44?feature=shared)
 * [GraphQL: The Documentary](https://youtu.be/783ccP__No8?feature=shared)
@@ -34,6 +33,7 @@ nav_order: 7
 
 ## Art + Technology
 * [EYEO Festival Archive](https://vimeo.com/eyeofestival)
+* [Strange Loop Archive](https://thestrangeloop.com)
 
 ## Inspiring Speeches and Life Advice
 * [2024 Dartmouth College Commencement Address by Roger Federer](https://youtu.be/pqWUuYTcG-o?feature=shared)
@@ -41,3 +41,10 @@ nav_order: 7
 * [Audition Storytime Part 1 - Brie Larson](https://youtu.be/zE3t0gjm2tw?feature=shared)
 * [Audition Storytime Part 2 - Brie Larson](https://youtu.be/t9CcjI0SOcU?feature=shared) 
 * [Heidelberg Laureate Portraits: Eric A. Brewer](https://youtu.be/ggR00XsT9Bo?feature=shared)
+
+## Advent of Code 
+* [HyperNeutrino Advent of Code](https://www.youtube.com/@hyper-neutrino)
+
+## Personal Finance 
+* [Khan Academy Financial Literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)
+* [Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)

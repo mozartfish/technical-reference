@@ -1,7 +1,7 @@
 ---
 layout: default
 title: tools-reference
-nav_order: 1
+nav_order: 3
 ---
 
 # Tools
@@ -32,12 +32,12 @@ These are libraries that I make sure to have installed for every project. I use 
 * [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
 
 ## Bayesian Modeling + Inference 
-These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. 
+These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but want to try them at some point with Ben Lambert's tutorials
 * [pystan](https://pystan.readthedocs.io/en/latest/) - [installation](https://pystan.readthedocs.io/en/latest/installation.html)
 * [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
 
 ## Visualization Libraries + Tools
-The python visualization ecosystem is fragmented and the correct plotting library depends on the use case. Many of them build off of matplotlib which is the defacto python visualization library that can even support 3d plots/conic sections etc. Seaborn is great for statistical graphs with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easier to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
+The python visualization ecosystem is fragmented and choosing the right visualization library depends on the project and audience . Many of the python visualization libraries build off of matplotlib. Matpotlib while tedious is super power powerful and versatile, with the ability to render interactive 3d plots, conic sections and do image processing work. Seaborn is great for statistical charts with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easy to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
 * [seaborn](https://seaborn.pydata.org) - [installation](https://seaborn.pydata.org/installing.html)
 * [plotly](https://plotly.com/python/) - [installation](https://plotly.com/python/getting-started/#installation)
 * [altair](https://altair-viz.github.io) - [installation](https://altair-viz.github.io/getting_started/installation.html)
@@ -62,7 +62,7 @@ These are things that I have used and want to try again/learn more in depth
 ## Visualization 
 * [d3.js](https://d3js.org/)
 
-# Other tools 
+# Other tools Part 1 
 Tools and libraries that I've seen used in the AIML + visualization communities that people may find interesting that I don't have time to learn.
 ## Creative Coding  
 * [ml5.js](https://ml5js.org/)
@@ -82,8 +82,7 @@ Tools and libraries that I've seen used in the AIML + visualization communities 
 ### Vue 
 * [Vuetify](https://vuetifyjs.com/en/)
 
-
-# Other Tools
+# Other Tools Part 2 
 ## IDES + REPL 
 * [p5.js Web Editor](https://editor.p5js.org/)
 * [Svelte REPL](https://svelte.dev/repl/)

@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: books-articles-blogs
-nav_order: 2
+nav_order: 1
 ---
 
 # Books, Articles, Blogs 
@@ -72,9 +72,14 @@ nav_order: 2
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 * [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [MySQL](https://www.mysqltutorial.org/)
+* [MariaDB](https://www.mariadbtutorial.com/)
+* [Postgres](https://www.postgresqltutorial.com/)
+* [SQLServer](https://www.sqlservertutorial.net/)
 ### Technical Inteviews
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [Yangshun - Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+* [Neetcode](https://neetcode.io/)
 
 ## Magazines & News
 * [IEEE Spectrum](https://spectrum.ieee.org/)
@@ -92,6 +97,7 @@ nav_order: 2
 * [What is Serverless Machine Learning](https://www.serverless-ml.org/blog/what-is-serverless-machine-learning)
 * [Machine Learing Engineering Fundamentals](https://huyenchip.com/mlops/#ml_engineering_fundamentals)
 * [Distill Publications](https://distill.pub/)
+* [ML-Explain Machine Learning and Artificial Intelligence Articles](https://mlu-explain.github.io/)
 ### Visualization
 * [How to Learn D3 in 2023](https://connorrothschild.github.io/v4/viz)
 ### Systems Programming 
@@ -119,10 +125,11 @@ nav_order: 2
 * [Chip Huyen](https://huyenchip.com/blog/)
 * [Flowing Data](https://flowingdata.com/)
 * [Fernanda Viegas & Martin Wattenberg](https://medium.com/@hint_fm)
+* [Lilian Weng](https://lilianweng.github.io)
 * [Matt Might](https://matt.might.net/articles/)
 * [John Regehr](https://blog.regehr.org/)
 * [Connor Rothschild](https://connorrothschild.github.io/v4/post)
-* [Answer.ai](https://www.answer.ai)
+* [answer.ai](https://www.answer.ai)
 * [Open Visualization Academy](https://openvisualizationacademy.org)
 * [Money Diaries](https://www.refinery29.com/en-us/money-diary)
 * [The Receipt](https://www.bonappetit.com/misc/the-receipt)
