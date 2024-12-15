@@ -85,7 +85,6 @@ nav_order: 4
 * [Utah CS 5340 - Natural Language Processing](https://www.anamarasovic.com/teaching/) 
 * [Utah CS 6140 - Data Mining Spring 2023](https://utah-data-mining-spring23.github.io/)
 * [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
-* [A Hacker's Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 ### Image Analysis and Computer Vision 
 * [Hany Farid Computer Vision Lectures](https://youtube.com/playlist?list=PLhwIOYE-ldwL6h-peJADfNm8bbO3GlKEy&feature=shared)
 ### Human-AI Interaction - Visualization, Creative Coding, Interaction Programming 

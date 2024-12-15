@@ -23,9 +23,10 @@ nav_order: 1
 * [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit)
 * A Student's Guide to Bayesian Statistics
 * Probability and Statistics for Engineering and the Sciences
-#### Mathematics for Data Science 
+#### Mathematics for Data Analysis (Machine Learning, Data Science, Big Data)
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
+* The StatQuest Illustrated Guide To Machine Learning 
 ### Artificial Intelligence and Machine Learning
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
@@ -34,6 +35,7 @@ nav_order: 1
 * [Dive Into Deep Learning](https://d2l.ai/)
 * [Deep Learning](https://www.deeplearningbook.org)
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 ### Computer Science 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
@@ -123,6 +125,7 @@ nav_order: 1
 * [Amelia Wattenberger](https://wattenberger.com/)
 * [The Sephist](https://thesephist.com)
 * [Chip Huyen](https://huyenchip.com/blog/)
+* [StatQuest](https://statquest.org/)
 * [Flowing Data](https://flowingdata.com/)
 * [Fernanda Viegas & Martin Wattenberg](https://medium.com/@hint_fm)
 * [Lilian Weng](https://lilianweng.github.io)

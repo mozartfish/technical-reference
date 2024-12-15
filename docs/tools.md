@@ -31,7 +31,7 @@ These are libraries that I make sure to have installed for every project. I use 
 * [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/install/index.html)
 * [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
 
-## Bayesian Modeling + Inference 
+## Bayesian Modeling + Inference Tools
 These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but want to try them at some point with Ben Lambert's tutorials
 * [pystan](https://pystan.readthedocs.io/en/latest/) - [installation](https://pystan.readthedocs.io/en/latest/installation.html)
 * [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
@@ -47,9 +47,18 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 * [Quarto](https://quarto.org/)
 * [Typst](https://typst.app/)
 
-# List of tools 
-These are things that I have used and want to try again/learn more in depth 
+## Engineering 
+### Development 
+* [TMux](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 
+## Prototyping 
+* [p5.js Web Editor](https://editor.p5js.org/)
+* [Svelte REPL](https://svelte.dev/repl/)
+## Testing
+* [pyTest](https://docs.pytest.org/en/stable/)
+
+# List of tools 
+These are things that I have used and want have used in the past that I want to pick up again or learn more about for certain domains.
 ## Web Programming
 ### Creative Coding 
 * [p5.js](https://p5js.org/)
@@ -62,7 +71,7 @@ These are things that I have used and want to try again/learn more in depth
 ## Visualization 
 * [d3.js](https://d3js.org/)
 
-# Other tools Part 1 
+# Other tools
 Tools and libraries that I've seen used in the AIML + visualization communities that people may find interesting that I don't have time to learn.
 ## Creative Coding  
 * [ml5.js](https://ml5js.org/)
@@ -82,13 +91,9 @@ Tools and libraries that I've seen used in the AIML + visualization communities 
 ### Vue 
 * [Vuetify](https://vuetifyjs.com/en/)
 
-# Other Tools Part 2 
-## IDES + REPL 
-* [p5.js Web Editor](https://editor.p5js.org/)
-* [Svelte REPL](https://svelte.dev/repl/)
 
-## Testing
-* [pyTest](https://docs.pytest.org/en/stable/)
+
+
 
 
 
