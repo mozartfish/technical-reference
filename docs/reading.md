@@ -92,6 +92,12 @@ nav_order: 1
 * [New Yorker Annals of Artificial Intelligence](https://www.newyorker.com/science/annals-of-artificial-intelligence)
 
 ## Articles
+### Math 
+* [SVD In Action](https://www.bewitched.com/demo/svd/)
+* [Visual Taylor Series](https://www.bewitched.com/demo/taylor/taylor.html)
+* [Gini In a Bottle](https://www.bewitched.com/demo/gini/)
+* [Fractional Butterfly Collection](https://www.bewitched.com/demo/fractions/)
+* [Riffing on Riffling](https://www.bewitched.com/demo/shuffle/)
 ### Data: AI, Machine Learning, Data Science
 * [What is Generative AI](https://spectrum.ieee.org/woebot)
 * [Skills for AI & Machine Learning Engineering](https://spectrum.ieee.org/your-next-great-ai-engineer)
