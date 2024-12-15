@@ -50,11 +50,10 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 ## Engineering 
 ### Development 
 * [TMux](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-
-## Prototyping 
+### Prototyping 
 * [p5.js Web Editor](https://editor.p5js.org/)
 * [Svelte REPL](https://svelte.dev/repl/)
-## Testing
+### Testing
 * [pyTest](https://docs.pytest.org/en/stable/)
 
 # List of tools 
