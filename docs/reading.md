@@ -105,7 +105,7 @@ nav_order: 1
 ### Systems Programming 
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
-* [Packages, Imports and Modules in Go](https://www.alexedwards.net/blog/an-introduction-to-packages-imports-and-modules)=
+* [Packages, Imports and Modules in Go](https://www.alexedwards.net/blog/an-introduction-to-packages-imports-and-modules)
 ### Tools 
 * [Quick and Easy Guide to TMUX](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 * [Gradio + HuggingFace Spaces: A Tutorial](<https://www.tanishq.ai/blog/posts/2021-11-16-gradio-huggingface.html>)
