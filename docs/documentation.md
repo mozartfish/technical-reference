@@ -19,6 +19,7 @@ Before LLMS, one of my professors recommended always having documentation and st
 
 ## Engineering 
 * [How to run x86 python software on ARM](https://stackoverflow.com/questions/71691598/how-to-run-python-as-x86-with-rosetta2-on-arm-macos-machine)
+* [Conda Cheatsheet](https://docs.conda.io/projects/conda/en/stable/user-guide/cheatsheet.html)
 
 ## Programming Languages 
 ### Python 
