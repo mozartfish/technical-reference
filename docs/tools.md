@@ -78,28 +78,28 @@ As for what framework I want to try - I would love to try svelte because it seem
 * [Attractions UI](https://illright.github.io/attractions/)
 * [Svelte UI](https://svelteui.dev/)
 
-## Visualization 
+### Visualization 
 D3 - a library that has caused many ups and down for me but still I am excited about its capabilities. This is highly opinionated but D3 is done. Svelte, JavaScript, charting libraries(chart.js) and frontend engineering have slowly taken and improved D3's magic to the point that you can actually implement many features with the Canvas API, CSS, and frameworks. D3 was built for the 2009-2021 era but now the api design seems stuck in time as it clashes with frameworks that need to utilize its capabilities. To that end, with some engineering tricks and staring at the source code it is possible to integrate d3 into a framework project but it is now treated more as a module library. I still want to revist it but maybe after I get a firm understanding of javascript fundamentals with svelte, canvas, p5.js. 
 * [d3.js](https://d3js.org/)
-### D3 extensions 
+#### D3 extensions 
 * [D3-Annotation](https://d3-annotation.susielu.com/)
 * [D3-Legend](https://d3-legend.susielu.com/)
 
-# Other tools
+## Other tools
 Tools and libraries that I've seen used in the AIML + visualization communities that people may find interesting that I don't have time to learn.
 
-## Creative Coding  
+### Creative Coding  
 * [ml5.js](https://ml5js.org/)
 * [openFrameworks](https://openframeworks.cc/)
 * [cinder](https://libcinder.org/)
 
-## JavaScript Libraries and Frameworks 
-### React 
+### JavaScript Libraries and Frameworks 
+#### React 
 * [React](https://react.dev/)
 * [next.js](https://nextjs.org/)
-#### React Components 
+##### React Components 
 * [Mantine](https://mantine.dev/)
-### Vue 
+#### Vue 
 * [Vue](https://vuejs.org/)
-#### Vue Components 
+##### Vue Components 
 * [Vuetify](https://vuetifyjs.com/en/)
