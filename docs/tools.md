@@ -56,7 +56,7 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 ### Testing
 * [pyTest](https://docs.pytest.org/en/stable/)
 
-## Things I want to learn more about in 2025
+# Things I want to learn more about in 2025
 These are things I want to learn more about in 2025 related to python development and machine learning
 * [tqdm](https://tqdm.github.io/)
 * [rich](https://rich.readthedocs.io/en/stable/introduction.html) 
@@ -64,42 +64,42 @@ These are things I want to learn more about in 2025 related to python developmen
 * [pydantic](https://docs.pydantic.dev/latest/)
 * [ruff](https://docs.astral.sh/ruff/)
 
-## Things I wish I had time to explore and learn more about
+# Things I wish I had time to explore and learn more about
 These are things that I wish I had time to learn more about. Hopefully I'll get a chance to use them with machine learning at some point. 
-### Creative Coding 
+## Creative Coding 
 I first heard about this at the EYEO Festival. I started with Dan Shiffman's [Coding Train](https://thecodingtrain.com/) but shifted to Kevin Workman's [Happy Coding](https://happycoding.io/) and then stopped. It was a lot of fun to use p5 and it explained some of the javascript quirks I struggled with. After seeing all the cool stuff put out by Martin Wattenberg, Golan Levin, Ravi Chugh, and Andrew McNutt I want to pick it up again and try to implement some of the projects from Code as a Creative Medium. 
 * [p5.js](https://p5js.org/)
-### JavaScript Frameworks
+## JavaScript Frameworks
 Not learning a JS framework was the biggest regret I had from my Utah days and I think part of the reason why I had to give up on visualization engineering. For choosing a framework, it really depends on how well you know javascript and in my personal opinion understanding the difference between imperative and declarative programming (see the framework documentaries in the talks page). Now that I am pursuing machine learning its easy to get distracted about frontend and fullstack engineering but after seeing the work of [Jay Wang](https://zijie.wang/) and [Catherine Yeh](https://catherinesyeh.github.io/) I'm inspired to actually try again.
 
 As for what framework I want to try - I would love to try svelte because it seems more welcoming than React and I still have bad memories of working with vue and d3 though I would be open to learning vue since both vue and svelte are popular in the ml-vis space. 
 * [Svelte](https://svelte.dev/)
-#### Svelte Component Libaries
+### Svelte Component Libaries
 * [Attractions UI](https://illright.github.io/attractions/)
 * [Svelte UI](https://svelteui.dev/)
 
-### Visualization 
+## Visualization 
 D3 - a library that has caused many ups and down for me but still I am excited about its capabilities. This is highly opinionated but D3 is done. Svelte, JavaScript, charting libraries(chart.js) and frontend engineering have slowly taken and improved D3's magic to the point that you can actually implement many features with the Canvas API, CSS, and frameworks. D3 was built for the 2009-2021 era but now the api design seems stuck in time as it clashes with frameworks that need to utilize its capabilities. To that end, with some engineering tricks and staring at the source code it is possible to integrate d3 into a framework project but it is now treated more as a module library. I still want to revist it but maybe after I get a firm understanding of javascript fundamentals with svelte, canvas, p5.js. 
 * [d3.js](https://d3js.org/)
-#### D3 extensions 
+### D3 extensions 
 * [D3-Annotation](https://d3-annotation.susielu.com/)
 * [D3-Legend](https://d3-legend.susielu.com/)
 
-## Other tools
+# Other tools
 Tools and libraries that I've seen used in the AIML + visualization communities that people may find interesting that I don't have time to learn.
 
-### Creative Coding  
+## Creative Coding  
 * [ml5.js](https://ml5js.org/)
 * [openFrameworks](https://openframeworks.cc/)
 * [cinder](https://libcinder.org/)
 
-### JavaScript Libraries and Frameworks 
-#### React 
+## JavaScript Libraries and Frameworks 
+### React 
 * [React](https://react.dev/)
 * [next.js](https://nextjs.org/)
-##### React Components 
+#### React Components 
 * [Mantine](https://mantine.dev/)
-#### Vue 
+### Vue 
 * [Vue](https://vuejs.org/)
-##### Vue Components 
+#### Vue Components 
 * [Vuetify](https://vuetifyjs.com/en/)
