@@ -91,6 +91,9 @@ D3 - a library that has caused many ups and down for me but still I am excited a
 * [D3-Annotation](https://d3-annotation.susielu.com/)
 * [D3-Legend](https://d3-legend.susielu.com/)
 
+# Random 
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
+
 # Other tools
 Tools and libraries that I've seen used in the AIML + visualization communities that people may find interesting that I don't have time to learn.
 
