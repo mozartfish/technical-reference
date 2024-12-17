@@ -47,6 +47,12 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 * [Quarto](https://quarto.org/)
 * [Typst](https://typst.app/)
 
+## LLMs 
+LLMs are now ubiquitous and I highly recommend experimenting with one. As a student, I don't know if its worth paying for a subscription(they are super expensive on a student budget - equivalent to a streaming subscription!! and there are no discounts with github studentpack) but I find using a combination of ChatGPT, Claude and Gemini to be highly effective since each tool has its own pros and cons - Claude is really good at generating code examples and explaining code, Gemini is great for exploring ideas and has unlimited photo upload, and ChatGPT has a really nice UI for math equations. Other ones I haven't tried are [Perplexity](https://www.perplexity.ai/), [Khanmingo](https://www.khanmigo.ai/learners). 
+* [ChatGPT](https://chatgpt.com/)
+* [Claude](https://claude.ai/)
+* [Gemini](https://gemini.google.com/)
+
 ## Engineering 
 ### Development 
 * [TMux](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
@@ -72,7 +78,7 @@ I first heard about this at the EYEO Festival. I started with Dan Shiffman's [Co
 ## JavaScript Frameworks
 Not learning a JS framework was the biggest regret I had from my Utah days and I think part of the reason why I had to give up on visualization engineering. For choosing a framework, it really depends on how well you know javascript and in my personal opinion understanding the difference between imperative and declarative programming (see the framework documentaries in the talks page). Now that I am pursuing machine learning its easy to get distracted about frontend and fullstack engineering but after seeing the work of [Jay Wang](https://zijie.wang/) and [Catherine Yeh](https://catherinesyeh.github.io/) I'm inspired to actually try again.
 
-As for what framework I want to try - I would love to try svelte because it seems more welcoming than React and I still have bad memories of working with vue and d3 though I would be open to learning vue since both vue and svelte are popular in the ml-vis space. 
+As for what framework I want to try - I would love to try svelte because I've seen it used frequently in the ml-vis space. Vue is another possibility. 
 * [Svelte](https://svelte.dev/)
 ### Svelte Component Libaries
 * [Attractions UI](https://illright.github.io/attractions/)
