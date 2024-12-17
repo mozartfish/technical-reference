@@ -71,6 +71,7 @@ nav_order: 4
 ## Machine Learning Subfields 
 ### Neural Networks
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+* [3Blue1Brown Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
 ### Interpretability 
 * [Utah CS 6966 - Local Explanations for Deep Learning Models](https://www.anamarasovic.com/teaching/) 
 ### Data Centric Machine Learning 
