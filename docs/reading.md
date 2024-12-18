@@ -21,8 +21,8 @@ nav_order: 1
 * [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
 #### Probability Theory + Statistics
 * [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit)
+* [Probability for Computer Science](https://chrispiech.github.io/probabilityForComputerScientists/en/intro/notation/)
 * A Student's Guide to Bayesian Statistics
-* Probability and Statistics for Engineering and the Sciences
 #### Mathematics for Data Analysis (Machine Learning, Data Science, Big Data)
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)

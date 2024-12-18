@@ -30,22 +30,21 @@ nav_order: 4
 ### Probability and Statistics 
 #### Advice 
 * [5 tips for getting better at statistics](https://www.youtube.com/watch?v=StSAJIZuqws) 
-#### Fundamentals 
-* [Utah CS 3130 - Probability and Statistics for Engineers](https://users.cs.utah.edu/~jeffp/teaching/ProbStats-S23.html)
+#### Deep Dives 
 * [Random Variables](https://www.youtube.com/watch?v=Y9nsL69CwbU) 
 * [Parameters](https://www.youtube.com/watch?v=BDExlZu2Va8)
 * [Estimators](https://www.youtube.com/watch?v=iAcK2Tve1pw)
 * [Explaining Probability Distributions](https://youtu.be/k5sbE1_MDwU?feature=shared)
 * [Parametric Families](https://www.youtube.com/watch?v=GOJkxzkN3m0) 
-#### Probability and Statistics for Machine Learning 
 * [Probability Must-Knows for Machine Learning-Math for ML Part 1](https://youtu.be/oyyFpAwyt6w?feature=shared)
 * [Statistics: Sampling and Describing Data-Math for ML Part 2](https://youtu.be/M2S_9lyRMvo?feature=shared)
 * [Random Variables and Normal Distributions-Math for Machine Learning Part 3](https://youtu.be/BsV5k-80MJQ?feature=shared)
-* [3Blue1Brown Central Limit Theorem and the Gaussian Distribution](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&feature=shared)
-#### Bayesian Statistics 
+* [The better way to do statistics - Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=3jP4H0kjtng)
+#### Probability and Statistics for Machine Learning 
 * [3Blue1Brown Bayes Theorem](https://youtu.be/HZGCoVF3YvM?feature=shared)
 * [3Blue1Brown Probability of Probabilities](https://youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&feature=shared) 
-* [The better way to do statistics - Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=3jP4H0kjtng)
+* [3Blue1Brown Central Limit Theorem and the Gaussian Distribution](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&feature=shared)
+* [Stanford CS 109: Probability and Statistics for Computer Scientists](https://youtu.be/2MuDZIAzBMY?feature=shared)
 * [A student's guide to Bayesian Statistics](https://youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG&feature=shared)
 ### Linear Algebra 
 * [3Blue1Brown Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&feature=shared)
