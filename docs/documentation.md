@@ -48,7 +48,10 @@ Before LLMS, one of my professors recommended always having documentation and st
 This includes documentation for HTML, CSS, JavaScript, and some web frameworks
 * [Mozilla Deveoper Docs](https://developer.mozilla.org/en-US/)
 ### Svelte 
+* [Svelte Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
+* [Svelte](https://svelte.dev/docs/svelte/overview)
 ### Vue 
+* [Vue Guide](https://vuejs.org/guide/introduction.html)
 ### React 
 
 ## Creative Coding 

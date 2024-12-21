@@ -14,10 +14,14 @@ nav_order: 4
 {:toc}
 
 ---
+## Background 
+This page is a list of everything that I have found to learn machine learning in the llm chatgpt era. I used a lot of these references during my undergrad and I discovered new resources and courses that helped me study for some of the challenging courses during my masters program. [Kylie Ying](https://youtube.com/playlist?list=PLkWv3oO4kHnu095L52vLCVK8YN33yRrd_&feature=shared), [Chip Huyen](https://huyenchip.com), [Josh Starmer](https://statquest.org) were a huge inspiration for this page because of how they organized the concepts on their websites and youtube channels. I recommend following the materials starting from the **Introduction** to **Machine Learning Fundamentals** in order to understand the material in the **Machine Learning Subfields** section.
+
 ## Introduction 
+* [Chip Huyen A survivor's guide to Artificial Intelligence](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html)
+* [Chip Huyen ML Ops Guide](https://huyenchip.com/mlops/)
 * [What is Machine Learning?](https://youtu.be/bk12t0Xz5FM?feature=shared)
 * [How to learn Machine Learning](https://youtu.be/BLXZsBd1cDs?feature=shared)
-* [Chip Huyen ML Ops Guide](https://huyenchip.com/mlops/)
 
 ## Mathematics 
 ### Calculus 
@@ -59,13 +63,15 @@ nav_order: 4
 * [Python for Data Analysis](https://wesmckinney.com/book/)
 
 ## Machine Learning Fundamentals 
+### Statistical Learning
+* [Statistical Learning With Python](https://youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&feature=shared)
 ### Machine Learning 
 * [KTH DD1420 - Foundations of Machine Learning](https://dd1420.notion.site/DD1420-Lecture-Notes-b555e017345a4119950ce8fd67133275)
 ### Probabilistic Machine Learning  
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-* [Machine Learning](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA&feature=shared)
+<!-- * [Machine Learning](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA&feature=shared) -->
 
 ## Machine Learning Subfields 
 ### Neural Networks
@@ -125,11 +131,3 @@ nav_order: 4
 * [Getting Started with CUDA for Python Progammers](https://youtu.be/nOxKexn3iBo?feature=shared)
 * [Going Further with CUDA for Python Progammers](https://youtu.be/eUuGdh3nBGo?feature=shared)
 * [GPU Programming in the Browser](https://www.answer.ai/posts/2024-09-12-gpupuzzles.html)
-
-
-
-
-
-
-
-

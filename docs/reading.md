@@ -26,7 +26,7 @@ nav_order: 1
 #### Mathematics for Data Analysis (Machine Learning, Data Science, Big Data)
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
-* The StatQuest Illustrated Guide To Machine Learning 
+* [An Introduction to Statistical Learning](https://www.statlearning.com/)
 ### Artificial Intelligence and Machine Learning
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
