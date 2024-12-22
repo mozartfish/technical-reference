@@ -48,7 +48,7 @@ This page is a list of everything that I have found to learn machine learning in
 * [3Blue1Brown Bayes Theorem](https://youtu.be/HZGCoVF3YvM?feature=shared)
 * [3Blue1Brown Probability of Probabilities](https://youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&feature=shared) 
 * [3Blue1Brown Central Limit Theorem and the Gaussian Distribution](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&feature=shared)
-* [Stanford CS 109: Probability and Statistics for Computer Scientists](https://youtu.be/2MuDZIAzBMY?feature=shared)
+* [Stanford CS 109: Probability and Statistics for Computer Scientists](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&index=2)
 * [A student's guide to Bayesian Statistics](https://youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG&feature=shared)
 ### Linear Algebra 
 * [3Blue1Brown Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&feature=shared)
