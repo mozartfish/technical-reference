@@ -67,7 +67,11 @@ This page is a list of everything that I have found to learn machine learning in
 * [Statistical Learning With Python](https://youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&feature=shared)
 ### Machine Learning 
 * [KTH DD1420 - Foundations of Machine Learning](https://dd1420.notion.site/DD1420-Lecture-Notes-b555e017345a4119950ce8fd67133275)
+* [University of Utah CS 6350](https://users.cs.utah.edu/~zhe/teach/cs6350.html)
 ### Probabilistic Machine Learning  
+* [Stanford CS 228 Probabilistic Graphical Models Notes](https://ermongroup.github.io/cs228-notes/)
+* [Stanford CS 236 Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+* [Stanford CS 236 Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)

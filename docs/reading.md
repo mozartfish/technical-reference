@@ -27,15 +27,19 @@ nav_order: 1
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
-### Artificial Intelligence and Machine Learning
+### Machine Learning
+## Probabilistic Machine Learning 
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+#### Machine Learning and Pattern Matching 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+#### Deep Learning
 * [Deep Learning for Coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html)
 * [Dive Into Deep Learning](https://d2l.ai/)
 * [Deep Learning](https://www.deeplearningbook.org)
+#### Computer Vision
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 ### Computer Science 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
