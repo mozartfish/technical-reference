@@ -96,6 +96,9 @@ nav_order: 1
 * [New Yorker Annals of Artificial Intelligence](https://www.newyorker.com/science/annals-of-artificial-intelligence)
 
 ## Articles
+### Life Advice 
+* [NYT Practical Ways to Improve your Confidence](https://www.nytimes.com/2019/06/03/smarter-living/how-to-improve-self-confidence.html)
+
 ### Math 
 * [SVD In Action](https://www.bewitched.com/demo/svd/)
 * [Visual Taylor Series](https://www.bewitched.com/demo/taylor/taylor.html)

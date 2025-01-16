@@ -33,7 +33,7 @@ These are libraries that I make sure to have installed for every project. I use 
 
 ## Bayesian Modeling + Inference Tools
 These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but want to try them at some point with Ben Lambert's tutorials
-* [pystan](https://pystan.readthedocs.io/en/latest/) - [installation](https://pystan.readthedocs.io/en/latest/installation.html)
+* [cmdstanpy](https://mc-stan.org/docs/cmdstan-guide/) - [installation](https://mc-stan.org/docs/cmdstan-guide/installation.html)
 * [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
 
 ## Visualization Libraries + Tools
