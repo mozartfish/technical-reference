@@ -57,3 +57,19 @@ nav_order: 5
 ## Personal Finance 
 * [Khan Academy Financial Literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)
 * [Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)
+
+## YouTube Channels 
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+* [Ben Lambert](https://www.youtube.com/@SpartacanUsuals)
+* [DeepBean](https://www.youtube.com/@deepbean)
+* [HyperNeutrino](https://www.youtube.com/@hyper-neutrino)
+* [Jeremy Howard](https://www.youtube.com/@howardjeremyp)
+* [Karlly Feng](https://www.youtube.com/@karllyfeng)
+* [Kevin Workman](https://www.youtube.com/@KevinWorkman)
+* [Kylie Ying](https://www.youtube.com/@KylieYYing)
+* [Machine Learning and Simulation](https://www.youtube.com/@MachineLearningSimulation)
+* [Matthias Stahl](https://www.youtube.com/@h_i_g_s_c_h_videos)
+* [NeetCode](https://www.youtube.com/@NeetCode)
+* [Josh Starmer](https://www.youtube.com/@statquest)
+* [Steve Brunton](https://www.youtube.com/@Eigensteve)
