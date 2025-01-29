@@ -21,25 +21,30 @@ nav_order: 1
 * [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
 #### Probability Theory + Statistics
 * [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit)
-* [Probability for Computer Science](https://chrispiech.github.io/probabilityForComputerScientists/en/intro/notation/)
-* A Student's Guide to Bayesian Statistics
+* [Probability for Computer Science](https://probabilityforcs.firebaseapp.com/book)
 #### Mathematics for Data Analysis (Machine Learning, Data Science, Big Data)
+* [A Student's Guide to Bayesian Statistics](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf)
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
+
 ### Machine Learning
-## Probabilistic Machine Learning 
+#### Probabilistic Machine Learning
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 #### Machine Learning and Pattern Matching 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 #### Deep Learning
-* [Deep Learning for Coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html)
 * [Dive Into Deep Learning](https://d2l.ai/)
-* [Deep Learning](https://www.deeplearningbook.org)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 #### Computer Vision
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
+#### Information Retrieval 
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+#### Data Methods for Science and Engineering 
+* [Data Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://databookuw.com/)
+
 ### Computer Science 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
@@ -55,16 +60,20 @@ nav_order: 1
 * The Truthful Art 
 * How Charts Lie 
 * The Art of Insight
+
 ### Creative Coding 
 * [The Nature of Code](https://nature-of-code-2nd-edition.netlify.app/)
 * [The Book of Shaders](https://thebookofshaders.com/)
 * [Code as a Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)
+
 ### Engineering 
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+
 #### Machine Learning Engineering 
 * [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 * [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
+
 #### Software Engineering 
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 ### Programming Languages and Tools 
@@ -82,6 +91,7 @@ nav_order: 1
 * [MariaDB](https://www.mariadbtutorial.com/)
 * [Postgres](https://www.postgresqltutorial.com/)
 * [SQLServer](https://www.sqlservertutorial.net/)
+
 ### Technical Inteviews
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [Yangshun - Tech Interview Handbook](https://www.techinterviewhandbook.org/)
