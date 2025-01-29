@@ -68,14 +68,13 @@ nav_order: 1
 
 ### Engineering 
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-
 #### Machine Learning Engineering 
 * [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 * [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
-
 #### Software Engineering 
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+
 ### Programming Languages and Tools 
 * [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
 * [Pro Git](https://git-scm.com/book/en/v2)
