@@ -44,12 +44,15 @@ nav_order: 5
 * [EYEO Festival Archive](https://vimeo.com/eyeofestival)
 * [Strange Loop Archive](https://thestrangeloop.com)
 
-## Inspiring Speeches and Life Advice
+## Life Advice 
 * [2024 Dartmouth College Commencement Address by Roger Federer](https://youtu.be/pqWUuYTcG-o?feature=shared)
 * [Utah 50th Annniversary Celebration - Frontiers of Computing by Steven Parker](https://youtu.be/nXwLS5Dkbv8?feature=shared) 
 * [Audition Storytime Part 1 - Brie Larson](https://youtu.be/zE3t0gjm2tw?feature=shared)
 * [Audition Storytime Part 2 - Brie Larson](https://youtu.be/t9CcjI0SOcU?feature=shared) 
 * [Heidelberg Laureate Portraits: Eric A. Brewer](https://youtu.be/ggR00XsT9Bo?feature=shared)
+* [Alex Krentsel Interview: From Google to Berkeley PhD, Systems Research, and Teaching](https://youtu.be/kDS8UO0q7jA?si=Z2KONri6_rARE8qx)
+* [Ritwik Gupta Interview: AI Policy and Impactful AI Research](https://youtu.be/jiLRDSTMDXk?si=DJii4PW46ez9Tpi8)
+* [Curist Northcutt: From Rural Roots to AI Founder](https://youtu.be/niqil5GAN0w?si=5BKJrCTI8rHtHOEH)
 
 ## Advent of Code 
 * [HyperNeutrino Advent of Code](https://www.youtube.com/@hyper-neutrino)
