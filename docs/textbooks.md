@@ -135,5 +135,3 @@ nav_order: 1
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [Yangshun - Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 * [Neetcode](https://neetcode.io/)
-
-
