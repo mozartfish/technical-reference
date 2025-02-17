@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: machine learning
-nav_order: 4
+nav_order: 2
 ---
 
 # How to Learn Machine Learning 
