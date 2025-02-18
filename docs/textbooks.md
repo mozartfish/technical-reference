@@ -44,12 +44,26 @@ nav_order: 1
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
 ### Probabilistic Perspective 
-* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
-* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - 
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - KTH DD2434 Textbook
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
+### Variational Inference 
+All of these papers were not required for the KTH DD2434 class but it was the only way to survive the class. 
+* [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
+* [David Blei Variational Inference Notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+* [Stochastic Variational Inference](https://arxiv.org/abs/1206.7051)
+* [Blackbox Variational Inference](https://arxiv.org/abs/1401.0118)
+* [Latent Dirichlet Allocation](https://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
+* [Variational Auto-Encoders](https://arxiv.org/abs/1906.02691)
+#### Variational Inference Explainations 
+* [A brief primer on variational inference](https://fabiandablander.com/r/Variational-Inference.html)
+* [Machine-Learning Variational Inference](https://jonathan-hui.medium.com/machine-learning-variational-inference-273d8e6480bb)
+* [Variational Bayes and the Mean Field Approximation](https://bjlkeng.io/posts/variational-bayes-and-the-mean-field-approximation/)
+
+
 ### Pattern Matching 
-* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - KTH DD2434 Textbook
 
 ### Deep Learning 
 * StatQuest Illustrated Guide to Neural Networks and AI 
@@ -62,8 +76,8 @@ nav_order: 1
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 
 ### Natural Language Processing + Information Retrieval 
-* [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/)
-* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/) - Stanford CS 124 Textbook 
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - KTH DD2477 Textbook
 
 ## Visualization 
 * [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/)

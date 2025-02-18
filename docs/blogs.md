@@ -14,6 +14,8 @@ nav_order: 5
 {:toc}
 
 ---
+
+## A List of blogs
 * [Amelia Wattenberger](https://wattenberger.com/)
 * [The Sephist](https://thesephist.com)
 * [Fernanda Viegas & Martin Wattenberg](https://medium.com/@hint_fm)
@@ -36,7 +38,6 @@ nav_order: 5
 ## Visualization 
 ### ML Visualization 
 * [Ian Johnson](https://enjalot.substack.com/)
-
 * [Open Visualization Academy](https://openvisualizationacademy.org)
 * [Flowing Data](https://flowingdata.com/)
 

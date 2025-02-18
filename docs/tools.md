@@ -14,6 +14,7 @@ nav_order: 3
 {:toc}
 
 ---
+## Background 
 # Things I am currently using (as of December 2024)
 
 ## Programming Languages 
