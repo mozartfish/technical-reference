@@ -52,7 +52,7 @@ nav_order: 6
 * [Heidelberg Laureate Portraits: Eric A. Brewer](https://youtu.be/ggR00XsT9Bo?feature=shared)
 * [Alex Krentsel Interview: From Google to Berkeley PhD, Systems Research, and Teaching](https://youtu.be/kDS8UO0q7jA?si=Z2KONri6_rARE8qx)
 * [Ritwik Gupta Interview: AI Policy and Impactful AI Research](https://youtu.be/jiLRDSTMDXk?si=DJii4PW46ez9Tpi8)
-* [Curist Northcutt: From Rural Roots to AI Founder](https://youtu.be/niqil5GAN0w?si=5BKJrCTI8rHtHOEH)
+* [Curtis Northcutt: From Rural Roots to AI Founder](https://youtu.be/niqil5GAN0w?si=5BKJrCTI8rHtHOEH)
 
 ## Advent of Code 
 * [HyperNeutrino Advent of Code](https://www.youtube.com/@hyper-neutrino)
