@@ -72,7 +72,7 @@ These are libraries that I make sure to have installed for every project. I use 
 * [marimo](https://marimo.io/)
 * [google colab](https://colab.research.google.com/)
 
-### Visualization Libraries 
+#### Visualization Libraries 
 The python visualization ecosystem is fragmented and choosing the right visualization library depends on the project and audience . Many of the python visualization libraries build off of matplotlib. Matpotlib while tedious is super power powerful and versatile, with the ability to render interactive 3d plots, conic sections and do image processing work. Seaborn is great for statistical charts with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easy to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
 * [plotly](https://plotly.com/python/) - [installation](https://plotly.com/python/getting-started/#installation)
 * [bokeh](https://bokeh.org/) - [installation](https://docs.bokeh.org/en/latest/docs/first_steps/installation.html)
