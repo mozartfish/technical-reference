@@ -61,22 +61,20 @@ All of these papers were not required for the KTH DD2434 class but it was the on
 * [Machine-Learning Variational Inference](https://jonathan-hui.medium.com/machine-learning-variational-inference-273d8e6480bb)
 * [Variational Bayes and the Mean Field Approximation](https://bjlkeng.io/posts/variational-bayes-and-the-mean-field-approximation/)
 
-
 ### Pattern Matching 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - KTH DD2434 Textbook
 
 ### Deep Learning 
-* StatQuest Illustrated Guide to Neural Networks and AI 
-* [Dive Into Deep Learning](https://d2l.ai/)
-* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-* [Deep Learning Foundations and Concepts](https://www.bishopbook.com/)
+* [Dive Into Deep Learning](https://d2l.ai/) - KTH DD2424 suggested reading
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - KTH DD2424 suggested reading
+* [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) - KTH DD2424 suggested reading
 
 ## Applied Machine Learning 
 ### Computer Vision 
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 
 ### Natural Language Processing + Information Retrieval 
-* [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/) - Stanford CS 124 Textbook 
+* [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/) - KTH DD2417 Textbook 
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - KTH DD2477 Textbook
 
 ## Visualization 
@@ -98,7 +96,7 @@ All of these papers were not required for the KTH DD2434 class but it was the on
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
 
-## Programming Languages 
+## Programming Language Theory
 * [How to Design Computer Programs](https://htdp.org/)
 * [Programming Languages: Application and Interpretation](https://www.plai.org/)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide)

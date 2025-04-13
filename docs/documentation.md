@@ -37,10 +37,12 @@ Before LLMS, one of my professors recommended always having documentation and st
 * [scikit-learn guide](https://scikit-learn.org/stable/user_guide.html)
 * [matplotlib guide](https://matplotlib.org/stable/users/index.html)
 * [jupyterlab guide](https://jupyterlab.readthedocs.io/en/latest/user/index.html)
+
 ### Probabilistic Machine Learning 
 * [Stan User Guide](https://mc-stan.org/docs/stan-users-guide/index.html)
 * [PyStan Docs](https://pystan.readthedocs.io/en/latest/)
 * [PyMC API](https://www.pymc.io/projects/docs/en/stable/api.html)
+
 ### Deep Dives 
 * [Einsum](https://ajcr.net/Basic-guide-to-einsum/)
 
