@@ -19,9 +19,9 @@ This page is a place where I keep track of what libraries and tools I use in my 
 
 My goal as a machine learning engineer is to build tools that make data and models more accessible and interpretable. In particular, I am excited about working at the intersection of machine learning, math, interactive visualization, data science and software engineering to help solve problems across data domains.
 
-In the following sections I describe my work and tool setup for the problems I work on. I'd also like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
+In the following sections I describe the tools that I use for the problems I currently work on. I'd also like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
 
-**Note: This page is getting constantly updated - Last update: April 13, 2025.**
+**Note: This page is getting constantly updated - Last update: April 15, 2025.**
 
 ## General Tools
 ### Editors + IDES
@@ -59,15 +59,7 @@ In the following sections I describe my work and tool setup for the problems I w
 ### Datasets 
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 * [fivethirtyeight datasets](https://github.com/fivethirtyeight)
-
-### Python Development Tools 
-I want to learn more about how to use these tools because they make debugging, running ml experiments, and building models much more efficient and easier
-* [tqdm](https://tqdm.github.io/)
-* [rich](https://rich.readthedocs.io/en/stable/introduction.html)
-* [pathlib](https://docs.python.org/3/library/pathlib.html)
-* [pydantic](https://docs.pydantic.dev/latest/)
-* [ruff](https://docs.astral.sh/ruff/)
-* [uv](https://github.com/astral-sh/uv)
+* [Martin Wattenberg datasets](https://github.com/wattenberg/data)
 
 ## Programming Languages 
 * [Python](https://www.python.org/) - machine learning, scripting, prototyping and more 
@@ -77,56 +69,58 @@ I want to learn more about how to use these tools because they make debugging, r
 * [Bash](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - compile and running programs, experiments etc. 
 
 ## Data
-### Foundational Tools 
-These are libraries that I make sure to have installed for every project. I use conda for managing environments and package installation. Other alternatives include pip and [pyenv-virtualenv](https://jakobj.dev/posts/pyenv/#installation)
-* [numpy](https://numpy.org) - [installation](https://numpy.org/install/)
-* [scipy]() - [installation](https://scipy.org/install/)
-* [sckit-learn](https://scipy.org/) - [installation](https://scikit-learn.org/stable/install.html)
-* [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/install/index.html)
-* [seaborn](https://seaborn.pydata.org) - [installation](https://seaborn.pydata.org/installing.html)
+I currently use conda as my package and environment manager but I am trying to move to a combination of uv and venv after [this happened](https://www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/).
 
-#### Notebooks 
+### Core Libraries 
+* [numpy](https://numpy.org) - [installation](https://numpy.org/install/)
+* [scipy](https://scipy.org) - [installation](https://scipy.org/install/)
+* [pandas](https://pandas.pydata.org/) - [installation](https://pandas.pydata.org/docs/getting_started/index.html)
+* [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/users/getting_started/)
+
+### Notebooks
 * [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
 * [marimo](https://marimo.io/)
 * [google colab](https://colab.research.google.com/)
 
-#### Visualization Libraries 
+### Machine Learning 
+* [scikit-learn](https://scikit-learn.org/stable/index.html) - [installation](https://scikit-learn.org/stable/install.html)
+
+#### Probabilistic Machine Learning + Generative Modeling
+These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but want to try them at some point with Ben Lambert's tutorials
+* [cmdstanpy](https://mc-stan.org/docs/cmdstan-guide/) - [installation](https://mc-stan.org/docs/cmdstan-guide/installation.html)
+* [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
+
+#### Deep Learning
+* [pytorch](https://pytorch.org/) - [installation](https://pytorch.org/get-started/locally/)
+* [pytorch lightning](https://lightning.ai/docs/pytorch/stable/) - [installation](https://lightning.ai/docs/pytorch/stable/starter/installation.html)
+
+### Visualization
 The python visualization ecosystem is fragmented and choosing the right visualization library depends on the project and audience. Many of the python visualization libraries build off of matplotlib. Matplotlib while tedious is super power powerful and versatile, with the ability to render interactive 3d plots, conic sections and do image processing work. Seaborn is great for statistical charts with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easy to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
+* [seaborn](https://seaborn.pydata.org/) - [installation](https://seaborn.pydata.org/installing.html)
 * [plotly](https://plotly.com/python/) - [installation](https://plotly.com/python/getting-started/#installation)
-* [bokeh](https://bokeh.org/) - [installation](https://docs.bokeh.org/en/latest/docs/first_steps/installation.html)
 * [altair](https://altair-viz.github.io) - [installation](https://altair-viz.github.io/getting_started/installation.html)
-* [Kepler-Mapper](https://kepler-mapper.scikit-tda.org/en/latest/) - I haven't used this in a while but for people doing topological data analysis(tda) its a super useful tool for visualization
+* [Kepler-Mapper](https://kepler-mapper.scikit-tda.org/en/latest/)
 
 ### Dimensionality Reduction 
 * [DataMapPlot](https://datamapplot.readthedocs.io/en/latest/) - [installation](https://datamapplot.readthedocs.io/en/latest/installation.html)
 * [HDBScan](https://hdbscan.readthedocs.io/en/latest/index.html)
 * [UMAP](https://umap-learn.readthedocs.io/en/latest/) 
 
-### Search + Information Retrieval
-* [ElasticSearch](https://www.elastic.co/elasticsearch)
+### Language, Music, Information Retrieval
+#### NLP + Language Engineering
+* [nltk](https://www.nltk.org/)
+* [spacy](https://spacy.io/)
 
-### NLP + Language Engineering
-* [NLTK](https://www.nltk.org/)
-* [Spacy](https://spacy.io/)
+#### Search + Information Retrieval
+* [elasticsearch](https://www.elastic.co/elasticsearch)
 
-### Probabilistic Machine Learning + Generative Modeling 
-These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but want to try them at some point with Ben Lambert's tutorials
-* [cmdstanpy](https://mc-stan.org/docs/cmdstan-guide/) - [installation](https://mc-stan.org/docs/cmdstan-guide/installation.html)
-* [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
-
-### Deep Learning 
-* [pytorch](https://pytorch.org) - [installation](https://pytorch.org/get-started/locally/)
-* [pytorch lightning](https://lightning.ai/docs/pytorch/stable/) - [installation](https://lightning.ai/docs/pytorch/stable/starter/installation.html)
+#### Music Informatics
+* [torchaudio](https://pytorch.org/audio/stable/index.html)
+* [librosa](https://librosa.org/doc/latest/index.html) - [installation](https://librosa.org/doc/latest/install.html)
 
 ### Image Analysis and Computer Vision
 * [scikit-image](https://scikit-image.org) - [installation](https://scikit-image.org/docs/stable/user_guide/install.html)
-* [opencv](https://opencv.org) - [installation](https://opencv.org/get-started/?utm_source=opcv&utm_medium=home)
 * [torchvision](https://pytorch.org/vision/stable/index.html)
-* [pillow](https://pillow.readthedocs.io/en/stable/) - [installation](https://pillow.readthedocs.io/en/stable/installation/basic-installation.html)
-
-### Music Informatics 
-* [torchaudio](https://pytorch.org/audio/stable/index.html)
-* [librosa](https://librosa.org/doc/latest/index.html) - [installation](https://librosa.org/doc/latest/install.html)
 
 ## Interactive Visualization 
 ### D3
@@ -169,9 +163,22 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ### other important stuff 
 * [gRPC](https://grpc.io)
 
+# Things on my to learn list 
+These are things I need to learn more about to become a better engineer
+* [tqdm](https://tqdm.github.io/)
+* [rich](https://rich.readthedocs.io/en/stable/introduction.html)
+* [pathlib](https://docs.python.org/3/library/pathlib.html)
+* [pydantic](https://docs.pydantic.dev/latest/)
+* [ruff](https://docs.astral.sh/ruff/)
+* [uv](https://github.com/astral-sh/uv)
+* [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
+* [venv](https://docs.python.org/3/library/venv.html)
+* [cleanlab](https://github.com/cleanlab/cleanlab)
+* [huggingface transformers](https://huggingface.co/docs/transformers/en/index)
+
 
 # Things I wish I had time to explore and learn more about
-These are things that I wish I had time to learn more about. 
+These are things that I wish I had time to explore 
 ## Creative Coding 
 I first heard about this at the EYEO Festival. I started with Dan Shiffman's [Coding Train](https://thecodingtrain.com/) but shifted to Kevin Workman's [Happy Coding](https://happycoding.io/) and then stopped. It was a lot of fun to use p5 and it explained some of the javascript quirks I struggled with. After seeing all the cool stuff put out by Martin Wattenberg, Fernanda Viegas, Golan Levin, Ravi Chugh, and Andrew McNutt I want to pick it up again and try to implement some of the projects from Code as a Creative Medium. 
 * [p5.js](https://p5js.org/)
