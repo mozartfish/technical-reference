@@ -9,7 +9,7 @@ nav_order: 1
 
 These are textbooks/papers that I find really helpful and consult frequently. 
 
-**Last Updated: May 23, 2025**
+**Last Updated: May 24, 2025**
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -86,7 +86,7 @@ The books listed here are mostly related to my interests in machine learning - e
 ### Computer Vision 
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 
-### Natural Language Processing + Information Retrieval 
+### Language: Computational Linguistics, Information Retrieval
 * [Natural Language Processing with Python](https://www.nltk.org/book/)
 * [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/) - KTH DD2417 Textbook 
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - KTH DD2477 Textbook
@@ -109,18 +109,10 @@ The books listed here are mostly related to my interests in machine learning - e
 #### Visualization - Tools + Languages etc.
 * [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
 
-### Systems Programming: Systems, MLSystems
-* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
+### Systems Programming: Data Systems, MLSystems
 * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
-#### Systems Programming - Tools + Languages, etc. 
-##### Rust
-* [Rust Book](https://rust-book.cs.brown.edu/)
-##### Golang
-* [Go By Example](https://gobyexample.com/)
-* [Go With Tests](https://quii.gitbook.io/learn-go-with-tests)
-##### Database
+##### Databases
 * [MySQL](https://www.mysqltutorial.org/)
 * [MariaDB](https://www.mariadbtutorial.com/)
 * [Postgres](https://www.postgresqltutorial.com/)

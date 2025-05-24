@@ -21,7 +21,7 @@ My goal as a machine learning engineer is to build tools that make data and mode
 
 In the following sections I describe the tools that I use for the problems I currently work on. I'd also like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
 
-**Note: This page is getting constantly updated - Last update: April 15, 2025.**
+**Note: This page is getting constantly updated - Last update: May 24, 2025.**
 
 ## General Tools
 ### Editors + IDES
@@ -62,9 +62,9 @@ In the following sections I describe the tools that I use for the problems I cur
 * [Martin Wattenberg datasets](https://github.com/wattenberg/data)
 
 ## Programming Languages 
-* [Python](https://www.python.org/) - machine learning, scripting, prototyping and more 
+* [Python](https://www.python.org/) - machine learning, scripting, prototyping and almost all of my development these days
 * [Bash](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - compile and running programs, experiments etc.
-* [Java](https://www.oracle.com/java/technologies/downloads/) - information retrieval, enterprise systems, data engineering
+* [Java](https://www.oracle.com/java/technologies/downloads/) - information retrieval, data engineering
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - interfaces, creative coding, interactive visualization
 
 ## Data
@@ -145,9 +145,10 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ### API
 * [fastapi](https://fastapi.tiangolo.com)
 
-### ML Interfaces + Deployment 
+### ML Interfaces, Deployment, etc. 
 * [gradio](https://www.gradio.app)
 * [huggingface spaces](https://huggingface.co/spaces)
+* [docker]()https://www.docker.com/
 
 # Things on my to learn list 
 These are things I need to learn more about to become a better engineer
