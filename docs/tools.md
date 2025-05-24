@@ -92,7 +92,6 @@ These are a specialized set of tools for probabilistic machine learning and prob
 
 #### Deep Learning
 * [pytorch](https://pytorch.org/) - [installation](https://pytorch.org/get-started/locally/)
-* [pytorch lightning](https://lightning.ai/docs/pytorch/stable/) - [installation](https://lightning.ai/docs/pytorch/stable/starter/installation.html)
 
 ### Visualization
 The python visualization ecosystem is fragmented and choosing the right visualization library depends on the project and audience. Many of the python visualization libraries build off of matplotlib. Matplotlib while tedious is super power powerful and versatile, with the ability to render interactive 3d plots, conic sections and do image processing work. Seaborn is great for statistical charts with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easy to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
@@ -165,17 +164,25 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 
 # Things on my to learn list 
 These are things I need to learn more about to become a better engineer
+## Python Libraries 
 * [tqdm](https://tqdm.github.io/)
 * [rich](https://rich.readthedocs.io/en/stable/introduction.html)
 * [pathlib](https://docs.python.org/3/library/pathlib.html)
 * [pydantic](https://docs.pydantic.dev/latest/)
 * [ruff](https://docs.astral.sh/ruff/)
-* [uv](https://github.com/astral-sh/uv)
-* [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
 * [venv](https://docs.python.org/3/library/venv.html)
+## ML Production  
+* [uv](https://github.com/astral-sh/uv)
+* [pytorch lightning](https://lightning.ai/docs/pytorch/stable/) - [installation](https://lightning.ai/docs/pytorch/stable/starter/installation.html)
+* [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
+## Data 
+* [sqlite](https://www.sqlite.org/index.html)
+* [polars](https://pola.rs/)
+## ML Domain Specific Tools 
 * [cleanlab](https://github.com/cleanlab/cleanlab)
 * [huggingface transformers](https://huggingface.co/docs/transformers/en/index)
-
+* [jax](https://docs.jax.dev/en/latest/)
+* [flax](https://flax.readthedocs.io/en/latest/)
 
 # Things I wish I had time to explore and learn more about
 These are things that I wish I had time to explore 
