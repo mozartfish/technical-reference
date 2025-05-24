@@ -63,10 +63,9 @@ In the following sections I describe the tools that I use for the problems I cur
 
 ## Programming Languages 
 * [Python](https://www.python.org/) - machine learning, scripting, prototyping and more 
-* [Golang](https://go.dev/) - cloud, scripting, systems programming 
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - interfaces, creative coding, interactive visualization 
-* [Java](https://www.oracle.com/java/technologies/downloads/) - information retrieval, enterprise systems, data engineering 
-* [Bash](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - compile and running programs, experiments etc. 
+* [Bash](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - compile and running programs, experiments etc.
+* [Java](https://www.oracle.com/java/technologies/downloads/) - information retrieval, enterprise systems, data engineering
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - interfaces, creative coding, interactive visualization
 
 ## Data
 I currently use conda as my package and environment manager but I am trying to move to a combination of uv and venv after [this happened](https://www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/).
@@ -105,17 +104,10 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 * [HDBScan](https://hdbscan.readthedocs.io/en/latest/index.html)
 * [UMAP](https://umap-learn.readthedocs.io/en/latest/) 
 
-### Language, Music, Information Retrieval
-#### NLP + Language Engineering
+### Language: Computational Linguistics, Information Retrieval
 * [nltk](https://www.nltk.org/)
 * [spacy](https://spacy.io/)
-
-#### Search + Information Retrieval
 * [elasticsearch](https://www.elastic.co/elasticsearch)
-
-#### Music Informatics
-* [torchaudio](https://pytorch.org/audio/stable/index.html)
-* [librosa](https://librosa.org/doc/latest/index.html) - [installation](https://librosa.org/doc/latest/install.html)
 
 ### Image Analysis and Computer Vision
 * [scikit-image](https://scikit-image.org) - [installation](https://scikit-image.org/docs/stable/user_guide/install.html)
@@ -149,8 +141,6 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ## Systems Programming + Infrastructure
 ### Software Frameworks
 * [flask](https://flask.palletsprojects.com/en/stable/)
-* [gin](https://gin-gonic.com)
-* [springboot](https://spring.io/projects/spring-boot)
 
 ### API
 * [fastapi](https://fastapi.tiangolo.com)
@@ -158,9 +148,6 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ### ML Interfaces + Deployment 
 * [gradio](https://www.gradio.app)
 * [huggingface spaces](https://huggingface.co/spaces)
-
-### other important stuff 
-* [gRPC](https://grpc.io)
 
 # Things on my to learn list 
 These are things I need to learn more about to become a better engineer
