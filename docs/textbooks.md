@@ -7,6 +7,10 @@ nav_order: 1
 # Textbooks
 {: .no_toc }
 
+These are textbooks/papers that I find really helpful and consult frequently. 
+
+**Last Updated: May 23, 2025**
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -56,7 +60,7 @@ All of these papers were not required for the KTH DD2434 class but it was the on
 * [Blackbox Variational Inference](https://arxiv.org/abs/1401.0118)
 * [Latent Dirichlet Allocation](https://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
 * [Variational Auto-Encoders](https://arxiv.org/abs/1906.02691)
-#### Variational Inference Explainations 
+#### Variational Inference Explanations 
 * [A brief primer on variational inference](https://fabiandablander.com/r/Variational-Inference.html)
 * [Machine-Learning Variational Inference](https://jonathan-hui.medium.com/machine-learning-variational-inference-273d8e6480bb)
 * [Variational Bayes and the Mean Field Approximation](https://bjlkeng.io/posts/variational-bayes-and-the-mean-field-approximation/)
@@ -68,16 +72,28 @@ All of these papers were not required for the KTH DD2434 class but it was the on
 * [Dive Into Deep Learning](https://d2l.ai/) - KTH DD2424 suggested reading
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - KTH DD2424 suggested reading
 * [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) - KTH DD2424 suggested reading
+* The StatQuest Illustrate Guide to Neural Networks and AI
+
+### Machine Learning Programming Languages, Tools etc. 
+* [Python For Data Analysis](https://wesmckinney.com/book/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 ## Applied Machine Learning 
+The books listed here are mostly related to my interests in machine learning - explainable ai, nlp/search, computer vision. 
+
 ### Computer Vision 
 * [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 
 ### Natural Language Processing + Information Retrieval 
+* [Natural Language Processing with Python](https://www.nltk.org/book/)
 * [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/) - KTH DD2417 Textbook 
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - KTH DD2477 Textbook
+* [Build a Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+* [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
 
-## Visualization 
+### Visualization: Interpretability + Explainable AI + Creative Coding
 * [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/)
 * The Grammar of Graphics 
 * [Visualize This](https://flowingdata.com/books/)
@@ -86,64 +102,36 @@ All of these papers were not required for the KTH DD2434 class but it was the on
 * The Truthful Art 
 * How Charts Lie 
 * The Art of Insight
-
-## Creative Coding 
+#### Creative Coding 
 * [The Nature of Code](https://nature-of-code-2nd-edition.netlify.app/)
 * [The Book of Shaders](https://thebookofshaders.com/)
 * [Code as a Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)
-
-## Systems Programming 
-* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
-
-## Programming Language Theory
-* [How to Design Computer Programs](https://htdp.org/)
-* [Programming Languages: Application and Interpretation](https://www.plai.org/)
-* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
-
-## Engineering - Software + Systems 
-* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-* [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
-
-## Engineering - Machine Learning + AI 
-* [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
-* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-* [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
-* [Build a Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-
-## Programming Languages + Tools 
-### Tools 
-* [Pro Git](https://git-scm.com/book/en/v2)
-
-### Machine Learning 
-* [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-
-### Systems Programming 
-#### Rust 
-* [Rust Book](https://rust-book.cs.brown.edu/)
-#### Golang 
-* [Go By Example](https://gobyexample.com/)
-* [Go With Tests](https://quii.gitbook.io/learn-go-with-tests)
-
-### Web + The Internet
+#### Visualization - Tools + Languages etc.
 * [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
 
-### Data Analysis 
-#### R
-* [R For Data Science](https://r4ds.hadley.nz/)
-* [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
-#### Python 
-* [Python For Data Analysis](https://wesmckinney.com/book/)
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-### Database Systems 
+### Systems Programming: Systems, MLSystems
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
+* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+* [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+#### Systems Programming - Tools + Languages, etc. 
+##### Rust
+* [Rust Book](https://rust-book.cs.brown.edu/)
+##### Golang
+* [Go By Example](https://gobyexample.com/)
+* [Go With Tests](https://quii.gitbook.io/learn-go-with-tests)
+##### Database
 * [MySQL](https://www.mysqltutorial.org/)
 * [MariaDB](https://www.mariadbtutorial.com/)
 * [Postgres](https://www.postgresqltutorial.com/)
 * [SQLServer](https://www.sqlservertutorial.net/)
 
+## Engineering
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+* [Pro Git](https://git-scm.com/book/en/v2)
+### Machine Learning + AI Applications 
+* [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
+
 ## Technical Inteviews
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
-* [Yangshun - Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 * [Neetcode](https://neetcode.io/)

@@ -86,29 +86,31 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [University of Utah CS 6190 - Probabilistic Modeling](https://users.cs.utah.edu/~zhe/teach/archived/2024s/cs6190-lectures.html)
 * [Stanford CS 228 - Probabilistic Graphical Models Notes](https://ermongroup.github.io/cs228-notes/)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+
 ### Natural Language Processing and Information Retrieval 
 * [Stanford CS 124 -  From Languages to Information](https://web.stanford.edu/class/cs124/)
 * [Stanford CS 124 - From Languages to Information - Lectures](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
 * [Stanford CS 124 - From Languages to Information - Course GitHub](https://github.com/cs124)
 
 ## Machine Learning Subfields 
-### Neural Networks - Fundamentals 
+### Deep Learning - Fundamentals 
 * [Neural Networks Zero to to Hero - Lectures 1-6](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 * [3Blue1Brown Neural Networks Lectures 1-4](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
-### Neural Networks - LLMS
+### Deep Learning - LLMS
 * [Grant Sanderson Visualizing transformers and attention](https://youtu.be/KJtZARuO3JY?si=r11r-0NbrX1H1o7L)
 * [Andrej Karpathy 1 Hour Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=WKa2-OhiOUeBXEeJ)
 * [Andrej Karpathy Deep Dive Into LLMs Like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=hSpi8NGr-7EWG_RB)
 * [Neural Networks Zero to to Hero - Lectures 7, 9-10](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 * [3Blue1Brown Neural Networks - Lectures 5-8](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
+### Deep Learning - NLP
+* [CS 224N Natural Language Processing With Deep Learning](https://web.stanford.edu/class/cs224n/)
+* [CS 224N Natural Language Processing With Deep Learning - Lectures](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=gO-JiDUekbbotgA1)
+* [Utah CS 6340 - Natural Language Processing](https://www.anamarasovic.com/teaching/)
 
-### Interpretability 
-* [Utah CS 6966 - Local Explanations for Deep Learning Models](https://www.anamarasovic.com/teaching/) 
+### Mechanistic Interpretability + Alignment
 * [Neural Networks are Weird! Neel Nanda](https://youtu.be/YpFaPKOeNME?si=1byw9-F_qWdX35sA)
 * [Mechanistic Interpretability - Neel Nanda](https://youtu.be/_Ygf0GnlwmY?si=pdB6Lm6xQREH39eB)
 * [Neel Nanda Mechanistic Interpretability Materials](https://www.neelnanda.io/mechanistic-interpretability)
-
-### Alignment 
 * [ARENA](https://arena-resources.notion.site/ARENA-Virtual-Resources-ba4481a64239456bb5a9b3d37a7765f6)
 
 ### Data Centric Machine Learning 
@@ -126,9 +128,6 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
 
 ### Search Engines, Information Retrieval, Data Mining
-* [CS 224N Natural Language Processing With Deep Learning](https://web.stanford.edu/class/cs224n/)
-* [CS 224N Natural Language Processing With Deep Learning - Lectures](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=gO-JiDUekbbotgA1)
-* [Utah CS 6340 - Natural Language Processing](https://www.anamarasovic.com/teaching/) 
 * [Utah CS 6140 - Data Mining Spring 2023](https://utah-data-mining-spring23.github.io/)
 * [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
 
@@ -137,7 +136,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 231N 2017 - Lectures](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=Qf-Ew3kHTTC1hOGi)
 * [Hany Farid Computer Vision](https://youtube.com/playlist?list=PLhwIOYE-ldwL6h-peJADfNm8bbO3GlKEy&feature=shared)
 
-### Human-AI Interaction - Visualization, Creative Coding, Audio ML
+### Human-AI Interaction - Visualization, Creative Coding
 #### Visualization 
 * [MIT 6/11.C85 - Interactive Data Visualization & Society](https://vis-society.github.io/)
 * [Svelte + D3](https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8)
@@ -147,10 +146,8 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Harvard CS 73](https://wattenberg.github.io/cs73/)
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
-#### Audio ML 
-* [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&feature=shared)
 
-## Engineering - Machine Learning, Computer Science
+## Engineering
 * [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
 * [Advent of Code](https://adventofcode.com/)
