@@ -64,6 +64,7 @@ All of these papers were not required for the KTH DD2434 class but it was the on
 * [A brief primer on variational inference](https://fabiandablander.com/r/Variational-Inference.html)
 * [Machine-Learning Variational Inference](https://jonathan-hui.medium.com/machine-learning-variational-inference-273d8e6480bb)
 * [Variational Bayes and the Mean Field Approximation](https://bjlkeng.io/posts/variational-bayes-and-the-mean-field-approximation/)
+* [Bruno Magalhaes Blog](https://brunomaga.github.io/)
 
 ### Pattern Matching 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - KTH DD2434 Textbook
