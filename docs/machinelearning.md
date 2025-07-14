@@ -64,9 +64,10 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 * [3Blue1Brown Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&feature=shared)
 * [MIT 18.06 - Linear Algebra](https://github.com/mitmath/1806)
 
-### Mathematics of Machine Learning, Data Science and Big Data 
+### Data Analysis 
 * [Utah CS 3190 - Foundations of Data Analysis](https://users.cs.utah.edu/~jeffp/teaching/FoDA.html)
-* [StatQuest](https://statquest.org/video-index/)
+#### Bayesian Data Analysis 
+* [Aalto CS-E5710 - Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/)
 
 ## Programming 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -75,9 +76,11 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) - follow this book if you want to learn TensorFlow which is still used heavily for production machine learning
 
 ## Machine Learning Fundamentals 
+* [StatQuest](https://statquest.org/video-index/)
 ### Statistical Learning
 * [Statistical Learning With Python](https://youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&feature=shared)
 ### Machine Learning 
+* [Sebastian Raschka Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
 * [KTH DD1420 - Foundations of Machine Learning](https://dd1420.notion.site/DD1420-Lecture-Notes-b555e017345a4119950ce8fd67133275)
 * [University of Utah CS 6350 - Machine Learning](https://users.cs.utah.edu/~zhe/teach/cs6350.html)
 ### Probabilistic Machine Learning 
@@ -94,6 +97,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 
 ## Machine Learning Subfields 
 ### Deep Learning - Fundamentals 
+* [Sebastian Raschka Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [Neural Networks Zero to to Hero - Lectures 1-6](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 * [3Blue1Brown Neural Networks Lectures 1-4](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
 ### Deep Learning - LLMS

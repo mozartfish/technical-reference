@@ -9,8 +9,6 @@ nav_order: 1
 
 These are textbooks/papers that I find really helpful and consult frequently. 
 
-**Last Updated: May 24, 2025**
-
 ## Table of Contents
 {: .no_toc .text-delta }
 

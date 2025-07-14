@@ -83,7 +83,7 @@ Before LLMS, one of my professors recommended always having documentation and st
 * [bokeh guide](https://docs.bokeh.org/en/latest/index.html)
 
 ## Web
-* [Mozilla Deveoper Docs](https://developer.mozilla.org/en-US/)
+* [Mozilla Developer Docs](https://developer.mozilla.org/en-US/)
 * [Interneting Is Hard](https://internetingishard.netlify.app/html-and-css/index.html)
 ### Svelte(SvelteKit)
 * [Svelte Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
@@ -98,11 +98,3 @@ Before LLMS, one of my professors recommended always having documentation and st
 * [ml5.js reference](https://docs.ml5js.org/#/reference/overview)
 * [cinder docs](https://www.libcinder.org/docs/)
 * [openframeworks docs](https://openframeworks.cc/documentation/)
-
-
-
-
-
-
-
-
