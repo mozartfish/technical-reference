@@ -17,9 +17,9 @@ nav_order: 3
 ## Background
 This page is a place where I keep track of what libraries and tools I use in my work. This page is inspired by [uses this](https://usesthis.com/interviews/), [the missing semester of your cs education](https://missing.csail.mit.edu/), [the pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), [strangeloop](https://www.thestrangeloop.com/index.html), [eyeo festival](https://eyeofestival.com/).
 
-My goal as a machine learning engineer is to build tools that make data and models more accessible and interpretable. In particular, I am excited about working at the intersection of machine learning, math, interactive visualization, data science and software engineering to help solve problems across data domains.
+My goal as a machine learning engineer is to build tools that make data and models more accessible and interpretable. In particular, I am excited about working at the intersection of machine learning, math, interactive visualization, data science and software engineering to help solve problems across data domains. In the following sections I describe the tools that I use for the problems I currently work on. 
 
-In the following sections I describe the tools that I use for the problems I currently work on. I'd also like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
+I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
 
 **Note: This page is getting constantly updated - Last update: May 24, 2025.**
 
