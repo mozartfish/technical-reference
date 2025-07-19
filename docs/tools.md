@@ -148,7 +148,7 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ### ML Interfaces, Deployment, etc. 
 * [gradio](https://www.gradio.app)
 * [huggingface spaces](https://huggingface.co/spaces)
-* [docker]()https://www.docker.com/
+* [docker](https://www.docker.com/)
 
 # Things on my to learn list 
 These are things I need to learn more about to become a better engineer
