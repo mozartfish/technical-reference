@@ -21,7 +21,7 @@ My goal as a machine learning engineer is to build tools that make data and mode
 
 I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
 
-**Note: This page is getting constantly updated - Last update: May 24, 2025.**
+**Note: This page is getting constantly updated - Last update: July 23, 2025.**
 
 ## General Tools
 ### Editors + IDES
