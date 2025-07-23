@@ -21,6 +21,7 @@ nav_order: 7
 * [NYT Artificial Intelligence Section](https://www.nytimes.com/spotlight/artificial-intelligence)
 * [New Yorker Annals of Technology](https://www.newyorker.com/tech/annals-of-technology)
 * [New Yorker Annals of Artificial Intelligence](https://www.newyorker.com/science/annals-of-artificial-intelligence)
+* [Quanta Magazine](https://www.quantamagazine.org/)
 
 ## Life Advice 
 * [NYT Practical Ways to Improve your Confidence](https://www.nytimes.com/2019/06/03/smarter-living/how-to-improve-self-confidence.html)

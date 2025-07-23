@@ -70,6 +70,7 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 * [Aalto CS-E5710 - Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/)
 
 ## Programming 
+* [QuantEcon](https://quantecon.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Python for Data Analysis](https://wesmckinney.com/book/)
 * [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) - follow this book if you want to learn PyTorch

@@ -26,11 +26,13 @@ nav_order: 6
 * [GraphQL: The Documentary](https://youtu.be/783ccP__No8?feature=shared)
 ### Programming Languages 
 * [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?feature=shared)
+* [Python](https://youtu.be/pqBqdNIPrbo?si=6DKlZufFVH3a02VA)
 * [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators](https://youtu.be/yCd3CzGSte8?si=oC7BvqCdXlbJK-bR)
 * [Chris Lattner: The Future of Computing and Programming Languages ](https://youtu.be/nWTvXbQHwWs?si=oQL90FiVPwNrbAcS)
 * [Chris Lattner: Future of Programming and AI](https://youtu.be/pdJQ8iVTwj8?si=hgHgjnaFmujFpIhg)
 
 ## AI + Machine Learning 
+* [Vibecoding - Andrej Karpathy](https://youtu.be/LCEmiRjPEtQ?si=b0lU9kKDTNfZHw_z)
 * [How AI Cracked the Protein Folding Code and Won a Nobel Prize](https://youtu.be/cx7l9ZGFZkw?feature=shared)
 * [Why Computer Vision Is a Hard Problem for AI](https://youtu.be/YOKPo-I6cgs?feature=shared)
 ### Design, Art, Creative Coding
@@ -39,6 +41,7 @@ nav_order: 6
 * [The Gradient Interview with Martin Wattenberg: ML Visualization + Interpretability](https://youtu.be/Tci1hVa_H50?feature=shared)
 * [Behind the Doodle: Celebrating Johann Sebastian Bach](https://youtu.be/XBfYPp6KF2g?feature=shared)
 * [AI Experiments: Visualizing High-Dimensional Space](https://youtu.be/wvsE8jm1GzE?feature=shared)
+* [Heidelberg Laureate Fellows - David Blei](https://www.youtube.com/watch?v=gH9zhs9XXaU)
 
 ## Art + Technology
 * [EYEO Festival Archive](https://vimeo.com/eyeofestival)
@@ -49,7 +52,7 @@ nav_order: 6
 * [Utah 50th Annniversary Celebration - Frontiers of Computing by Steven Parker](https://youtu.be/nXwLS5Dkbv8?feature=shared) 
 * [Audition Storytime Part 1 - Brie Larson](https://youtu.be/zE3t0gjm2tw?feature=shared)
 * [Audition Storytime Part 2 - Brie Larson](https://youtu.be/t9CcjI0SOcU?feature=shared) 
-* [Heidelberg Laureate Portraits: Eric A. Brewer](https://youtu.be/ggR00XsT9Bo?feature=shared)
+* [Heidelberg Laureate Portraits: Eric A. Brewer](https://youtu.be/ggR00XsT9Bo?si=FNmF-JFTIjPfwLXO)
 * [Alex Krentsel Interview: From Google to Berkeley PhD, Systems Research, and Teaching](https://youtu.be/kDS8UO0q7jA?si=Z2KONri6_rARE8qx)
 * [Ritwik Gupta Interview: AI Policy and Impactful AI Research](https://youtu.be/jiLRDSTMDXk?si=DJii4PW46ez9Tpi8)
 * [Curtis Northcutt: From Rural Roots to AI Founder](https://youtu.be/niqil5GAN0w?si=5BKJrCTI8rHtHOEH)
