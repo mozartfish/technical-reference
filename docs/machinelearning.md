@@ -69,12 +69,19 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 #### Bayesian Data Analysis 
 * [Aalto CS-E5710 - Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/)
 
-## Programming 
+## Engineering
+### Programming Languages 
 * [QuantEcon](https://quantecon.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Python for Data Analysis](https://wesmckinney.com/book/)
 * [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) - follow this book if you want to learn PyTorch
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) - follow this book if you want to learn TensorFlow which is still used heavily for production machine learning
+### Tools and Practices 
+* [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - this course is updating January 2026 to introduce best practices for AIML Engineering. Curtis, Anish, Jonas and company are genius teachers and engineers so this is definitely a must watch
+* [Utah MSD Git](https://youtube.com/playlist?list=PLbdXd8eufjyUwR5ksEiFu529UD_kY1A_a&feature=shared)
+* [Chip Huyen AIE Book Reference](https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals)
+### Potpurri 
+* [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
+* [Advent of Code](https://adventofcode.com/)
 
 ## Machine Learning Fundamentals 
 * [StatQuest](https://statquest.org/video-index/)
@@ -96,68 +103,54 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 124 - From Languages to Information - Lectures](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
 * [Stanford CS 124 - From Languages to Information - Course GitHub](https://github.com/cs124)
 
-## Machine Learning Subfields 
-### Deep Learning - Fundamentals 
+## Deep Learning 
+### Fundamentals 
 * [Sebastian Raschka Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [Neural Networks Zero to to Hero - Lectures 1-6](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 * [3Blue1Brown Neural Networks Lectures 1-4](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
-### Deep Learning - LLMS
+### LLMS 
 * [Grant Sanderson Visualizing transformers and attention](https://youtu.be/KJtZARuO3JY?si=r11r-0NbrX1H1o7L)
 * [Andrej Karpathy 1 Hour Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=WKa2-OhiOUeBXEeJ)
 * [Andrej Karpathy Deep Dive Into LLMs Like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=hSpi8NGr-7EWG_RB)
 * [Neural Networks Zero to to Hero - Lectures 7, 9-10](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 * [3Blue1Brown Neural Networks - Lectures 5-8](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
-### Deep Learning - NLP
+### NLP 
 * [CS 224N Natural Language Processing With Deep Learning](https://web.stanford.edu/class/cs224n/)
 * [CS 224N Natural Language Processing With Deep Learning - Lectures](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=gO-JiDUekbbotgA1)
 * [Utah CS 6340 - Natural Language Processing](https://www.anamarasovic.com/teaching/)
 
-### Mechanistic Interpretability + Alignment
-* [Neural Networks are Weird! Neel Nanda](https://youtu.be/YpFaPKOeNME?si=1byw9-F_qWdX35sA)
-* [Mechanistic Interpretability - Neel Nanda](https://youtu.be/_Ygf0GnlwmY?si=pdB6Lm6xQREH39eB)
-* [Neel Nanda Mechanistic Interpretability Materials](https://www.neelnanda.io/mechanistic-interpretability)
-* [ARENA](https://arena-resources.notion.site/ARENA-Virtual-Resources-ba4481a64239456bb5a9b3d37a7765f6)
-
-### Data Centric Machine Learning 
-* [MIT Data Centric AI](https://dcai.csail.mit.edu/)
-
-### Scalable Machine Learning + ML Systems 
+## Systems - AIML, Distributed
 * [Made With ML](https://madewithml.com/)
 * [KTH ID 2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
-* [KTH ID 2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
 * [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course)
 
-### Deep Generative Modeling
+## Generative AI 
 * [Stanford CS 236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
 * [Stanford CS 236 - Deep Generative Models Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
 
-### Search Engines, Information Retrieval, Data Mining
-* [Utah CS 6140 - Data Mining Spring 2023](https://utah-data-mining-spring23.github.io/)
-* [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
-
-### Image Analysis and Computer Vision 
+## Visual Computing 
+### Computer Vision 
+* [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
 * [Stanford CS 231N](https://cs231n.stanford.edu/)
 * [Stanford CS 231N 2017 - Lectures](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=Qf-Ew3kHTTC1hOGi)
-* [Hany Farid Computer Vision](https://youtube.com/playlist?list=PLhwIOYE-ldwL6h-peJADfNm8bbO3GlKEy&feature=shared)
-
-### Human-AI Interaction - Visualization, Creative Coding
-#### Visualization 
+### Visualization 
 * [MIT 6/11.C85 - Interactive Data Visualization & Society](https://vis-society.github.io/)
 * [Svelte + D3](https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8)
-#### Creative Coding 
+### Creative Coding 
 * [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
 * [Machine Learning for Physical Computing](https://github.com/yining1023/Machine-Learning-for-Physical-Computing)
 * [Harvard CS 73](https://wattenberg.github.io/cs73/)
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
-## Engineering
-* [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-* [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
-* [Advent of Code](https://adventofcode.com/)
-* [Utah MSD Git](https://youtube.com/playlist?list=PLbdXd8eufjyUwR5ksEiFu529UD_kY1A_a&feature=shared)
-* [Chip Huyen AIE Book Reference](https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals)
+## Data Centric Machine Learning 
+* [MIT Data Centric AI](https://dcai.csail.mit.edu/)
+
+## Search Engines, Information Retrieval, Data Mining
+* [Utah CS 6140 - Data Mining Spring 2023](https://utah-data-mining-spring23.github.io/)
+* [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
+
 
 ## answerAI 
 [answerAI](https://www.answer.ai/) was founded by Jeremy Howard and Eric Rees in 2023 as a new R&D lab focusing on fundamental research and the development of practical applications based on research breakthroughs. answerAI is the successor to [fastAI](https://www.fast.ai/) which was founded by Jeremy Howard and [Rachel Thomas](https://rachel.fast.ai/). fastAI left a legacy with its machine learning research and highly regarded state of the art machine learning courses that aimed to make deep learning accessible to everyone regardless of their math background which was revolutionary at the time the courses were released. Today fastai's materials are still used as an entry to the fields of deep learning and generative AI and at the University of San Francisco MS Data Science Program. Jeremy and his team still produce educational videos from time to time on [youtube](https://youtube.com/@howardjeremyp?feature=shared) and [continue to teach and innovate](https://www.answer.ai). 
