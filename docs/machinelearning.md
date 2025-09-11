@@ -89,6 +89,7 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 * [Statistical Learning With Python](https://youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&feature=shared)
 ### Machine Learning 
 * [Sebastian Raschka Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
+* [Cornell Applied Machine Learning](https://kuleshov-group.github.io/aml-website/)
 * [KTH DD1420 - Foundations of Machine Learning](https://dd1420.notion.site/DD1420-Lecture-Notes-b555e017345a4119950ce8fd67133275)
 * [University of Utah CS 6350 - Machine Learning](https://users.cs.utah.edu/~zhe/teach/cs6350.html)
 ### Probabilistic Machine Learning 
@@ -124,7 +125,8 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [KTH ID 2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
 * [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course)
 
-## Generative AI 
+## Generative Modeling, Deep Generative Modeling and Synthesis
+* [Cornell - Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
 * [Stanford CS 236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
 * [Stanford CS 236 - Deep Generative Models Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
@@ -133,7 +135,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ### Computer Vision 
 * [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
 * [Stanford CS 231N](https://cs231n.stanford.edu/)
-* [Stanford CS 231N 2017 - Lectures](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=Qf-Ew3kHTTC1hOGi)
+* [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)
 ### Visualization 
 * [MIT 6/11.C85 - Interactive Data Visualization & Society](https://vis-society.github.io/)
 * [Svelte + D3](https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8)

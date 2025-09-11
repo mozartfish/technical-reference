@@ -69,6 +69,9 @@ These are textbooks/papers that I find really helpful and consult frequently.
 ### Statistical Perspective 
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
+### Applied (Modern + Generative Modeling)
+* [Volodomyr Kuleshov Notes](https://kuleshov-group.github.io/aml-book/intro.html)
+
 ### Probabilistic Perspective 
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - KTH DD2447 Textbook
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - KTH DD2434 Textbook, KTH DD2447 Textbook
