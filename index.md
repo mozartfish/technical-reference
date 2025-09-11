@@ -8,6 +8,18 @@ Hi! My name is Pranav and I created this website to keep track of all the blog p
 
 This website originally started off as a google doc which became difficult to maintain so I decided to move it online inspired by the [UCB HCI Prelim](https://chanwutk.github.io/ucbhciprelim/) website. Most of the resources and links relate to my interests in machine learning and its applications in visual computing, Human-AI Interaction, systems (specifically for AIML) and language technologies.<br> 
 
-Special thanks to [Ryan Stutsman](https://rstutsman.github.io/), [Jeff Phillips](https://users.cs.utah.edu/~jeffp/), [Varun Shankar](https://users.cs.utah.edu/~shankar/), [Bei Wang](https://www.sci.utah.edu/~beiwang/), [Christopher R. Johnson](https://users.cs.utah.edu/~crj/), [Thomas Henderson](https://users.cs.utah.edu/~tch/), [Andrew McNutt](https://www.mcnutt.in/), [Johan Boye](https://www.csc.kth.se/~jboye/), [Shivam Raval](https://shivam-raval96.github.io/), [James Wexler](https://research.google/people/105507/?&type=google), [Catherine Yeh](https://catherinesyeh.github.io/), [Alberto Cairo](https://openvisualizationacademy.org/), [Shirley Wu](https://www.shirleywu.studio/), [Amelia Wattenberger](https://wattenberger.com/), [Connor Rothschild](https://www.connorrothschild.com/), [Jonathan Zong](https://jonathanzong.com/), [Martin Wattenberg](https://www.bewitched.com/), [Fernanda Viegas](http://www.fernandaviegas.com/), [Frank Elavsky](https://www.frank.computer/), [Eunice Jun](https://emjun.github.io/), [EYEO Festival](https://eyeofestival.com/), and lastly my friends/group project teammates for the resources, teaching, community, emails, mentorship, and late night debugging and deadline crunch sessions.<br> 
+Special thanks to the following people: 
+
+**Systems**: [Ryan Stutsman](https://rstutsman.github.io/), [Amir Payberah](https://payberah.github.io/), [Matthew Flatt](https://users.cs.utah.edu/~mflatt/)
+
+**Visualization**: [Bei Wang](https://www.sci.utah.edu/~beiwang/), [Christopher R. Johnson](https://users.cs.utah.edu/~crj/), [Andrew McNutt](https://www.mcnutt.in/), [Catherine Yeh](https://catherinesyeh.github.io/), [Alberto Cairo](https://openvisualizationacademy.org/), [Shirley Wu](https://www.shirleywu.studio/), [Amelia Wattenberger](https://wattenberger.com/), [Connor Rothschild](https://www.connorrothschild.com/), [Jonathan Zong](https://jonathanzong.com/), [Martin Wattenberg](https://www.bewitched.com/), [Fernanda Viegas](http://www.fernandaviegas.com/), [Frank Elavsky](https://www.frank.computer/), [Zhutian Chen](https://chenzhutian.org/), [Tica Lin](https://ticalin.com/),
+
+**Data, Numerical Computing**: [Jeff Phillips](https://users.cs.utah.edu/~jeffp/), [Varun Shankar](https://users.cs.utah.edu/~shankar/), [Thomas Henderson](https://users.cs.utah.edu/~tch/), [Johan Boye](https://www.csc.kth.se/~jboye/), [Shivam Raval](https://shivam-raval96.github.io/), [Eunice Jun](https://emjun.github.io/), [Ansel Blume](https://anselblume.github.io/), [Trevor Manz](https://trevorma.nz/)
+
+**Engineering**: [James Wexler](https://research.google/people/105507/?&type=google), [Carl Thome](https://carlthome.github.io/), Houssam Kherraz 
+
+**Creative Technology**: [Yun Choi](https://www.wowlab-research.com/), [Jake Chvatal](https://jake.kitchen/), [Katherine Yang](https://kayserifserif.place/), [Leslie Liu](https://liuleslie.github.io/)
+
+[EYEO Festival](https://eyeofestival.com/) and lastly my friends/group project teammates for the resources, teaching, community, emails, mentorship, and late night debugging and deadline crunch sessions.<br> 
 
 If you have any suggestions about what I should add or reorganize please reach out over [email](mailto:pranavr@kth.se)! 
