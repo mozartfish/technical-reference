@@ -20,8 +20,8 @@ Special thanks to the following people:
 
 **Engineering**: [James Wexler](https://research.google/people/105507/?&type=google), [Carl Thome](https://carlthome.github.io/), Houssam Kherraz
 
-**Creative Technology**: [Yun Choi](https://www.wowlab-research.com/), [Jake Chvatal](https://jake.kitchen/), [Katherine Yang](https://kayserifserif.place/), [Leslie Liu](https://liuleslie.github.io/)
+**Creative Technology**: [EYEO Festival](https://eyeofestival.com/), [Yun Choi](https://www.wowlab-research.com/), [Jake Chvatal](https://jake.kitchen/), [Katherine Yang](https://kayserifserif.place/), [Leslie Liu](https://liuleslie.github.io/)
 
-[EYEO Festival](https://eyeofestival.com/) and lastly my friends/group project teammates for the resources, teaching, community, emails, mentorship, and late night debugging and deadline crunch sessions.<br> 
+ and lastly my friends/group project teammates for the resources, teaching, community, emails, mentorship, and late night debugging and deadline crunch sessions.<br> 
 
 If you have any suggestions about what I should add or reorganize please reach out over [email](mailto:pranavr@kth.se)! 
