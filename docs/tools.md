@@ -19,9 +19,9 @@ This page is a place where I keep track of what libraries and tools I use in my 
 
 My goal as a machine learning engineer is to build tools that make data and models more accessible and interpretable. In particular, I am excited about working at the intersection of machine learning, math, interactive visualization, data science and software engineering to help solve problems across data domains. In the following sections I describe the tools that I use for the problems I currently work on. 
 
-I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to understand my tools to at least 1/8 of his knowledge which I learned the hard way comes from countless hours of debugging, experimentation and writing software.  
+I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to deeply understand the tools I use, debugging, writing clear code, and reasoning about technical tradeoffs in software design. This page was inspired by his teaching and keeping a list of helpful tricks for engineering and debugging. In the age of chatgpt and llms his advice still holds - the only way to become a better engineer is to spend countless hours debugging, experimenting and writing code.  
 
-**Note: This page is getting constantly updated - Last update: August 14, 2025.**
+**Note: This page is getting constantly updated - Last update: September 14, 2025.**
 
 ## General Tools
 ### Editors + IDES

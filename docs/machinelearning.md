@@ -150,9 +150,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
 
 ## Search Engines, Information Retrieval, Data Mining
-* [Utah CS 6140 - Data Mining Spring 2023](https://utah-data-mining-spring23.github.io/)
 * [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
-
 
 ## answerAI 
 [answerAI](https://www.answer.ai/) was founded by Jeremy Howard and Eric Rees in 2023 as a new R&D lab focusing on fundamental research and the development of practical applications based on research breakthroughs. answerAI is the successor to [fastAI](https://www.fast.ai/) which was founded by Jeremy Howard and [Rachel Thomas](https://rachel.fast.ai/). fastAI left a legacy with its machine learning research and highly regarded state of the art machine learning courses that aimed to make deep learning accessible to everyone regardless of their math background which was revolutionary at the time the courses were released. Today fastai's materials are still used as an entry to the fields of deep learning and generative AI and at the University of San Francisco MS Data Science Program. Jeremy and his team still produce educational videos from time to time on [youtube](https://youtube.com/@howardjeremyp?feature=shared) and [continue to teach and innovate](https://www.answer.ai). 

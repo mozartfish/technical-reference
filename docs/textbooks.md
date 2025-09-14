@@ -127,19 +127,6 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 
 ## Technical Interviews 
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+* [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 * [Neetcode](https://neetcode.io/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
