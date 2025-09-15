@@ -26,7 +26,7 @@ nav_order: 6
 * [GraphQL: The Documentary](https://youtu.be/783ccP__No8?feature=shared)
 ### Programming Languages 
 * [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?feature=shared)
-* [Python](https://youtu.be/pqBqdNIPrbo?si=6DKlZufFVH3a02VA)
+* [Python](https://youtu.be/GfH4QL4VqJ0?si=en1SZTpPi-Ilv3_P)
 * [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators](https://youtu.be/yCd3CzGSte8?si=oC7BvqCdXlbJK-bR)
 * [Chris Lattner: The Future of Computing and Programming Languages ](https://youtu.be/nWTvXbQHwWs?si=oQL90FiVPwNrbAcS)
 * [Chris Lattner: Future of Programming and AI](https://youtu.be/pdJQ8iVTwj8?si=hgHgjnaFmujFpIhg)

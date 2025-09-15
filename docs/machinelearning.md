@@ -122,8 +122,9 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 
 ## Systems - AIML, Distributed
 * [Made With ML](https://madewithml.com/)
-* [KTH ID 2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
+* [KTH ID2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
 * [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course)
+* [KTH ID2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
 
 ## Generative Modeling, Deep Generative Modeling and Synthesis
 * [Cornell - Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
@@ -132,7 +133,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
 
 ## Visual Computing 
-### Computer Vision 
+### Computer Vision + Image Analysis
 * [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
 * [Stanford CS 231N](https://cs231n.stanford.edu/)
 * [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)

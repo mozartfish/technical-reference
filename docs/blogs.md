@@ -19,7 +19,7 @@ nav_order: 5
 * [Amelia Wattenberger](https://wattenberger.com/)
 * [The Sephist](https://thesephist.com)
 * [Shirley Wu](https://www.shirleywu.studio/notebook)
-* [Fernanda Viegas & Martin Wattenberg](https://medium.com/@hint_fm)
+* [Fernanda Viega + Martin Wattenberg](https://medium.com/@hint_fm)
 * [Matt Might](https://matt.might.net/articles/)
 * [John Regehr](https://blog.regehr.org/)
 * [Andrej Karpathy](https://karpathy.github.io/)
