@@ -40,12 +40,15 @@ These are textbooks/papers that I find really helpful and consult frequently.
 ## Data Tools - Programming Languages, Libraries, Frameworks
 ### Programming Languages 
 * [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
+
 ### Numerical Computing Tools 
 * [Python For Data Analysis](https://wesmckinney.com/book/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 ### Machine Learning/Deep Learning
 * [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+* [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
+
 ### Databases 
 * [MySQL](https://www.mysqltutorial.org/)
 * [MariaDB](https://www.mariadbtutorial.com/)
@@ -75,7 +78,6 @@ These are textbooks/papers that I find really helpful and consult frequently.
 ### Probabilistic Perspective 
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - KTH DD2447 Textbook
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - KTH DD2434 Textbook, KTH DD2447 Textbook
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 #### Variational Inference 
 Variational Inference is an approximation method in Probabilistic Machine Learning and was the focus of KTH DD2434. It's very confusing if you are unfamiliar with some of the traditional methods like MCMC, SMC and Bayesian Statistics(this was me when I took the class lol) 
@@ -102,9 +104,9 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 * The StatQuest Illustrate Guide to Neural Networks and AI
 
 ## Applied Machine Learning
-### Visual Computing
 #### Computer Vision/Image Analysis
 * [Foundations of Computer Vision](https://visionbook.mit.edu/)
+
 #### Visualization 
 * [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/)
 * The Grammar of Graphics 
@@ -114,6 +116,7 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 * The Truthful Art 
 * How Charts Lie 
 * The Art of Insight
+
 #### Creative Coding
 * [The Nature of Code](https://nature-of-code-2nd-edition.netlify.app/)
 * [The Book of Shaders](https://thebookofshaders.com/)
@@ -123,7 +126,6 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 * [Natural Language Processing with Python](https://www.nltk.org/book/) - KTH DD2417 Reference Textbook
 * [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/) - KTH DD2417 Textbook 
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - KTH DD2477 Textbook
-* [Build a Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
 ## Technical Interviews 
 * [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)

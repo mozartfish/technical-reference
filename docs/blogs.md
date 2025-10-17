@@ -33,13 +33,10 @@ nav_order: 5
 * [Transformer Circuits Pub](https://transformer-circuits.pub/)
 * [Distill](https://distill.pub/)
 
-### Interpretability 
-* [Neel Nanda](https://www.neelnanda.io/)
-* [Chris Olah](https://colah.github.io/)
-
 ## Visualization 
 * [Open Visualization Academy](https://openvisualizationacademy.org)
 * [Flowing Data](https://flowingdata.com/)
+
 ### ML Visualization 
 * [Ian Johnson](https://enjalot.substack.com/)
 

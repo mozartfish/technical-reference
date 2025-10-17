@@ -34,7 +34,6 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 * [vscode](https://code.visualstudio.com/), opensource version: [vscodium](https://vscodium.com/). GitHub copilot and its autocomplete is such a nuisance that I have turned it off. If I need AI help, Gemini is more useful. 
 * [vim](https://openvim.com/)
 * [intellij](https://www.jetbrains.com/idea/)
-- [cursor](https://cursor.com/) - use with caution. It's a super powerful tool but also a huge debugging headache. I haven't personally used it but some of my friends in the ml and vis communities like it for prototyping. 
 
 ### Terminal
 * [tmux](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
@@ -42,7 +41,6 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 ### Testing 
 * [pyTest](https://docs.pytest.org/en/stable/)
 * [JUnit](https://junit.org/junit5/)
-* [GoogleTest](https://google.github.io/googletest/)
 
 ### Linters, Formatters 
 * [ruff](https://docs.astral.sh/ruff/)
@@ -63,7 +61,7 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 * [Quarto](https://quarto.org/)
 * [Typst](https://typst.app/)
 
-## Package Managers 
+### Package Managers 
 - [uv](https://docs.astral.sh/uv/)
 - [pip](https://pypi.org/project/pip/)
 - [cargo](https://doc.rust-lang.org/cargo/)
@@ -77,13 +75,16 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 ### Monitoring 
 * [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
 - [weights and biases]()https://wandb.ai/site/
-- [grafana](https://grafana.com/)
 
 ## Programming Languages 
 * [Python](https://www.python.org/) - machine learning, scripting, prototyping and almost all of my development these days
 * [Bash](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - compile and running programs, experiments etc.
 * [Java](https://www.oracle.com/java/technologies/downloads/) - information retrieval, data engineering
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - interfaces, creative coding, interactive visualization
+### Python Libraries 
+* [tqdm](https://tqdm.github.io/)
+* [rich](https://rich.readthedocs.io/en/stable/introduction.html)
+* [pathlib](https://docs.python.org/3/library/pathlib.html)
 
 ## Data
 ### Core Libraries 
@@ -95,15 +96,9 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 ### Notebooks
 * [marimo](https://marimo.io/)
 * [google colab](https://colab.research.google.com/)
-* [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install) - if you can, stop using this and move to marimo.
 
 ### Machine Learning 
 * [scikit-learn](https://scikit-learn.org/stable/index.html) - [installation](https://scikit-learn.org/stable/install.html)
-
-#### Probabilistic Machine Learning + Generative Modeling
-These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but included them anyway for people interested in bayesian modeling and probabilistic machine learning
-* [cmdstanpy](https://mc-stan.org/docs/cmdstan-guide/) - [installation](https://mc-stan.org/docs/cmdstan-guide/installation.html)
-* [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
 
 #### Deep Learning
 * [pytorch](https://pytorch.org/) - [installation](https://pytorch.org/get-started/locally/)
@@ -147,16 +142,7 @@ At the time of this writing, d3's capabilities are unmatched for interactive vis
 ### JavaScript Frameworks 
 Not learning a JS framework was the biggest regret I had from my Utah days. For choosing a framework, it really depends on how well you know javascript and your project goals (see the framework documentaries in the talks page). Since I'm interested in interactive visualization for machine learning, svelte seems to be the most widely adopted based on the tools and research published by [Anthropic](https://transformer-circuits.pub/), [Apple AIML](https://machinelearning.apple.com/research) [Google DeepMind PAIR](https://pair.withgoogle.com/explorables/) and OpenAI hiring [Jay Wang](https://zijie.wang/). I wouldn't count out vue and react because [Catherine Yeh](https://catherinesyeh.github.io/) built [AttentionVis](https://catherinesyeh.github.io/attn-docs/) with vue and the [Polo Club for Data Science](https://poloclub.github.io/) publishes a wide range of ml-vis tools using svelte, vue and react.
 * [Svelte](https://svelte.dev/)
-* [Vue](https://vuejs.org/)
-* [React](https://react.dev/)
-
-### Component Libraries 
-#### Svelte 
 - [FlowBite](https://flowbite-svelte.com/)
-#### Vue 
-* [Vuetify](https://vuetifyjs.com/en/)
-#### React 
-* [Mantine](https://mantine.dev/)
 
 ## Systems Programming + Infrastructure
 ### Software Frameworks
@@ -171,38 +157,22 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ### Data Processing
 - [pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
 - [mllib](https://spark.apache.org/docs/latest/ml-guide.html)
-- [kafka](https://kafka.apache.org/)
 * [polars](https://pola.rs/)
-- [flink](https://flink.apache.org)
-- [storm](https://storm.apache.org) 
 
 ### Databases 
 #### rdbms 
 - [postgresql](https://neon.com/postgresql/tutorial)
-- [mysql](https://www.mysqltutorial.org)
-- [mariadb](https://www.mariadbtutorial.com)_
-- [microsoftsql](https://www.sqlservertutorial.net)
-- [sqllitedb](https://www.sqlitedb.com/)
 #### nosql 
 - [mongodb](https://www.mongodb.com/)
 - [duckdb](https://duckdb.org/)
-- [cassandradb](https://cassandra.apache.org/_/index.html)
-- [couchdb](https://couchdb.apache.org/)
-- [cockroachdb](https://www.cockroachlabs.com/)
 
 ### ML Interfaces, Deployment, etc. 
 * [gradio](https://www.gradio.app)
 * [huggingface spaces](https://huggingface.co/spaces)
 
-# Things on my to learn list 
-These are things I need to learn more about to become a better engineer
-## Python Libraries 
-* [tqdm](https://tqdm.github.io/)
-* [rich](https://rich.readthedocs.io/en/stable/introduction.html)
-* [pathlib](https://docs.python.org/3/library/pathlib.html)
-
 # Things I wish I had time to explore and learn more about
 These are things that I wish I had time to explore 
+
 ## Creative Coding 
 I first heard about this at the EYEO Festival. I started with Dan Shiffman's [Coding Train](https://thecodingtrain.com/) but shifted to Kevin Workman's [Happy Coding](https://happycoding.io/) and then stopped. It was a lot of fun to use p5 and it explained some of the javascript quirks I struggled with. After seeing all the cool stuff put out by Martin Wattenberg, Fernanda Viegas, Golan Levin, Ravi Chugh, and Andrew McNutt I want to pick it up again and try to implement some of the projects from Code as a Creative Medium. 
 * [p5.js](https://p5js.org/)

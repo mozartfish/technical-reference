@@ -63,11 +63,6 @@ Before LLMS, one of my professors recommended always having documentation and st
 * [marimo guide](https://docs.marimo.io/)
 * [umap guide](https://umap-learn.readthedocs.io/en/latest/index.html)
 
-## Probabilistic Modeling
-* [Stan User Guide](https://mc-stan.org/docs/stan-users-guide/index.html)
-* [PyStan Docs](https://pystan.readthedocs.io/en/latest/)
-* [PyMC API](https://www.pymc.io/projects/docs/en/stable/api.html)
-
 ## Machine Learning 
 * [scikit-learn guide](https://scikit-learn.org/stable/user_guide.html)
 * [pytorch docs](https://docs.pytorch.org/docs/stable/index.html)
@@ -88,9 +83,6 @@ Before LLMS, one of my professors recommended always having documentation and st
 ### Svelte(SvelteKit)
 * [Svelte Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
 * [Svelte](https://svelte.dev/docs/svelte/overview)
-### React(Next)
-* [React guide](https://react.dev/learn)
-* [Next guide](https://nextjs.org/docs/app/getting-started)
 
 ## Creative Coding 
 * [p5.js reference](https://p5js.org/reference/)
