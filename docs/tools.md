@@ -15,34 +15,41 @@ nav_order: 3
 
 ---
 ## Background
-This page is a place where I keep track of what libraries and tools I use in my work. This page is inspired by [uses this](https://usesthis.com/interviews/), [the missing semester of your cs education](https://missing.csail.mit.edu/), [the pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), [strangeloop](https://www.thestrangeloop.com/index.html), [eyeo festival](https://eyeofestival.com/).
+This page is a place where I keep track of what libraries and tools I have used/currently using. This page is inspired by [uses this](https://usesthis.com/interviews/), [the missing semester of your cs education](https://missing.csail.mit.edu/), [the pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), [strangeloop](https://www.thestrangeloop.com/index.html), [eyeo festival](https://eyeofestival.com/). 
 
-My goal as a machine learning engineer is to build tools that make data and models more accessible and interpretable. In particular, I am excited about working at the intersection of machine learning, math, interactive visualization, data science and software engineering to help solve problems across data domains. In the following sections I describe the tools that I use for the problems I currently work on. 
+I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Sundar Rajan, Ron Minnich, James Wexler, [Ryan Stutsman](https://rstutsman.github.io), [Jakob Johnson](https://jakobj.dev), Peter Jensen, [Jeff Phillips](https://users.cs.utah.edu/~jeffp/) and [Varun Shankar](https://users.cs.utah.edu/~shankar/) whose teaching, office hours, and conversations gave me a foundation for not only understanding how to debug and navigate all levels of the technical stack but also core engineering practices - environment/tool setup, experimentation and monitoring setup, command line hacks, numerical programming, and the mental fortitutde you need for finding and fixing bugs. 
 
-I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to deeply understand the tools I use, debugging, writing clear code, and reasoning about technical tradeoffs in software design. This page was inspired by his teaching and keeping a list of helpful tricks for engineering and debugging. In the age of chatgpt and llms his advice still holds - the only way to become a better engineer is to spend countless hours debugging, experimenting and writing code.  
+ In the age of chatgpt and llms their advice still holds - the only way to become a better engineer is to spend countless hours debugging, experimenting and writing code.  
 
-**Note: This page is getting constantly updated - Last update: September 14, 2025.**
+**Note: This page is getting constantly updated - Last update: October 17, 2025.**
 
 ## General Tools
+### AI Tools 
+- [Lumi](https://lumi.withgoogle.com/#/)
+- [NotebookLM](https://notebooklm.google.com/notebook/)
+- [Gemini](https://gemini.google.com/) - the Gems Coding Partner tool is super useful for understanding syntax, patterns and languages
+- [Claude](https://claude.ai/) 
+
 ### Editors + IDES
-* [vscode](https://code.visualstudio.com/), opensource version: [vscodium](https://vscodium.com/)
+* [vscode](https://code.visualstudio.com/), opensource version: [vscodium](https://vscodium.com/). GitHub copilot and its autocomplete is such a nuisance that I have turned it off. If I need AI help, Gemini is more useful. 
 * [vim](https://openvim.com/)
 * [intellij](https://www.jetbrains.com/idea/)
+- [cursor](https://cursor.com/) - use with caution. It's a super powerful tool but also a huge debugging headache. I haven't personally used it but some of my friends in the ml and vis communities like it for prototyping. 
 
 ### Terminal
 * [tmux](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-
-### LLMs
-* [Claude](https://claude.ai/)
-* [Gemini](https://gemini.google.com/)
 
 ### Testing 
 * [pyTest](https://docs.pytest.org/en/stable/)
 * [JUnit](https://junit.org/junit5/)
 * [GoogleTest](https://google.github.io/googletest/)
 
-### Containers 
-* [docker](https://www.docker.com)
+### Linters, Formatters 
+* [ruff](https://docs.astral.sh/ruff/)
+- [prettier](https://prettier.io)
+
+### Container Environments 
+* [docker](https://www.docker.com) 
 
 ### Version Control 
 * [git](https://git-scm.com)
@@ -56,10 +63,21 @@ I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to dee
 * [Quarto](https://quarto.org/)
 * [Typst](https://typst.app/)
 
+## Package Managers 
+- [uv](https://docs.astral.sh/uv/)
+- [pip](https://pypi.org/project/pip/)
+- [cargo](https://doc.rust-lang.org/cargo/)
+- [npm](https://www.npmjs.com/)
+
 ### Datasets 
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 * [fivethirtyeight datasets](https://github.com/fivethirtyeight)
 * [Martin Wattenberg datasets](https://github.com/wattenberg/data)
+
+### Monitoring 
+* [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
+- [weights and biases]()https://wandb.ai/site/
+- [grafana](https://grafana.com/)
 
 ## Programming Languages 
 * [Python](https://www.python.org/) - machine learning, scripting, prototyping and almost all of my development these days
@@ -68,8 +86,6 @@ I'd like to thank Ryan Stutsman whose teaching and office hours pushed me to dee
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - interfaces, creative coding, interactive visualization
 
 ## Data
-I currently use conda as my package and environment manager but I am trying to move to a combination of uv and venv after [this happened](https://www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/).
-
 ### Core Libraries 
 * [numpy](https://numpy.org) - [installation](https://numpy.org/install/)
 * [scipy](https://scipy.org) - [installation](https://scipy.org/install/)
@@ -77,27 +93,28 @@ I currently use conda as my package and environment manager but I am trying to m
 * [matplotlib](https://matplotlib.org/) - [installation](https://matplotlib.org/stable/users/getting_started/)
 
 ### Notebooks
-* [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install)
 * [marimo](https://marimo.io/)
 * [google colab](https://colab.research.google.com/)
+* [jupyter lab](https://jupyter.org/) - [installation](https://jupyter.org/install) - if you can, stop using this and move to marimo.
 
 ### Machine Learning 
 * [scikit-learn](https://scikit-learn.org/stable/index.html) - [installation](https://scikit-learn.org/stable/install.html)
 
 #### Probabilistic Machine Learning + Generative Modeling
-These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but want to try them at some point with Ben Lambert's tutorials
+These are a specialized set of tools for probabilistic machine learning and probablistic programming with efficient and accurate implementations of MCMC and other probabilistic methods/algorithms. I have not used any of these but included them anyway for people interested in bayesian modeling and probabilistic machine learning
 * [cmdstanpy](https://mc-stan.org/docs/cmdstan-guide/) - [installation](https://mc-stan.org/docs/cmdstan-guide/installation.html)
 * [pymc](https://www.pymc.io/welcome.html) - [installation](https://www.pymc.io/projects/docs/en/latest/installation.html)
 
 #### Deep Learning
 * [pytorch](https://pytorch.org/) - [installation](https://pytorch.org/get-started/locally/)
+* [pytorch lightning](https://lightning.ai/docs/pytorch/stable/) - [installation](https://lightning.ai/docs/pytorch/stable/starter/installation.html)
 
 ### Visualization
 The python visualization ecosystem is fragmented and choosing the right visualization library depends on the project and audience. Many of the python visualization libraries build off of matplotlib. Matplotlib while tedious is super power powerful and versatile, with the ability to render interactive 3d plots, conic sections and do image processing work. Seaborn is great for statistical charts with an aesthetic similar to ggplot but the syntax can get gnarly. Altair is an easy to learn member of the Vega-Lite ecosystem but requires deep knowledge of the grammar of graphics and gets knarly with interaction and customizability.
 * [seaborn](https://seaborn.pydata.org/) - [installation](https://seaborn.pydata.org/installing.html)
 * [plotly](https://plotly.com/python/) - [installation](https://plotly.com/python/getting-started/#installation)
 * [altair](https://altair-viz.github.io) - [installation](https://altair-viz.github.io/getting_started/installation.html)
-* [Kepler-Mapper](https://kepler-mapper.scikit-tda.org/en/latest/)
+* [kepler-mapper](https://kepler-mapper.scikit-tda.org/en/latest/)
 
 ### Dimensionality Reduction 
 * [DataMapPlot](https://datamapplot.readthedocs.io/en/latest/) - [installation](https://datamapplot.readthedocs.io/en/latest/installation.html)
@@ -108,10 +125,14 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 * [nltk](https://www.nltk.org/)
 * [spacy](https://spacy.io/)
 * [elasticsearch](https://www.elastic.co/elasticsearch)
+* [huggingface transformers](https://huggingface.co/docs/transformers/en/index)
 
 ### Image Analysis and Computer Vision
 * [scikit-image](https://scikit-image.org) - [installation](https://scikit-image.org/docs/stable/user_guide/install.html)
 * [torchvision](https://pytorch.org/vision/stable/index.html)
+
+### Audio 
+- [librosa](https://librosa.org)
 
 ## Interactive Visualization 
 ### D3
@@ -131,8 +152,7 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 
 ### Component Libraries 
 #### Svelte 
-* [Attractions UI](https://illright.github.io/attractions/)
-* [Svelte UI](https://svelteui.dev/)
+- [FlowBite](https://flowbite-svelte.com/)
 #### Vue 
 * [Vuetify](https://vuetifyjs.com/en/)
 #### React 
@@ -145,10 +165,34 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 ### API
 * [fastapi](https://fastapi.tiangolo.com)
 
+### AI Infrastructure
+- [Modal](https://modal.com/)
+
+### Data Processing
+- [pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
+- [mllib](https://spark.apache.org/docs/latest/ml-guide.html)
+- [kafka](https://kafka.apache.org/)
+* [polars](https://pola.rs/)
+- [flink](https://flink.apache.org)
+- [storm](https://storm.apache.org) 
+
+### Databases 
+#### rdbms 
+- [postgresql](https://neon.com/postgresql/tutorial)
+- [mysql](https://www.mysqltutorial.org)
+- [mariadb](https://www.mariadbtutorial.com)_
+- [microsoftsql](https://www.sqlservertutorial.net)
+- [sqllitedb](https://www.sqlitedb.com/)
+#### nosql 
+- [mongodb](https://www.mongodb.com/)
+- [duckdb](https://duckdb.org/)
+- [cassandradb](https://cassandra.apache.org/_/index.html)
+- [couchdb](https://couchdb.apache.org/)
+- [cockroachdb](https://www.cockroachlabs.com/)
+
 ### ML Interfaces, Deployment, etc. 
 * [gradio](https://www.gradio.app)
 * [huggingface spaces](https://huggingface.co/spaces)
-* [docker](https://www.docker.com/)
 
 # Things on my to learn list 
 These are things I need to learn more about to become a better engineer
@@ -156,21 +200,6 @@ These are things I need to learn more about to become a better engineer
 * [tqdm](https://tqdm.github.io/)
 * [rich](https://rich.readthedocs.io/en/stable/introduction.html)
 * [pathlib](https://docs.python.org/3/library/pathlib.html)
-* [pydantic](https://docs.pydantic.dev/latest/)
-* [ruff](https://docs.astral.sh/ruff/)
-* [venv](https://docs.python.org/3/library/venv.html)
-## ML Production  
-* [uv](https://github.com/astral-sh/uv)
-* [pytorch lightning](https://lightning.ai/docs/pytorch/stable/) - [installation](https://lightning.ai/docs/pytorch/stable/starter/installation.html)
-* [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
-## Data 
-* [sqlite](https://www.sqlite.org/index.html)
-* [polars](https://pola.rs/)
-## ML Domain Specific Tools 
-* [cleanlab](https://github.com/cleanlab/cleanlab)
-* [huggingface transformers](https://huggingface.co/docs/transformers/en/index)
-* [jax](https://docs.jax.dev/en/latest/)
-* [flax](https://flax.readthedocs.io/en/latest/)
 
 # Things I wish I had time to explore and learn more about
 These are things that I wish I had time to explore 
