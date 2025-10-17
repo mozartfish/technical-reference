@@ -19,7 +19,6 @@ This page is a list of everything that I have found to learn machine learning in
 
 Lastly, I recommend that every person who wants to study machine learning read ***The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI*** by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
 
-
 ## Introduction 
 * [Chip Huyen A survivor's guide to Artificial Intelligence](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html)
 * [Chip Huyen ML Ops Guide](https://huyenchip.com/mlops/)
@@ -123,7 +122,6 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ## Systems - AIML, Distributed
 * [Made With ML](https://madewithml.com/)
 * [KTH ID2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
-* [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course)
 * [KTH ID2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
 
 ## Generative Modeling, Deep Generative Modeling and Synthesis
@@ -167,6 +165,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Computational Linear Algebra](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html)
 * [Code-First Intro to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html)
 ### answerAI 
+- [Let’s Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs](https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers.html)
 * [A Hacker's Guide to Language Models](https://youtu.be/jkrNMKz9pWU?feature=shared)
 * [Getting Started with CUDA for Python Progammers](https://youtu.be/nOxKexn3iBo?feature=shared)
 * [Going Further with CUDA for Python Progammers](https://youtu.be/eUuGdh3nBGo?feature=shared)
