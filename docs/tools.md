@@ -30,8 +30,14 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 - [Gemini](https://gemini.google.com/) - the Gems Coding Partner tool is super useful for understanding syntax, patterns and languages
 - [Claude](https://claude.ai/) 
 
+### Machine Learning Tools 
+- [optuna](https://optuna.org/) - [installation](https://optuna.org/#installation)
+- [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
+- [weights and biases](https://wandb.ai/site/)
+
+
 ### Editors + IDES
-* [vscode](https://code.visualstudio.com/), opensource version: [vscodium](https://vscodium.com/). GitHub copilot and its autocomplete is such a nuisance that I have turned it off. If I need AI help, Gemini is more useful. 
+* [vscode](https://code.visualstudio.com/), opensource version: [vscodium](https://vscodium.com/). GitHub copilot and its autocomplete is such a nuisance that I have turned it off. If I need AI help, Gemini/Claude is more useful. 
 * [vim](https://openvim.com/)
 * [intellij](https://www.jetbrains.com/idea/)
 
@@ -71,10 +77,6 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 * [fivethirtyeight datasets](https://github.com/fivethirtyeight)
 * [Martin Wattenberg datasets](https://github.com/wattenberg/data)
-
-### Monitoring 
-* [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
-- [weights and biases]()https://wandb.ai/site/
 
 ## Programming Languages 
 * [Python](https://www.python.org/) - machine learning, scripting, prototyping and almost all of my development these days
@@ -153,6 +155,7 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 
 ### AI Infrastructure
 - [Modal](https://modal.com/)
+- [Ray](https://github.com/ray-project/ray)
 
 ### Data Processing
 - [pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
