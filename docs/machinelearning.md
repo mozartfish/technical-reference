@@ -119,10 +119,12 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [CS 224N Natural Language Processing With Deep Learning - Lectures](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=gO-JiDUekbbotgA1)
 * [Utah CS 6340 - Natural Language Processing](https://www.anamarasovic.com/teaching/)
 
-## Systems - AIML, Distributed
+## Systems - AIML, Distributed, Computer
 * [Made With ML](https://madewithml.com/)
 * [KTH ID2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
 * [KTH ID2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
+* [Utah CS 4400 - Computer Systems](https://my.eng.utah.edu/~cs4400/)
+* [MIT 6.584 Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
 
 ## Generative Modeling, Deep Generative Modeling and Synthesis
 * [Cornell - Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
@@ -145,13 +147,13 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
-## Audio 
+## Audio, MIR, DSP 
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
-- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
-- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
+- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
 - [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
-- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
+- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
+- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
 
 ## Data Centric Machine Learning 
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
