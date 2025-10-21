@@ -145,6 +145,14 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
+## Audio 
+- [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
+- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
+- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
+- [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
+- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
+- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
+
 ## Data Centric Machine Learning 
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
 
