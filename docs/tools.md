@@ -17,24 +17,20 @@ nav_order: 3
 ## Background
 This page is a place where I keep track of what libraries and tools I have used/currently using. This page is inspired by [uses this](https://usesthis.com/interviews/), [the missing semester of your cs education](https://missing.csail.mit.edu/), [the pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), [strangeloop](https://www.thestrangeloop.com/index.html), [eyeo festival](https://eyeofestival.com/). 
 
-I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Sundar Rajan, Ron Minnich, James Wexler, [Ryan Stutsman](https://rstutsman.github.io), [Jakob Johnson](https://jakobj.dev), Peter Jensen, [Jeff Phillips](https://users.cs.utah.edu/~jeffp/) and [Varun Shankar](https://users.cs.utah.edu/~shankar/) whose teaching, office hours, and conversations gave me a foundation for not only understanding how to debug and navigate all levels of the technical stack but also core engineering practices - environment/tool setup, experimentation and monitoring setup, command line hacks, numerical programming, and the mental fortitutde you need for finding and fixing bugs. 
+I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Sundar Rajan, [Ron Minnich](https://github.com/rminnich), James Wexler, [Ryan Stutsman](https://rstutsman.github.io), [Jakob Johnson](https://jakobj.dev), Peter Jensen, [Jeff Phillips](https://users.cs.utah.edu/~jeffp/) and [Varun Shankar](https://users.cs.utah.edu/~shankar/) whose teaching, office hours, and conversations gave me a foundation for not only understanding how to debug and navigate all levels of the technical stack but also core engineering practices - environment/tool setup, experimentation and monitoring setup, command line hacks, numerical programming, and the mental fortitutde you need for finding and fixing bugs.
 
  In the age of chatgpt and llms their advice still holds - the only way to become a better engineer is to spend countless hours debugging, experimenting and writing code.  
 
-**Note: This page is getting constantly updated - Last update: October 17, 2025.**
+**Note: This page is getting constantly updated - Last update: November 20, 2025.**
 
 ## General Tools
-### AI Tools 
+### AI Tools
 - [Lumi](https://lumi.withgoogle.com/#/)
 - [NotebookLM](https://notebooklm.google.com/notebook/)
 - [Gemini](https://gemini.google.com/) - the Gems Coding Partner tool is super useful for understanding syntax, patterns and languages
 - [Claude](https://claude.ai/) 
-
-### Machine Learning Tools 
-- [optuna](https://optuna.org/) - [installation](https://optuna.org/#installation)
-- [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
-- [weights and biases](https://wandb.ai/site/)
-
+- [Semantic Scholar](https://www.semanticscholar.org)
+- [Asta](https://asta.allen.ai/chat)
 
 ### Editors + IDES
 * [vscode](https://code.visualstudio.com/), opensource version: [vscodium](https://vscodium.com/). GitHub copilot and its autocomplete is such a nuisance that I have turned it off. If I need AI help, Gemini/Claude is more useful. 
@@ -89,6 +85,9 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 * [pathlib](https://docs.python.org/3/library/pathlib.html)
 
 ## Data
+### Open Source Models
+- [Gemma Models](https://deepmind.google/models/gemma/)
+
 ### Core Libraries 
 * [numpy](https://numpy.org) - [installation](https://numpy.org/install/)
 * [scipy](https://scipy.org) - [installation](https://scipy.org/install/)
@@ -101,6 +100,9 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 
 ### Machine Learning 
 * [scikit-learn](https://scikit-learn.org/stable/index.html) - [installation](https://scikit-learn.org/stable/install.html)
+- [optuna](https://optuna.org/) - [installation](https://optuna.org/#installation)
+- [mlflow](https://mlflow.org/) - [installation](https://mlflow.org/docs/latest/getting-started/index.html)
+- [weights and biases](https://wandb.ai/site/)
 
 #### Deep Learning
 * [pytorch](https://pytorch.org/) - [installation](https://pytorch.org/get-started/locally/)
@@ -147,15 +149,18 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 - [FlowBite](https://flowbite-svelte.com/)
 
 ## Systems Programming + Infrastructure
+### Feature Store 
+- [Hopsworks](https://www.hopsworks.ai/)
+
+### AI Infrastructure
+- [Modal](https://modal.com/)
+- [Ray](https://github.com/ray-project/ray)
+
 ### Software Frameworks
 * [flask](https://flask.palletsprojects.com/en/stable/)
 
 ### API
 * [fastapi](https://fastapi.tiangolo.com)
-
-### AI Infrastructure
-- [Modal](https://modal.com/)
-- [Ray](https://github.com/ray-project/ray)
 
 ### Data Processing
 - [pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
@@ -163,9 +168,7 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 * [polars](https://pola.rs/)
 
 ### Databases 
-#### rdbms 
 - [postgresql](https://neon.com/postgresql/tutorial)
-#### nosql 
 - [mongodb](https://www.mongodb.com/)
 - [duckdb](https://duckdb.org/)
 

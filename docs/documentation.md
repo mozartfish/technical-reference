@@ -15,10 +15,9 @@ nav_order: 4
 
 ---
 # Tool Documentation 
-Before LLMS, one of my professors recommended always having documentation and stackoverflow quickly on hand to reference for debugging and learning new functions that could improve development and code quality. These days I like to use Claude and Gemini to give me an idea of where to look in documentation and stackoverflow which has saved me significant time. That being said, I still like consulting documentation because I can try to understand what a function like einsum, walrus syntax, numpy broadcasting, and goroutine communication work. 
+Before LLMS, one of my professors recommended always having documentation and stackoverflow quickly on hand to reference for debugging and learning new functions that could improve development and code quality. These days I like to use Claude and Gemini to give me an idea of where to look in documentation and stackoverflow which has saved me significant time. That being said, I still like consulting documentation because I can try to understand what a function like einsum, walrus syntax, numpy broadcasting, and how goroutine communication works. 
 
 ## General Reference 
-* [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [Flavio Copes References](https://flaviocopes.com/books/)
 
 ## Science Tools + References 

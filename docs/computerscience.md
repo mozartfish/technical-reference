@@ -76,4 +76,3 @@ nav_order: 8
 * [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
 * [Utah MSD Git](https://youtube.com/playlist?list=PLbdXd8eufjyUwR5ksEiFu529UD_kY1A_a&feature=shared)
-

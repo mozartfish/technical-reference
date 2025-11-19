@@ -23,6 +23,7 @@ nav_order: 5
 * [Matt Might](https://matt.might.net/articles/)
 * [John Regehr](https://blog.regehr.org/)
 * [Andrej Karpathy](https://karpathy.github.io/)
+* [Wilson Lin](https://blog.wilsonl.in)
 
 ## Machine Learning 
 * [answer.ai](https://www.answer.ai)
