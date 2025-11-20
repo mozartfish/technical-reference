@@ -113,11 +113,15 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Andrej Karpathy 1 Hour Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=WKa2-OhiOUeBXEeJ)
 * [Andrej Karpathy Deep Dive Into LLMs Like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=hSpi8NGr-7EWG_RB)
 * [Neural Networks Zero to to Hero - Lectures 7, 9-10](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
+* [Utah CS 6966 - Mechanistic Interpretability](https://utah-llm-interpretability.notion.site/s26)
 * [3Blue1Brown Neural Networks - Lectures 5-8](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
 ### NLP 
 * [CS 224N Natural Language Processing With Deep Learning](https://web.stanford.edu/class/cs224n/)
 * [CS 224N Natural Language Processing With Deep Learning - Lectures](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=gO-JiDUekbbotgA1)
 * [Utah CS 6340 - Natural Language Processing](https://www.anamarasovic.com/teaching/)
+### Computer Vision 
+* [Stanford CS 231N](https://cs231n.stanford.edu/)
+* [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)
 
 ## Systems - AIML, Distributed, Computer
 * [Made With ML](https://madewithml.com/)
@@ -135,8 +139,8 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ## Visual Computing 
 ### Computer Vision + Image Analysis
 * [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
-* [Stanford CS 231N](https://cs231n.stanford.edu/)
-* [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)
+* [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
+
 ### Visualization 
 * [MIT 6/11.C85 - Interactive Data Visualization & Society](https://vis-society.github.io/)
 * [Svelte + D3](https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8)

@@ -87,6 +87,11 @@ I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Su
 ## Data
 ### Open Source Models
 - [Gemma Models](https://deepmind.google/models/gemma/)
+- [Unsloth](https://unsloth.ai/)
+- [HuggingFace PEFT](https://huggingface.co/docs/peft/main/en/index)
+- [HuggingFace Diffusers](https://huggingface.co/docs/diffusers/index)
+- [HuggingFace Transformers](https://huggingface.co/docs/transformers/index)
+- [HuggingFace SentenceTransformers](https://sbert.net/)
 
 ### Core Libraries 
 * [numpy](https://numpy.org) - [installation](https://numpy.org/install/)
@@ -124,7 +129,6 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 * [nltk](https://www.nltk.org/)
 * [spacy](https://spacy.io/)
 * [elasticsearch](https://www.elastic.co/elasticsearch)
-* [huggingface transformers](https://huggingface.co/docs/transformers/en/index)
 
 ### Image Analysis and Computer Vision
 * [scikit-image](https://scikit-image.org) - [installation](https://scikit-image.org/docs/stable/user_guide/install.html)
