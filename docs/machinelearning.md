@@ -130,17 +130,17 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Utah CS 4400 - Computer Systems](https://my.eng.utah.edu/~cs4400/)
 * [MIT 6.584 Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
 
-## Generative Modeling, Deep Generative Modeling and Synthesis
+## Generative Modeling + Synthesis
 * [Cornell - Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
 * [Stanford CS 236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
 * [Stanford CS 236 - Deep Generative Models Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
 
-## Visual Computing 
-### Computer Vision + Image Analysis
+## Computer Vision
 * [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
 * [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
 
+## Human-AI Interaction 
 ### Visualization 
 * [MIT 6/11.C85 - Interactive Data Visualization & Society](https://vis-society.github.io/)
 * [Svelte + D3](https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8)
@@ -151,7 +151,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
-## Audio, MIR, DSP 
+## Speech, Music, Sound, Hearing 
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
