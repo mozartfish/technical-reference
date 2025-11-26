@@ -167,14 +167,19 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 * [fastapi](https://fastapi.tiangolo.com)
 
 ### Data Processing
+#### Spark Ecosystem 
 - [pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
 - [mllib](https://spark.apache.org/docs/latest/ml-guide.html)
-* [polars](https://pola.rs/)
+#### In-memory Data Processing 
+* [polars](https://pola.rs/) -> substitute for pandas when working with parquet and giant data(non-csv)
+* [duckdb](https://duckdb.org/) -> columnar in-memory database 
 
 ### Databases 
 - [postgresql](https://neon.com/postgresql/tutorial)
 - [mongodb](https://www.mongodb.com/)
-- [duckdb](https://duckdb.org/)
+* [duckdb](https://duckdb.org/)
+* [sqllite](https://docs.python.org/3/library/sqlite3.html)
+
 
 ### ML Interfaces, Deployment, etc. 
 * [gradio](https://www.gradio.app)

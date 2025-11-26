@@ -19,7 +19,7 @@ Special thanks to the following people and organizations:
 
 **Engineering**: Joe Zachary, Liam Machado, Sam Zachary, William Li, [Thomas Ady](https://adyethomas.wixsite.com/thomas-ady), [James Wexler](https://research.google/people/105507/?&type=google), [Carl Thome](https://carlthome.github.io/), [Stockholm AI](https://www.stockholm.ai/), [Modal](https://modal.com/)
 
-**Creative Technology**: [EYEO Festival](https://eyeofestival.com/), [Boston Tech Poetics](https://www.bostontechpoetics.com/) [Kyung Yun Choi](https://www.wowlab-research.com/), [Leslie Liu](https://liuleslie.github.io/), [Katherine Yang](https://kayserifserif.place/), [Jake Chvatal](https://jake.kitchen/) 
+**Creative Technology**: [EYEO Festival](https://eyeofestival.com/), [Boston Tech Poetics](https://www.bostontechpoetics.com/), [Kyung Yun Choi](https://www.wowlab-research.com/), [Leslie Liu](https://liuleslie.github.io/), [Katherine Yang](https://kayserifserif.place/), [Jake Chvatal](https://jake.kitchen/)
 
 and lastly my friends/group project teammates for the resources, conversations, teaching, community, emails, mentorship, and late night debugging and deadline crunch sessions.<br> 
 
