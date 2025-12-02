@@ -132,6 +132,7 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 
 ### Image Analysis and Computer Vision
 * [scikit-image](https://scikit-image.org) - [installation](https://scikit-image.org/docs/stable/user_guide/install.html)
+* [opencv](https://opencv.org/)
 * [torchvision](https://pytorch.org/vision/stable/index.html)
 
 ### Audio 
