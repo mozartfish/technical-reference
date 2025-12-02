@@ -137,6 +137,7 @@ The python visualization ecosystem is fragmented and choosing the right visualiz
 
 ### Audio 
 - [librosa](https://librosa.org)
+- [torchaudio](https://docs.pytorch.org/audio/stable/index.html)
 
 ## Interactive Visualization 
 ### D3
