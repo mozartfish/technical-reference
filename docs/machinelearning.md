@@ -152,6 +152,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
 ## Speech, Music, Sound, Hearing 
+= [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
