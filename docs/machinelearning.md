@@ -98,10 +98,11 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 228 - Probabilistic Graphical Models Notes](https://ermongroup.github.io/cs228-notes/)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
-### Natural Language Processing and Information Retrieval 
+### Information - Natural Language Processing, Information Retrieval, Data Mining 
 * [Stanford CS 124 -  From Languages to Information](https://web.stanford.edu/class/cs124/)
 * [Stanford CS 124 - From Languages to Information - Lectures](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
 * [Stanford CS 124 - From Languages to Information - Course GitHub](https://github.com/cs124)
+* [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
 
 ## Deep Learning 
 ### Fundamentals 
@@ -123,13 +124,6 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 231N](https://cs231n.stanford.edu/)
 * [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)
 
-## Systems - AIML, Distributed, Computer
-* [Made With ML](https://madewithml.com/)
-* [KTH ID2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
-* [KTH ID2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
-* [Utah CS 4400 - Computer Systems](https://my.eng.utah.edu/~cs4400/)
-* [MIT 6.584 Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
-
 ## Generative Modeling + Synthesis
 * [Cornell - Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
 * [Stanford CS 236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
@@ -139,6 +133,15 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ## Computer Vision
 * [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
 * [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
+
+## Speech, Music, Sound, Hearing 
+- Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
+- [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
+- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
+- [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
+- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
+- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
+- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
 
 ## Human-AI Interaction 
 ### Visualization 
@@ -151,20 +154,13 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
-## Speech, Music, Sound, Hearing 
-= [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
-- [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
-- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
-- [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
-- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
-- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
-- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
-
-## Data Centric Machine Learning 
+## Systems - AIML, Distriuted, Computer, Data Processing, Data-Centric 
+* [Made With ML](https://madewithml.com/)
+* [KTH ID2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
+* [KTH ID2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
+* [Utah CS 4400 - Computer Systems](https://my.eng.utah.edu/~cs4400/)
+* [MIT 6.584 Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
-
-## Search Engines, Information Retrieval, Data Mining
-* [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
 
 ## answerAI 
 [answerAI](https://www.answer.ai/) was founded by Jeremy Howard and Eric Rees in 2023 as a new R&D lab focusing on fundamental research and the development of practical applications based on research breakthroughs. answerAI is the successor to [fastAI](https://www.fast.ai/) which was founded by Jeremy Howard and [Rachel Thomas](https://rachel.fast.ai/). fastAI left a legacy with its machine learning research and highly regarded state of the art machine learning courses that aimed to make deep learning accessible to everyone regardless of their math background which was revolutionary at the time the courses were released. Today fastai's materials are still used as an entry to the fields of deep learning and generative AI and at the University of San Francisco MS Data Science Program. Jeremy and his team still produce educational videos from time to time on [youtube](https://youtube.com/@howardjeremyp?feature=shared) and [continue to teach and innovate](https://www.answer.ai). 
