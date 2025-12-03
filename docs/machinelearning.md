@@ -98,7 +98,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 228 - Probabilistic Graphical Models Notes](https://ermongroup.github.io/cs228-notes/)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
-### Information - Natural Language Processing, Information Retrieval, Data Mining 
+## Information - Natural Language Processing, Information Retrieval, Data Mining 
 * [Stanford CS 124 -  From Languages to Information](https://web.stanford.edu/class/cs124/)
 * [Stanford CS 124 - From Languages to Information - Lectures](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
 * [Stanford CS 124 - From Languages to Information - Course GitHub](https://github.com/cs124)
