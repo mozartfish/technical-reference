@@ -5,11 +5,9 @@ nav_order: 7
 ---
 
 # Articles
-
 {: .no_toc }
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC

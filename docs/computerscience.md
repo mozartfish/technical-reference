@@ -5,11 +5,9 @@ nav_order: 8
 ---
 
 # How to Learn Computer Science
-
 {: .no_toc }
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
