@@ -105,6 +105,10 @@ These are textbooks/papers that I find really helpful and consult frequently.
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - KTH DD2447 Textbook
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - KTH DD2434 Textbook, KTH DD2447 Textbook
 
+### Deep Generative Modeling 
+- [The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/#/blog)
+- [Deep Generative Modeling](https://jmtomczak.github.io/dgm_book.html)
+
 #### Variational Inference
 
 Variational Inference is an approximation method in Probabilistic Machine Learning and was the focus of KTH DD2434. It's very confusing if you are unfamiliar with some of the traditional methods like MCMC, SMC and Bayesian Statistics(this was me when I took the class lol)
