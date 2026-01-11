@@ -21,9 +21,11 @@ This page is a place where I keep track of what libraries and tools I have used/
 
 I owe most of my engineering knowledge to the following people: Tommy Ngyuen, Sundar Rajan, [Ron Minnich](https://github.com/rminnich), James Wexler, [Ryan Stutsman](https://rstutsman.github.io), [Jakob Johnson](https://jakobj.dev), Peter Jensen, [Jeff Phillips](https://users.cs.utah.edu/~jeffp/) and [Varun Shankar](https://users.cs.utah.edu/~shankar/) whose teaching, office hours, and conversations gave me a foundation for not only understanding how to debug and navigate all levels of the technical stack but also core engineering practices - environment/tool setup, experimentation and monitoring setup, command line hacks, numerical programming, and the mental fortitutde you need for finding and fixing bugs.
 
-In the age of chatgpt and llms their advice still holds - the only way to become a better engineer is to spend countless hours debugging, experimenting and writing code.
+In the age of chatgpt and llms their advice still holds - the only way to become a better engineer is to spend countless hours debugging, experimenting and writing code. When it comes to UIs, Webdev and even visualization engineering vibecoding gets the 90% of the job done(at least from what i've seen and tried). The last 10% - that's the human-creative part that AI can't replace. 
 
-**Note: This page is getting constantly updated - Last update: December 21, 2025.**
+Software engineering is not dead - the mission critical and important software we use every day in health, driving and more is implemented with C++ and other technologies that have been battled tested. 
+
+**Note: This page is getting constantly updated - Last update: january 11, 2026**
 
 ## General Tools
 
@@ -202,7 +204,7 @@ Not learning a JS framework was the biggest regret I had from my Utah days. For 
 
 - [Svelte](https://svelte.dev/)
 
-* [FlowBite](https://flowbite-svelte.com/)
+- [FlowBite](https://flowbite-svelte.com/)
 
 ## Systems Programming + Infrastructure
 
@@ -260,3 +262,6 @@ I first heard about this at the EYEO Festival. I started with Dan Shiffman's [Co
 - [nature of code](https://natureofcode.com)
 - [openFrameworks](https://openframeworks.cc/)
 - [cinder](https://libcinder.org/)
+
+## C++ 
+I wish I had time to explore C++ more in depth because this is the language for turning research projects and code into production and tools that people actually use especially for my interests in audio, vision, graphics are in C++. 

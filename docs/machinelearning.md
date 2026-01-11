@@ -70,7 +70,6 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 
 ## Engineering
 ### Programming Languages 
-* [QuantEcon](https://quantecon.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Python for Data Analysis](https://wesmckinney.com/book/)
 * [Machine Learning with PyTorch and Scikit-Learn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) - follow this book if you want to learn PyTorch
@@ -97,51 +96,88 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [University of Utah CS 6190 - Probabilistic Modeling](https://users.cs.utah.edu/~zhe/teach/archived/2024s/cs6190-lectures.html)
 * [Stanford CS 228 - Probabilistic Graphical Models Notes](https://ermongroup.github.io/cs228-notes/)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+### Deep Learning 
+* [Sebastian Raschka Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
+* [3Blue1Brown Neural Networks Lectures 1-4](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
+* [Neural Networks Zero to to Hero - Lectures 1-6](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 
 ## Information - Natural Language Processing, Information Retrieval, Data Mining 
+### NLP and Language Modeling Foundations
 * [Stanford CS 124 -  From Languages to Information](https://web.stanford.edu/class/cs124/)
 * [Stanford CS 124 - From Languages to Information - Lectures](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
 * [Stanford CS 124 - From Languages to Information - Course GitHub](https://github.com/cs124)
-* [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
-
-## Deep Learning 
-### Fundamentals 
-* [Sebastian Raschka Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
-* [Neural Networks Zero to to Hero - Lectures 1-6](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
-* [3Blue1Brown Neural Networks Lectures 1-4](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
-### LLMS 
+* [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
+### NLP - Post Deep Learning
+#### LLMs
 * [Grant Sanderson Visualizing transformers and attention](https://youtu.be/KJtZARuO3JY?si=r11r-0NbrX1H1o7L)
+* [3Blue1Brown Neural Networks - Lectures 5-8](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
+* [Neural Networks Zero to to Hero - Lectures 7, 9-10](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
 * [Andrej Karpathy 1 Hour Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=WKa2-OhiOUeBXEeJ)
 * [Andrej Karpathy Deep Dive Into LLMs Like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=hSpi8NGr-7EWG_RB)
-* [Neural Networks Zero to to Hero - Lectures 7, 9-10](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
-* [Utah CS 6966 - Mechanistic Interpretability](https://utah-llm-interpretability.notion.site/s26)
-* [3Blue1Brown Neural Networks - Lectures 5-8](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
-### NLP 
-* [CS 224N Natural Language Processing With Deep Learning](https://web.stanford.edu/class/cs224n/)
-* [CS 224N Natural Language Processing With Deep Learning - Lectures](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=gO-JiDUekbbotgA1)
+#### Deep Learning for NLP 
 * [Utah CS 6340 - Natural Language Processing](https://www.anamarasovic.com/teaching/)
-### Computer Vision 
+* [CS 224N Natural Language Processing With Deep Learning](https://web.stanford.edu/class/cs224n/)
+#### Mechanistic Interpretability 
+* [Utah CS 6966 - Mechanistic Interpretability](https://utah-llm-interpretability.notion.site/s26)
+
+### Data Mining 
+* [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
+
+
+## Computer Vision 
+### Computer Vision Foundations 
+* [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
+* [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
+- [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
+### Computer Vision - Post Deep Learning 
+#### Deep Learning for Computer Vision 
 * [Stanford CS 231N](https://cs231n.stanford.edu/)
 * [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)
+#### Computational Photography 
+- [Berkeley CS 180](https://cal-cs180.github.io/fa25/)
+#### Robotics 
+- [Hugging Face Robotics Course](https://huggingface.co/learn/robotics-course/unit0/1) 
 
-## Generative Modeling + Synthesis
+## Generative Modeling and Synthesis 
+### Generative Modeling Foundations 
+- [Hugging Face Diffusion Course](https://huggingface.co/learn/diffusion-course/unit0/1)
+### Generative Modeling Bleeding Edge - Post-2022
 * [Cornell - Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
 * [Stanford CS 236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
 * [Stanford CS 236 - Deep Generative Models Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
-
-## Computer Vision
-* [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
-* [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
+### Generative Modeling for Speech, Music, Sound, Hearing 
+- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
+- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
 
 ## Speech, Music, Sound, Hearing 
-- [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
+### Speech, Music, Sound, Hearing Foundations
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
+- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
+
+### Speech, Music, Sound, Hearing - Post Deep Learning 
+#### Deep learning for Speech, Music, Sound, Hearing 
 - [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
-- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
-- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
+#### Text to Speech
+- [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
+
+## Bleeding Edge - (Last Updated: January 2026)
+Note - this stuff is beyond my scope of understanding and changing so fast that it's not organized. Key things to look out for in the news and here: **Physical AI**, **Multimodal AI**, **3D AI**, **Simulation** and **TBD**
+### Post Training + FineTuning 
+- [Hugging Face Post Training Course](https://huggingface.co/learn/smol-course/unit0/1)
+### Agents, Games
+- [Hugging Face AI for Games Course](https://huggingface.co/learn/ml-games-course/unit0/introduction)
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
+- [Hugging Face MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)
+### Deep Reinforcement Learning 
+- [Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+### Physical AI, 3D AI 
+- [Hugging Face 3D AI](https://huggingface.co/learn/ml-for-3d-course/unit0/introduction)
+### AI4Science 
+- [AI for Physicists Tutorial](https://aobol.github.io/AoboLi/#tutorials)
+- [Advanced Deep Learning for Physics](https://tum-pbs.github.io/ADL4P/)
 
 ## Human-AI Interaction 
 ### Visualization 
@@ -154,12 +190,15 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [UChicago Creative Coding](https://people.cs.uchicago.edu/~rchugh/classes/creative-coding/)
 * [Golan Levin Experimental Capture Class](https://github.com/golanlevin/ExperimentalCapture)
 
-## Systems - AIML, Distriuted, Computer, Data Processing, Data-Centric 
+## Systems - AIML, Distributed, Computer, Data Processing, Data-Centric 
+### Computer Systems Foundations
+* [Utah CS 4400 - Computer Systems](https://my.eng.utah.edu/~cs4400/)
+### Cloud Computing, MLOps 
 * [Made With ML](https://madewithml.com/)
 * [KTH ID2221 - Data Intensive Computing Platforms](https://id2221kth.github.io/)
 * [KTH ID2223 - Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
-* [Utah CS 4400 - Computer Systems](https://my.eng.utah.edu/~cs4400/)
 * [MIT 6.584 Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
+### Data Engineering and Feature Engineering
 * [MIT Data Centric AI](https://dcai.csail.mit.edu/)
 
 ## answerAI 
