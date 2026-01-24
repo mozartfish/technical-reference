@@ -22,6 +22,7 @@ If you are not interested computational biology/AI Drug Discovery/Uncertainty, w
 Lastly, I highly recommend ***The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI*** by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) and any of the Nobel Lecture Talks on youtube for anyone who wants to learn/work in the AIML field. They are a great inspiration and reminder that science, engineering and career paths are non-linear and to enjoy the moment when success happens. 
  
 ## Introduction 
+* [IEEE Spectrum: AI Developer Career Advice](https://spectrum.ieee.org/ai-developer-career-advice)
 * [Chip Huyen A survivor's guide to Artificial Intelligence](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html)
 * [Chip Huyen ML Ops Guide](https://huyenchip.com/mlops/)
 * [What is Machine Learning?](https://youtu.be/bk12t0Xz5FM?feature=shared)
