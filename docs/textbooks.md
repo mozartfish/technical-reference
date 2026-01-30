@@ -149,9 +149,9 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 - [Computer Vision Algorithms and Applications](https://szeliski.org/Book/) - KTH DD2423, Berkeley CS 180 textbook
 - [Digital Image Processing](https://www.cl72.org/090imagePLib/books/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf) - KTH DD2423 textbook
 
-#### Music Informatics
+#### Audio 
 
-- [Fundamentals of Music Processing](<https://img.anfulai.cn/bbs/124421/Fundamentals%20of%20Music%20Proce_%20(Z-Library).pdf>) - KTH DT2470 textbook
+- [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) - KTH DT2470 textbook. Download available through University Library(ie. KTH Biblioteket). 
 
 #### Visualization
 
