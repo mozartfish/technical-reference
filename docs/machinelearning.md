@@ -5,14 +5,12 @@ nav_order: 2
 ---
 
 # How to Learn Machine Learning 
-{: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
 ---
 ## Background 
 This page is a list of everything that I have found to learn machine learning in the llm chatgpt era. I used a lot of these references during my undergrad and I discovered new resources and courses that helped me study for some of the challenging courses during my masters program. [Kylie Ying](https://youtube.com/playlist?list=PLkWv3oO4kHnu095L52vLCVK8YN33yRrd_&feature=shared), [Chip Huyen](https://huyenchip.com), [Josh Starmer](https://statquest.org) were a huge inspiration for this page because of how they organized the content on their websites and youtube channels. I recommend following the materials starting from the **Introduction** to **Machine Learning Fundamentals** in order to understand the material in the **Machine Learning Subfields** section. 

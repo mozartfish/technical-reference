@@ -5,7 +5,6 @@ nav_order: 4
 ---
 
 # Tools
-{: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }
