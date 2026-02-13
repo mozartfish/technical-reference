@@ -109,7 +109,6 @@ Before LLMS, one of my professors recommended always having documentation and st
 ## Creative Coding
 
 - [p5.js reference](https://p5js.org/reference/)
-- [p5.js web editor](https://editor.p5js.org/)
 - [ml5.js reference](https://docs.ml5js.org/#/reference/overview)
 - [cinder docs](https://www.libcinder.org/docs/)
 - [openframeworks docs](https://openframeworks.cc/documentation/)

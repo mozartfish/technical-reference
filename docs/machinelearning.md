@@ -65,6 +65,7 @@ At KTH, one of the required ML courses is [DD2434-Advanced Machine Learning](htt
 ### Linear Algebra 
 * [3Blue1Brown Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&feature=shared)
 * [MIT 18.06 - Linear Algebra](https://github.com/mitmath/1806)
+* [Zico Kolter Linear Algebra Refresher](https://www.cs.cmu.edu/~zkolter/course/linalg/)
 
 ### Data Analysis 
 * [Utah CS 3190 - Foundations of Data Analysis](https://users.cs.utah.edu/~jeffp/teaching/FoDA.html)
@@ -103,6 +104,9 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Sebastian Raschka Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [3Blue1Brown Neural Networks Lectures 1-4](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
 * [Neural Networks Zero to to Hero - Lectures 1-6](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=riojyDtCd_RJHEwr)
+
+### Modern AI 
+* [Zico Kolter Modern AI Course](https://modernaicourse.org/)
 
 ## Information - Natural Language Processing, Information Retrieval, Data Mining 
 ### NLP and Language Modeling Foundations
