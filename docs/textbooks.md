@@ -6,17 +6,13 @@ nav_order: 1
 
 # Textbooks
 
-{: .no_toc }
-
 These are textbooks/papers that I find really helpful and consult frequently.
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
-
+{:toc}
 ---
 
 ## Mathematics
