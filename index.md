@@ -6,11 +6,9 @@ nav_order: 0
 
 # Technical Reference
 
-Hi, I'm Pranav! I am a final year machine learning masters student at the [KTH Royal Institute of Technology](https://www.kth.se/en) and a masters thesis candidate at [KTH RPL](https://www.kth.se/rpl) working on my masters thesis **Computer Labeling of Music Sound for Training Generative AI Models** under the supervison of [Bob Sturm](https://www.kth.se/profile/bobs) and [Hedvig Kjellström](https://www.kth.se/profile/hedvig?l=en). Broadly my interests are in **machine learning**, **signal processing(audio, image, vision)**, **data systems**, and **human-ai interaction** especially their intersection. Currently I am working on temporal sequence alignment for music synchronization and score-following.
+Hi, I'm Pranav! I am a final year machine learning masters student at the [KTH Royal Institute of Technology](https://www.kth.se/en) and a masters thesis candidate at [KTH RPL](https://www.kth.se/rpl) and [KTH TMH](https://www.kth.se/tmh) working on my masters thesis **Score-Following for Morton Feldman _Piece for Four Pianos_** under the supervison of [Bob Sturm](https://www.kth.se/profile/bobs) and [Hedvig Kjellström](https://www.kth.se/profile/hedvig?l=en). 
 
-Other areas of interest include **visualization**, **data tooling**, **generative modeling**, **information(retrieval, language engineering)**. I studied computer science and human-centered data computing at the [University of Utah](https://www.cs.utah.edu/) and [Utah Scientific Computing and Imaging Institute](https://sci.utah.edu/).
-
-I am particularly interested in how to use ai and data for social and public good in creative technology, science, healthcare, and public institutions.
+Broadly my interests are in **machine learning**, **signal processing(audio, image, vision)**, **data systems**, and **human-ai interaction** especially their applications in the arts, science, health and social good. Other areas of interest include **visualization**, **data tooling**, and **information(retrieval, language engineering)**. I studied computer science and human-centered data computing at the [University of Utah](https://www.cs.utah.edu/) and [Utah Scientific Computing and Imaging Institute](https://sci.utah.edu/).
 
 This website originally started off as a google doc which became difficult to maintain so I decided to move it online inspired by the [UCB HCI Prelim](https://chanwutk.github.io/ucbhciprelim/) website. Most of the resources and links relate to my interests in machine learning and its applications in visual computing, Human-AI Interaction, systems (specifically for AIML) and math.<br>
 
