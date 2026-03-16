@@ -60,6 +60,13 @@ nav_order: 6
 ## Advent of Code 
 * [HyperNeutrino Advent of Code](https://www.youtube.com/@hyper-neutrino)
 
+## Audio and Music AI 
+### Career Advice 
+[Valerio Velardo's Advice](https://youtube.com/playlist?list=PLXmqUFyHwrmMKNl4wpql-rnSjjK6c72xF&si=fOYcYWCC0vpPF-QK)
+### Research 
+- [How to Read AI(Audio) Research Papers](https://youtube.com/playlist?list=PL-wATfeyAMNqwhLIBEX7lS-sYIQTcEPxY&si=7PmR9o-vaxCGDSLS)
+- [How to Write AI(Audio Research Papers)](https://youtube.com/playlist?list=PL-wATfeyAMNrTDAV2A-pLxVpwXadbd-4O&si=9ynFYIM9v2pKr3_W)
+
 ## Personal Finance 
 * [Khan Academy Financial Literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)
 * [Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)
@@ -79,3 +86,4 @@ nav_order: 6
 * [NeetCode](https://www.youtube.com/@NeetCode)
 * [Josh Starmer](https://www.youtube.com/@statquest)
 * [Steve Brunton](https://www.youtube.com/@Eigensteve)
+

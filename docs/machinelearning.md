@@ -160,11 +160,17 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
-- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
 ### Speech, Music, Sound, Hearing - Post Deep Learning 
 #### Deep learning for Speech, Music, Sound, Hearing 
 - [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
+- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
+
+#### Generative Music 
+- [Sound Generation with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=RivpIrpKSlFrWd6c)
+- [Generating Melodies with LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=GBLdOpmX6jVncU6L)
+- [Generative Music AI](https://youtube.com/playlist?list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&si=WhxUzRTgohNWltgj)
+
 #### Text to Speech
 - [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
 
