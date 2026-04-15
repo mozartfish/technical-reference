@@ -159,11 +159,10 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ### Speech, Music, Sound, Hearing Foundations
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
+- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
 
 ### Speech, Music, Sound, Hearing - Post Deep Learning 
-#### Deep learning for Speech, Music, Sound, Hearing 
-- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
 #### Generative Music 
@@ -174,16 +173,21 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 #### Text to Speech
 - [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
 
-## Bleeding Edge - (Last Updated: January 2026)
+## Bleeding Edge - (Last Updated: April 2026)
 Note - this stuff is beyond my scope of understanding and changing so fast that it's not organized. Key things to look out for in the news and here: **Physical AI**, **Multimodal AI**, **3D AI**, **Simulation** and **TBD**
 ### Post Training + FineTuning 
 - [Hugging Face Post Training Course](https://huggingface.co/learn/smol-course/unit0/1)
+### Vision Language Models(VLM)
+- [Berkeley CS 294-43 Large Scale Vision and Language Models](https://cs294-43-fall2024.pages.dev/)
+- [Flamingo](https://arxiv.org/abs/2204.14198)
 ### Agents, Games
 - [Hugging Face AI for Games Course](https://huggingface.co/learn/ml-games-course/unit0/introduction)
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
 - [Hugging Face MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)
+- [UC Berkeley CS 294 - Advanced Large Language Model Agents](https://rdi.berkeley.edu/adv-llm-agents/sp25)
 ### Deep Reinforcement Learning 
 - [Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [Stanford CS224R Deep Reinforcement Learning](https://cs224r.stanford.edu/)
 ### Physical AI, 3D AI 
 - [Hugging Face 3D AI](https://huggingface.co/learn/ml-for-3d-course/unit0/introduction)
 ### AI4Science 

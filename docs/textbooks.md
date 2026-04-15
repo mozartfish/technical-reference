@@ -149,7 +149,9 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 
 #### Audio
 
+- [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) - KTH DT2470 textbook. Download available through University Library(ie. KTH Biblioteket).
+- **Music Similarity and Retrieval - An Introduction to Audio-and-Web-based Strategies** - Download available through University Library(ie. KTH Biblioteket).
 
 #### Visualization
 
