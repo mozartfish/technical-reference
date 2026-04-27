@@ -112,7 +112,9 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 124 - From Languages to Information - Lectures](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
 * [Stanford CS 124 - From Languages to Information - Course GitHub](https://github.com/cs124)
 * [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
-### NLP - Post Deep Learning
+### Modern Machine Learning and Language Modeling 
+#### Modern AI(LLMs)
+* [CMU 10-20 - Introduction to Modern AI](https://modernaicourse.org/)
 #### LLMs
 * [Grant Sanderson Visualizing transformers and attention](https://youtu.be/KJtZARuO3JY?si=r11r-0NbrX1H1o7L)
 * [3Blue1Brown Neural Networks - Lectures 5-8](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
@@ -128,13 +130,12 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ### Data Mining 
 * [Utah CS 6140 - Data Mining](https://users.cs.utah.edu/~jeffp/)
 
-
 ## Computer Vision 
 ### Computer Vision Foundations 
 * [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
 * [Berkeley INFO290T](https://farid.berkeley.edu/teaching/spring2025/info290t/)
 - [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
-### Computer Vision - Post Deep Learning 
+### Modern Computer Vision 
 #### Deep Learning for Computer Vision 
 * [Stanford CS 231N](https://cs231n.stanford.edu/)
 * [Stanford CS 231N 2025 - Lectures](https://youtu.be/2fq9wYslV0A?si=VInIphk-S3WhhQGJ)
@@ -142,6 +143,18 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 - [Berkeley CS 180](https://cal-cs180.github.io/fa25/)
 #### Robotics 
 - [Hugging Face Robotics Course](https://huggingface.co/learn/robotics-course/unit0/1) 
+
+## Speech, Music, Sound, Hearing 
+### Speech, Music, Sound, Hearing Foundations
+- [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
+- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
+- [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
+- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
+- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
+
+### Text to Speech
+- [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
+
 
 ## Generative Modeling and Synthesis 
 ### Generative Modeling Foundations 
@@ -152,26 +165,11 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 236 - Deep Generative Models Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
 ### Generative Modeling for Speech, Music, Sound, Hearing 
-- [Generating Sound with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=2rc8AV7ajLndyW6d)
-- [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=lUqVy8GSRG7tUPg7)
-
-## Speech, Music, Sound, Hearing 
-### Speech, Music, Sound, Hearing Foundations
-- [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
-- [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
-- [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
-- [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
-
-### Speech, Music, Sound, Hearing - Post Deep Learning 
-- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
-
-#### Generative Music 
 - [Sound Generation with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=RivpIrpKSlFrWd6c)
 - [Generating Melodies with LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=GBLdOpmX6jVncU6L)
 - [Generative Music AI](https://youtube.com/playlist?list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&si=WhxUzRTgohNWltgj)
-
-#### Text to Speech
-- [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
+- [University of Michigan PAT 463-563 - Music and AI](https://hermandong.com/teaching/pat463_563_fall2025/)
+- [University of Michigan PAT 464-564 - Generative AI for Music and Audio Creation](https://hermandong.com/teaching/pat464_564_winter2026/)
 
 ## Bleeding Edge - (Last Updated: April 2026)
 Note - this stuff is beyond my scope of understanding and changing so fast that it's not organized. Key things to look out for in the news and here: **Physical AI**, **Multimodal AI**, **3D AI**, **Simulation** and **TBD**
