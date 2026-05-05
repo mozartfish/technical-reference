@@ -153,7 +153,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
 ### Text to Speech
-- [Text to Speech and Voice Cloning](https://github.com/musikalkemist/tts-voicecloning-course/tree/main)
+- [Text to Speech and Voice Cloning](https://youtube.com/playlist?list=PL-wATfeyAMNorsfMFg0ISfD0rPDpMHA4R&si=73ErbgyF5f4WX_s1)
 
 
 ## Generative Modeling and Synthesis 
