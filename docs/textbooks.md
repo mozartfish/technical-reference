@@ -46,6 +46,7 @@ These are textbooks/papers that I find really helpful and consult frequently.
 - [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://databookuw.com/databook.pdf)
 - [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Kalman and Bayesian Filters in Python](https://rlabbe.github.io/Kalman-and-Bayesian-Filters-in-Python/)
 
 ## Data Tools - Programming Languages, Libraries, Frameworks
 
@@ -80,6 +81,7 @@ These are textbooks/papers that I find really helpful and consult frequently.
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [Building Machine Learning Systems with a Feature Store](https://www.oreilly.com/library/view/building-machine-learning/9781098165222/) - KTH ID2223 Textbook
+- [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
 
 ## Machine Learning
 
@@ -139,6 +141,9 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 - [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) - KTH ID2223 textbook
 - The StatQuest Illustrated Guide to Neural Networks and AI
 
+### Reinforcement Learning 
+- [Reinforcement Learning: Second Edition](http://incompleteideas.net/book/RLbook2020.pdf)
+
 ## Applied Machine Learning
 
 #### Computer Vision/Image Analysis
@@ -181,3 +186,4 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 - [Chip Huyen Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 - [Neetcode](https://neetcode.io/)
+- [Silvia Sapora ML Interviewing](https://silviasapora.github.io/blog/ml-interviews.html)
