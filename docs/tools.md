@@ -23,7 +23,7 @@ In the age of chatgpt and llms their advice still holds - the only way to become
 
 Software engineering is not dead - the mission critical and important software we use every day in health, driving and more is implemented with C++ and other technologies that have been battled tested.
 
-**Note: This page is getting constantly updated - Last update: february 13, 2026**
+**Note: This page is getting constantly updated - Last update: 2026-07-16**
 
 ## Enginering Tools
 
@@ -209,10 +209,12 @@ Software engineering is not dead - the mission critical and important software w
 
 ## Language Models
 
-### Open Source AI Models
+### Open Source Language Models
 
-- [Gemma Models](https://deepmind.google/models/gemma/)
-- [Olmo Models](https://allenai.org/olmo)
+- [Google DeepMind(Gemma)](https://deepmind.google/models/gemma/)
+- [Thinking Machine Labs](https://thinkingmachines.ai/)
+- [Allen Institute(OLMo)](https://allenai.org/olmo)
+- [Mistral](https://mistral.ai/models/)
 
 ### Finetuning Tools
 
