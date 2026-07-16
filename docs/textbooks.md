@@ -104,15 +104,14 @@ These are textbooks/papers that I find really helpful and consult frequently.
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - KTH DD2434 Textbook, KTH DD2447 Textbook
 
 ### Deep Generative Modeling
-
 - [The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/#/blog)
 - [Deep Generative Modeling](https://jmtomczak.github.io/dgm_book.html)
 
-#### Variational Inference
+### Variational Inference
 
 Variational Inference is an approximation method in Probabilistic Machine Learning and was the focus of KTH DD2434. It's very confusing if you are unfamiliar with some of the traditional methods like MCMC, SMC and Bayesian Statistics(this was me when I took the class lol)
 
-##### Papers
+#### Papers
 
 - [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
 - [David Blei Variational Inference Notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
@@ -121,7 +120,7 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 - [Latent Dirichlet Allocation](https://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
 - [Variational Auto-Encoders](https://arxiv.org/abs/1906.02691)
 
-##### Deep Dive Explanations
+#### Deep Dive Explanations
 
 - [A brief primer on variational inference](https://fabiandablander.com/r/Variational-Inference.html)
 - [Machine-Learning Variational Inference](https://jonathan-hui.medium.com/machine-learning-variational-inference-273d8e6480bb)
@@ -134,7 +133,6 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - KTH DD2434 Textbook
 
 ### Deep Learning
-
 - [Dive Into Deep Learning](https://d2l.ai/) - KTH DD2424 suggested reading
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - KTH DD2424 suggested reading
 - [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) - KTH DD2424 suggested reading
@@ -146,19 +144,22 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 
 ## Applied Machine Learning
 
-#### Computer Vision/Image Analysis
+### Computer Vision/Image Analysis
 
 - [Foundations of Computer Vision](https://visionbook.mit.edu/) - Berkeley CS 180 textbook
 - [Computer Vision Algorithms and Applications](https://szeliski.org/Book/) - KTH DD2423, Berkeley CS 180 textbook
 - [Digital Image Processing](https://www.cl72.org/090imagePLib/books/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf) - KTH DD2423 textbook
 
-#### Audio
+### Audio
 
 - [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) - KTH DT2470 textbook. Download available through University Library(ie. KTH Biblioteket).
 - **Music Similarity and Retrieval - An Introduction to Audio-and-Web-based Strategies** - Download available through University Library(ie. KTH Biblioteket).
 
-#### Visualization
+### Robotics 
+- [Python Robotics](https://github.com/atsushisakai/pythonrobotics)
+
+### Visualization
 
 - [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/)
 - The Grammar of Graphics
@@ -169,7 +170,7 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 - How Charts Lie
 - The Art of Insight
 
-#### Creative Coding
+### Creative Coding
 
 - [The Nature of Code](https://nature-of-code-2nd-edition.netlify.app/)
 - [The Book of Shaders](https://thebookofshaders.com/)
