@@ -78,7 +78,7 @@ Variational Inference assumes a background in Bayesian Statistics which is usual
 * [First Principles of Computer Vision - Image Processing I](https://fpcv.cs.columbia.edu)
 * [First Principles of Computer Vision - Image Processing II](https://fpcv.cs.columbia.edu)
 * [Hany Farid Computer Vision - Convolution](https://farid.berkeley.edu/teaching/spring2025/info290t/)
-* [Hany Farid Computer Vision - Space and Frequency](https://farid.berkeley.edu/teaching/spring2025/info290t/)
+* [Hany Farid Computer Vision - Space and Frequency](https://hfarid.org/downloads/tutorials/learnComputerVision/)
 * [Fundamentals of Music Processing - Fourier Analysis of Signals](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C2/C2.html)
 * [3B1B Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY&list=PLc2K7KFo9bKc&index=3&t=708s)
 * [3B1B Convolution](https://youtu.be/KuXjwB4LzSA?si=HdY_w3CaB1uwANdR)
@@ -156,7 +156,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 ## Computer Vision 
 ### Computer Vision Foundations 
 * [Columbia University - First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
-* [Berkeley INFO290T - Computer Vision](https://farid.berkeley.edu/teaching/spring2025/info290t/)
+* [Hany Farid Computer Vision Lectures](https://hfarid.org/downloads/tutorials/learnComputerVision/)
 ### Modern Computer Vision 
 #### Deep Learning for Computer Vision 
 * [Stanford CS 231N - Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
@@ -166,12 +166,17 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 #### Applied Computer Vision 
 - [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
 
-## Speech, Music, Sound, Hearing 
-### Speech, Music, Sound, Hearing Foundations
+## Audio 
+### Audio Foundations 
 - [Audio Signal Processing for Machine Learning](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=6ZeORR9dlaEzTQ4N)
 - [Deep Learning For Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=NbntZiG1fuMXE6j1)
 - [PyTorch for Audio and Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=zWUynHV1h3NM7X1t)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=yEYhHduNXhxYtZhq)
+
+### Music Processing Foundations 
+- [PCP Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/PCP/PCP.html)
+- [PCPT Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/PCPT/PCPT.html)
+- [FMP Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 
 ### Transformers for Audio
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
@@ -188,7 +193,7 @@ Probabilistic Machine Learning is probably the most mind-bending machine learnin
 * [Stanford CS 236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
 * [Stanford CS 236 - Deep Generative Models Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Stanford CS 236 - Deep Generative Model Models Notes](https://deepgenerativemodels.github.io/notes/index.html)
-### Generative Modeling for Speech, Music, Sound, Hearing 
+### Generative Modeling for Audio 
 - [Sound Generation with Neural Networks](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=RivpIrpKSlFrWd6c)
 - [Generating Melodies with LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=GBLdOpmX6jVncU6L)
 - [Generative Music AI](https://youtube.com/playlist?list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&si=WhxUzRTgohNWltgj)

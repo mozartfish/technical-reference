@@ -153,8 +153,11 @@ Variational Inference is an approximation method in Probabilistic Machine Learni
 ### Audio
 
 - [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
-- [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) - KTH DT2470 textbook. Download available through University Library(ie. KTH Biblioteket).
+- [PCP Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/PCP/PCP.html). If interested in music processing check out these notebooks before the PCPT Notebooks and then tackle the FMP notebooks. 
 - [PCPT: A Preparation Course in PyTorch. Through the Principles of Signal Processing](https://audiolabs-erlangen.de/resources/MIR/PCPT/PCPT.html) - another groundbreaking book by the legendary Meinard Mueller. [Book Website(Free Download)](https://open.fau.de/items/75ca87f5-75e8-4034-b8e3-bfd76c29caa3). If interested in music processing highly recommend Mueller's materials because they teach advanced methods in the context of digital signals and music. 
+- [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html) - KTH DT2470 textbook. Download available through University Library(ie. KTH Biblioteket).
+- [George Tzanetakis - A Music and Sound Exposition of the DFT](https://medium.com/@georgetzanetakis/list/a-music-and-sound-exposition-of-the-dft-ea669c739323)
+
 - **Music Similarity and Retrieval - An Introduction to Audio-and-Web-based Strategies** - Download available through University Library(ie. KTH Biblioteket).
 
 ### Robotics 
