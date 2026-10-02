@@ -1,7 +1,7 @@
 ---
 layout: default
 title: computer science
-nav_order: 8
+nav_order: 9
 ---
 
 # How to Learn Computer Science
