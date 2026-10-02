@@ -15,7 +15,7 @@ nav_order: 3
 
 ## Background
 
-This page contains all the resources that I used for my masters thesis and my interest in machine learning and computational methods for music. This website is inspired by [Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller), [Valerio Valardo](https://valeriovelardo.com/), [Brian McFee](https://brianmcfee.net/), [Michael Scott Asato Cuthbert](https://www.trecento.com/)[Herman Dong](https://hermandong.com/) who have generously shared their course materials and created resources to make audio machine learning more accessible.
+This page contains all the resources that I used for my masters thesis and my interest in machine learning and computational methods for music. This website is inspired by [Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller), [Valerio Valardo](https://valeriovelardo.com/), [Brian McFee](https://brianmcfee.net/), [Michael Scott Asato Cuthbert](https://www.trecento.com/), [Herman Dong](https://hermandong.com/) who have generously shared their course materials and created resources to make audio machine learning more accessible.
 
 ## Foundations
 
