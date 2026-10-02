@@ -7,11 +7,10 @@ nav_order: 3
 # Audio Machine Learning
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 ---
 
 ## Background
