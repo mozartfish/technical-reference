@@ -50,7 +50,7 @@ This page contains all the resources that I used for my masters thesis and my in
  - [PAT 463: Music & AI](https://hermandong.com/teaching/) - [playlist](https://youtube.com/playlist?list=PL60KY8VSvHggZD_Uym-GA7v5RWu4KrBCL&si=_W-fWNLwk_n6tlwp)
  - [PAT 464: Generative AI for Music and Audio Creation](https://hermandong.com/teaching/)
 
- ## Speech Processing
+## Speech Processing
 - [The Monster Text To Speech and Voice Cloning Course](https://youtube.com/playlist?list=PL-wATfeyAMNorsfMFg0ISfD0rPDpMHA4R&si=SmT7E5J2HnCCAnv_)
 
 ## Potpurri 
