@@ -65,7 +65,7 @@ This page contains all the resources that I used for my masters thesis and my in
 
 - [Rich Music Representation Is All You Need](https://youtu.be/a7Y3bFyRQ8k?si=pcQKRKYY673mbRCz)
 
-### Datasets
+## Datasets
 
 - `NSYNTH` - [Magenta](https://magenta.withgoogle.com/nsynth)
 - `MAESTRO` - [Magenta](https://magenta.withgoogle.com/datasets/maestro)
