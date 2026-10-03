@@ -1,6 +1,6 @@
 ---
 layout: default
-title: music ai
+title: audio ai 
 nav_order: 3
 ---
 
@@ -15,7 +15,7 @@ nav_order: 3
 ---
 
 ## Background
-This page contains all the resources that I used for my masters thesis and my interest in machine learning and computational methods for music. This page is inspired by [Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller), [Valerio Valardo](https://valeriovelardo.com/), [Brian McFee](https://brianmcfee.net/), [Michael Scott Asato Cuthbert](https://www.trecento.com/), [Herman Dong](https://hermandong.com/) who have generously shared their course materials and created resources to make audio machine learning more accessible.
+This page contains all the resources that I used for my masters thesis and my interest in machine learning and audio. This page is inspired by [Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller), [Valerio Valardo](https://valeriovelardo.com/), [Brian McFee](https://brianmcfee.net/), [Michael Scott Asato Cuthbert](https://www.trecento.com/), [Herman Dong](https://hermandong.com/) who have generously shared their course materials and created resources to make audio machine learning more accessible.
 
 ## Foundations
 
@@ -36,7 +36,7 @@ This page contains all the resources that I used for my masters thesis and my in
 ## Machine Learning
 
 - [Deep Learning for Audio with Python](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=g7CyOypRnnB475Ee)
-- [PCPT: A Preparation Course in PyTorch. Through the Principles of Signal Processing](https://audiolabs-erlangen.de/resources/MIR/PCPT/PCPT.html)[Book Website(Free Download)](https://open.fau.de/items/75ca87f5-75e8-4034-b8e3-bfd76c29caa3)
+- [PCPT: A Preparation Course in PyTorch. Through the Principles of Signal Processing](https://audiolabs-erlangen.de/resources/MIR/PCPT/PCPT.html) - [Book Website(Free Download)](https://open.fau.de/items/75ca87f5-75e8-4034-b8e3-bfd76c29caa3)
 - [PyTorch for Audio + Music Processing](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=y9udDNji0F8P835J)
 - [Audio Data Augmentation](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=Xx4Fe8mE_N4e9jNK)
 - [Melody Generation with RNN-LSTM](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=OptLaX4Zm7mhovlo)
@@ -45,6 +45,10 @@ This page contains all the resources that I used for my masters thesis and my in
 
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 - [Computational Music Theory and Analysis](https://ocw.mit.edu/courses/21m-383-computational-music-theory-and-analysis-spring-2023/)
+
+## Speech Processing
+- [Introduction to Speech Processing](https://speechprocessingbook.aalto.fi/)
+- [The Monster Text To Speech and Voice Cloning Course](https://youtube.com/playlist?list=PL-wATfeyAMNorsfMFg0ISfD0rPDpMHA4R&si=SmT7E5J2HnCCAnv_)
 
 ## Generative AI
 
@@ -56,10 +60,6 @@ This page contains all the resources that I used for my masters thesis and my in
 
 - [PAT 463: Music & AI](https://hermandong.com/teaching/) - [playlist](https://youtube.com/playlist?list=PL60KY8VSvHggZD_Uym-GA7v5RWu4KrBCL&si=_W-fWNLwk_n6tlwp)
 - [PAT 464: Generative AI for Music and Audio Creation](https://hermandong.com/teaching/)
-
-## Speech Processing
-
-- [The Monster Text To Speech and Voice Cloning Course](https://youtube.com/playlist?list=PL-wATfeyAMNorsfMFg0ISfD0rPDpMHA4R&si=SmT7E5J2HnCCAnv_)
 
 ## Potpurri
 
@@ -73,10 +73,38 @@ This page contains all the resources that I used for my masters thesis and my in
 - `MNIST` - [PyTorch Datasets](https://docs.pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
 - `GTZAN` - [kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
-## Resources
+## Conferences 
+### Audio 
+- [ICASSP](https://ieeeicassp.org/) 
+- [DCase](https://dcase.community/)
+- [DaFX](https://www.dafx.de/) 
+- [SANE](https://www.saneworkshop.org/sane2026/)
+- [WASPAA](https://waspaa.com/) - odd years 
+- [IWAENC](https://www.iwaenc.org/) - even years
 
+#### Music 
+- [ISMIR](https://ismir.net/) 
+- [NIME](https://nime.org/) 
+- [SMC](https://smcnetwork.org/index.html)
+- [ICMC](https://www.computermusic.org/)
+- [AIMC](https://aimusiccreativity.org/)
+
+#### Speech 
+- [Interspeech](https://interspeech2026.org/en-AU)
+
+### Machine Learning 
+Be aware that these conferences have a lot of problems with submissions and reviewing. They sometimes have audio and music workshops but really depends on what the organizers decide every year.
+- [NeurIPS](https://neurips.cc/)
+- [ICLR](https://iclr.cc/)
+- [COLM](https://colm.eventhosts.cc/)
+
+### Human-AI Interaction 
+- [CHI](https://chi2027.acm.org/)
+- [UIST](https://uist.acm.org/2026/)
+
+## Resources
 - [ISMIR Education Materials](https://ismir.net/resources/educational-materials/)
-- [Meinard Müller PCPT PyTorch](https://audiolabs-erlangen.de/resources/MIR/PCPT/PCPT.html)
-- [Meinard Müller FMP Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
-- [Meinard Müller PCP Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/PCP/PCP.html)
+- [AudioLabs @ FAU](https://www.audiolabs-erlangen.de/fau)
 - [Silvia Sapora guide for preparing for ML Engineer Interviews](https://silviasapora.github.io/blog/ml-interviews.html)
+- [Music AI Reading Group](https://mclemcrew.github.io/music-ai-reading-group/)
+
