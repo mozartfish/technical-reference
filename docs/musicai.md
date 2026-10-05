@@ -44,7 +44,7 @@ This page contains all the resources that I used for my masters thesis and my in
 ## Music Processing
 
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
-- [Computational Music Theory and Analysis](https://youtu.be/0lS7yWCavKw?si=5C84HPyHMlGvGRii) - [MIT OCW Page](https://ocw.mit.edu/courses/21m-383-computational-music-theory-and-analysis-spring-2023/)
+- [Computational Music Theory and Analysis](https://youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R&si=R-ogH_-_PEoG7bfF) - [MIT OCW Page](https://ocw.mit.edu/courses/21m-383-computational-music-theory-and-analysis-spring-2023/)
 
 ## Speech Processing
 - [Introduction to Speech Processing](https://speechprocessingbook.aalto.fi/)
